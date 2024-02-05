@@ -1,0 +1,29 @@
+NAME: OracleEstate
+
+
+PLAN
+MON: git preparations ~30min, analyse immoweb together, github projects, code skeleton in group ~2-3hours, divide the coding workload among us (which methods etc)
+TUE: solo coding, to be determined
+WED: solo coding, to be determined
+THU: discuss concurrency after having tested at home
+FRI: to be determined
+
+
+
+sebastiaan: github main repo management, software developer
+
+cédric: software developer, code reviewer
+
+mark: github projects (kanban) management, software developer
+
+
+
+scraping details:
+- content tag: <a class="card__title-link">
+
+- pages to scrape (change number for other pages): https://www.immoweb.be/en/search/house-and-apartment/for-sale?countries=BE&priceType=SALE_PRICE&page=1&orderBy=relevance
+  figure out max number of pages OR EXTRACT FROM FIRST PAGE: 333 (as of today)
+  XPATH OF BTN ON PAGE 1 (in order to find max pages): //*[@id="searchResults"]/div[3]/div/div[1]/div[1]/div[1]/div/div[1]/div/nav/ul/li[5]/a/span[2]
+
+- find <th> containing fieldname, then find next sibling and get its text.
+
