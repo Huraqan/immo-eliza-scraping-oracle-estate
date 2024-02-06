@@ -7,7 +7,7 @@ from scrapy.crawler import CrawlerProcess
 class ImmoSpider(scrapy.Spider):
     name = "immoweb"
     
-    def __init__(self):
+    def __init__(self, ):
         logging.getLogger('scrapy').setLevel(logging.CRITICAL)
         
         with open("urls.txt") as f:
