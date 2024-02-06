@@ -24,6 +24,27 @@ This is another regular paragraph.
 
 ## Contributors
 
+<style>
+    .contributor-img {
+        border-radius: 50%;
+        width: 160px;
+        height: 160px;
+        margin: 10px;
+    }
+</style>
+
+<div style="display: flex;">
+    <a href="https://github.com/Huraqan">
+        <img src="https://github.com/Huraqan.png" alt="Sebastiaan Indesteege" class="contributor-img">
+    </a>
+    <a href="https://github.com/Lucky-sketch">
+        <img src="https://github.com/Lucky-sketch.png" alt="Mark Shevchenko" class="contributor-img">
+    </a>
+    <a href="https://github.com/neverforgetthisusername">
+        <img src="https://github.com/neverforgetthisusername.png" alt="Cédric" class="contributor-img">
+    </a>
+</div>
+
 <div style="display: flex; align-items: center;">
     <a href="https://github.com/Huraqan">
         <img src="https://github.com/Huraqan.png" alt="Sebastiaan Indesteege" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 10px;">
