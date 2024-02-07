@@ -6,13 +6,13 @@ def deploy_crawler():
     # Specify the output file and format
     output_settings = {
         "FEEDS": {
-            "output.csv": {
+            "output_data/output.csv": {
                 "format": "csv",
                 "overwrite": True,
                 "fields_to_export": None,  # Export all fields
                 "export_empty_fields": True,  # Include null values for missing fields
             },
-            "output.json": {
+            "output_data/output.json": {
                 "format": "json",
                 "overwrite": True,
             }
