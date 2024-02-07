@@ -1,4 +1,7 @@
 .DS_Strore
+output.csv
+output.json
+urls.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
