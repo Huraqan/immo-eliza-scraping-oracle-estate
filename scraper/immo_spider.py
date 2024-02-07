@@ -40,7 +40,7 @@ class ImmoSpider(scrapy.Spider):
     allowed_domains = ["immoweb.be"]
     start_urls = []
 
-    for x in range(1, 51):
+    for x in range(1, 11):
         start_urls.append(url_head + str(x) + url_tail)
 
     def parse(self, response):
@@ -74,7 +74,7 @@ class ImmoSpider(scrapy.Spider):
             "type of sale": split_url[1],
         }
 
-        for row in response.css("tbody.classified-table__body"):
+        for row in response.css("tr.classified-table__row"):
             key = row.css("th.classified-table__header::text").get()
             value = row.css("td.classified-table__data::text").get()
 
