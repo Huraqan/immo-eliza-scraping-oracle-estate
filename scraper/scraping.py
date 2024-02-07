@@ -1,41 +1,27 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
+from random import uniform
+import scraper.utils
 
 
 class ImmoSpider(scrapy.Spider):
     name = "immoweb"
     allowed_domains = ["immoweb.be"]
     start_urls = []
-    for x in range(333):
-        start_urls.append(f"https://www.immoweb.be/en/search/house/for-sale?countries=BE&page={x}&orderBy=postal_code")
-        # start_urls.append(f"https://www.immoweb.be/en/search/appartement/for-sale?countries=BE&page={x}&orderBy=postal_code")
+    for i in range(1,2):
+        start_urls.append(f"https://www.immoweb.be/en/search/house-and-apartment/for-sale?countries=BE&page={i}&orderBy=relevance")
     
     def parse(self, response):
-        for obj in response.css('a.card__title-link'):
+        for obj in response.css('a.card__title-link'):            
             url = response.urljoin(obj.attrib["href"]) #normalize and convert probable relative urls to absolute
+            if "new-real-estate-project-apartments" in url  or "new-real-estate-project-houses" in url: continue
             yield response.follow(url, self.parse_property_page) #follow: automatically find urls(extracting hrefs) then sends a request to that URL and then calls the parse_property_page
 
     def parse_property_page(self, response):
         split_url = response.url[37:].split("/")
         price = response.css("p.classified__price span.sr-only::text").get()
         price = price.replace("€","")
-        house_subtypes = [
-    "bungalow",
-    "chalet",
-    "castle",
-    "farmhouse",
-    "country-house",
-    "exceptional-property",
-    "apartment-block",
-    "mixed-use-building",
-    "town-house",
-    "mansion",
-    "villa",
-    "other-properties",
-    "manor-house",
-    "pavilion",
-    "house"
-]
+        house_subtypes = scraper.utils.house_subtypes
 
         property_type = "house" if split_url[0] in house_subtypes else "appartment"
 
@@ -54,7 +40,7 @@ class ImmoSpider(scrapy.Spider):
             "Furnished": 0,
             "Open fire": 0,
             "Terrace surface": None,
-            "Garden surface": None,#sometimes in description only
+            "Garden surface": None, #sometimes in description only
             "Surface of the plot": None,
             "Number of facades": None, #from description
             "Swimming pool": 0,
@@ -80,12 +66,12 @@ class ImmoSpider(scrapy.Spider):
                 value_mapping = {
                     "Yes": 1,
                     "No": 0,
-                    "Not specified": None,
-
+                    "Not specified": None
                 }
 
                 # Convert value using the dictionary mapping
                 value = value_mapping.get(value, value)
+
             if key == "Kitchen type":
                 value = 0 if value == "Not installed" else 1
 
@@ -93,32 +79,4 @@ class ImmoSpider(scrapy.Spider):
                 data[key] = value
 
 
-            print(f"Key: {key}, Value: {value}")
-
         yield data
-        
-def deploy_crawler():
-    # Specify the output file and format
-    output_settings = {
-        "FEEDS": {
-            "output.csv": {
-                "format": "csv",
-                "overwrite": True,
-                "fields_to_export": None,  # Export all fields
-                "export_empty_fields": True,  # Include null values for missing fields
-            },
-            "output.json": {
-                "format": "json",
-                "overwrite": True,
-            },
-        },
-        "DOWNLOAD_DELAY": 2,  # Set the delay to 2 seconds between requests
-    }
-
-    # Create a CrawlerProcess with the spider and output settings
-    process = CrawlerProcess(settings=output_settings)
-    process.crawl(ImmoSpider)
-
-    # Start the crawling process
-    process.start()
-
