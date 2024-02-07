@@ -25,14 +25,6 @@ This is another regular paragraph.
 
 ## Contributors
 
-[![](https://github.com/Huraqan.png)](https://github.com/Huraqan)
-[![](https://github.com/Lucky-sketch.png)](https://github.com/Lucky-sketch)
-[![](https://github.com/neverforgetthisusername.png)](https://github.com/neverforgetthisusername)
-
-<div align="center">
-    <img src="contributors.svg" width="200" height="200" alt="Contributors">
-</div>
-
 <div style="display: flex; align-items: center;">
     <a href="https://github.com/Huraqan">
         <img src="https://github.com/Huraqan.png" alt="Sebastiaan Indesteege" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 10px;">
