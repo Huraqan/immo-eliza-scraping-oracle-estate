@@ -24,25 +24,12 @@ This is another regular paragraph.
 
 ## Contributors
 
-<style>
-    .contributor-img {
-        border-radius: 50%;
-        width: 160px;
-        height: 160px;
-        margin: 10px;
-    }
-</style>
+[![](https://github.com/Huraqan.png)](https://github.com/Huraqan)
+[![](https://github.com/Lucky-sketch.png)](https://github.com/Lucky-sketch)
+[![](https://github.com/neverforgetthisusername.png)](https://github.com/neverforgetthisusername)
 
-<div style="display: flex;">
-    <a href="https://github.com/Huraqan">
-        <img src="https://github.com/Huraqan.png" alt="Sebastiaan Indesteege" class="contributor-img">
-    </a>
-    <a href="https://github.com/Lucky-sketch">
-        <img src="https://github.com/Lucky-sketch.png" alt="Mark Shevchenko" class="contributor-img">
-    </a>
-    <a href="https://github.com/neverforgetthisusername">
-        <img src="https://github.com/neverforgetthisusername.png" alt="Cédric" class="contributor-img">
-    </a>
+<div align="center">
+    <img src="contributors.svg" width="200" height="200" alt="Contributors">
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -88,21 +75,24 @@ This is another regular paragraph.
 ## Preparing for unforseen consequences...
 
 ### Duplicates
-<div style="display: flex;">
-    <div style="
-        width: 200px;
-        height: 200px;
-        background-image: url('duplicates.png');
-        background-size: cover;
-        border-radius: 10px;
-        box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);"
-    ></div>
-    <div style="flex: 1; padding-left: 10px;">
-        <p>The presence of duplicates may be attributed to the occurrence of identical listings across different pages of search results, often marked as "new" (as illustrated in the image on the left). To resolve this issue, we can simply add URLs to a set, ensuring the elimination of duplicates.</p>
-        <code style="display: block;">links_set.add([property_url["href"] for property_url in property_urls])</code>
-        <br><code style="display: block;">self.property_urls_set.update(links_set)</code></br>
-    </div>
-</div>
+
+<img src="duplicates.png" align="left" width="200px"/>
+The presence of duplicates may be attributed to the occurrence of identical listings across different pages of search results, often marked as "new" (as illustrated in the image on the left). To resolve this issue, we can simply add URLs to a set, ensuring the elimination of duplicates.
+<br clear="left"/>
+
+```python
+    def scrape_property_urls(self, url: str):
+        ...
+
+        links_set = set()
+        
+        for property_url in property_urls:
+            ...
+            
+            links_set.add(property_url["href"])
+
+        self.property_urls.update(links_set)
+```
 
 ## Unveiling the Matrix
 
