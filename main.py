@@ -1,6 +1,6 @@
 from time import perf_counter
 
-from scraper.scrapy_test import deploy_crawler
+from scraper.immo_spider import deploy_crawler
 
 
 if __name__ == "__main__":
@@ -15,8 +15,6 @@ if __name__ == "__main__":
     t = perf_counter()
 
     deploy_crawler()
-    
-
     
     print("\nFinal time taken to scrape specs on all the properties:", perf_counter() - t)
         
