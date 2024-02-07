@@ -1,10 +1,23 @@
-from re import compile
+from time import perf_counter
 
-import selenium
-from bs4 import BeautifulSoup
-from pandas import DataFrame
-from requests import Session
+from scraper.scrapy_test import deploy_crawler
 
 
 if __name__ == "__main__":
-    pass
+    print(
+        "\n"
+        + "\n================================================================="
+        + "\n||                        ORACLE-ESTATE                        ||"
+        + "\n================================================================="
+        + "\n"
+    )
+
+    t = perf_counter()
+
+    deploy_crawler()
+    
+
+    
+    print("\nFinal time taken to scrape specs on all the properties:", perf_counter() - t)
+        
+        
