@@ -34,24 +34,23 @@ value_mapping = {
 class ImmoSpider(scrapy.Spider):
     def __init__(self):
         # Suppress massive amounts of annoying log messages
-        logging.getLogger("scrapy").setLevel(logging.CRITICAL)
+        logging.getLogger("scrapy").setLevel(logging.ERROR)
     
     name = "immospider"
     allowed_domains = ["immoweb.be"]
     start_urls = []
 
-    for x in range(1, 11):
+    for x in range(1, 2):
         start_urls.append(url_head + str(x) + url_tail)
 
     def parse(self, response):
         print("Parsing search-results page:", response.url)
         
         for obj in response.css("a.card__title-link"):
-            # Normalize and convert possible relative urls to absolute
+            # Convert possible relative urls to absolute
             url = response.urljoin(obj.attrib["href"])
 
-            # Follow: automatically find urls(extracting hrefs)
-            # Then sends a request to that URL and finally calls the parse_property_page
+            # Followup request that calls parse_property_page()
             yield response.follow(url, self.parse_property_page)
 
     def parse_property_page(self, response):
@@ -110,7 +109,7 @@ def deploy_crawler():
             "output.csv": {
                 "format": "csv",
                 "overwrite": True,
-                "fields_to_export": None,  # Export all fields
+                "fields_to_export": None,  # No specific field means export all fields
                 "export_empty_fields": True,  # Include null values for missing fields
             },
         },
