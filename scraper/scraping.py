@@ -1,6 +1,4 @@
 import scrapy
-from scrapy.crawler import CrawlerProcess
-from random import uniform
 import scraper.utils
 
 
