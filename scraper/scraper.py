@@ -30,14 +30,5 @@ class ImmoWebScraper:
         """
         leaders_summary: list = []
 
-        for country, leaders in self.leaders_data.items():
-           for leader in leaders:
-                leaders_summary.append({
-                        "Country": country,
-                        "Leader": f"{leader["first_name"]} {leader["last_name"]}",
-                        "First Paragraph": leader["paragraph"],
-                    }
-                )
-
         df = DataFrame.from_dict(leaders_summary)
         df.to_csv(filename, index=False, header=True)
