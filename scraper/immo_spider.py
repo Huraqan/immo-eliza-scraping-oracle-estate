@@ -35,12 +35,13 @@ class ImmoSpider(scrapy.Spider):
     def __init__(self):
         # Suppress massive amounts of annoying log messages
         logging.getLogger("scrapy").setLevel(logging.ERROR)
+        self.scrape_counter = 0
     
     name = "immospider"
     allowed_domains = ["immoweb.be"]
     start_urls = []
 
-    for x in range(1, 2):
+    for x in range(1, 3):
         start_urls.append(url_head + str(x) + url_tail)
 
     def parse(self, response):
@@ -54,23 +55,28 @@ class ImmoSpider(scrapy.Spider):
             yield response.follow(url, self.parse_property_page)
 
     def parse_property_page(self, response):
-        print("Parsing property page:", response.url)
+        self.scrape_counter += 1
+        print("Parsing property page:", self.scrape_counter, "url:", response.url)
         
         split_url = response.url[37:].split("/")
         price = response.css("p.classified__price span.sr-only::text").get()
         price = price.replace("€", "")
-
+        
         property_type = "house" if split_url[0] in house_subtypes else "appartment"
 
         data = {
-            "url": response.url,
-            "id": int(split_url[4]),
-            "locality name": split_url[2],
-            "postal code": int(split_url[3]),
-            "price": price,
-            "property type": property_type,
-            "property subtype": split_url[0],
-            "type of sale": split_url[1],
+            "Url": response.url,
+            "Id": int(split_url[4]),
+            "Locality name": split_url[2],
+            "Postal code": int(split_url[3]),
+            "Price": price,
+            "Property type": property_type,
+            "Property subtype": split_url[0],
+            "Type of sale": split_url[1],
+            "Fireplaces:": 0,
+            "Swimming pool": 0,
+            "Kitchen type:": 0,
+            "Swimming pool": 0,
         }
 
         for row in response.css("tr.classified-table__row"):
@@ -91,7 +97,14 @@ class ImmoSpider(scrapy.Spider):
                 value = int(value)
             except:
                 value = value_mapping.get(value, value)
-
+        
+            if key == "Kitchen type":
+                value = 0 if value == "Not installed" else 1
+        
+            if key == "How many fireplaces?":
+                key = "Fireplaces"
+                value = 0 if value == 0 else 1
+            
             # Storing data
             data[key] = value
         

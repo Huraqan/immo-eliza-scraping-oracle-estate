@@ -2,6 +2,9 @@
 output.csv
 output.json
 urls.txt
+field_name_occurences.json
+field_names.json
+scraper/scrapy_mark.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
