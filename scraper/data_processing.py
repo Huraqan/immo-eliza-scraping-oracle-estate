@@ -1,6 +1,6 @@
-# import pandas as pd
+import pandas as pd
 
-#to rename columns if needed
+# to rename columns if needed
 
 
     # df = pd.read_csv('output.csv')

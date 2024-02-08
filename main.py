@@ -13,6 +13,7 @@ if __name__ == "__main__":
     )
 
     t = perf_counter()
+    
 
     deploy_crawler()
     

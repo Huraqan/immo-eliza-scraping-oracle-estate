@@ -2,7 +2,9 @@ from scrapy.crawler import CrawlerProcess
 from scraper.scraping import ImmoSpider
 # from scraper.data_processing import process_data
 
+
 def deploy_crawler():
+
     # Specify the output file and format
     output_settings = {
         "FEEDS": {
@@ -26,4 +28,5 @@ def deploy_crawler():
 
     # Start the crawling process
     process.start()
+
 
