@@ -1,5 +1,6 @@
 import json
 
+
 allowed_field_names = [
     "Address",
     "Age of annuitant",
@@ -122,10 +123,16 @@ def extract_field_names(data: list) -> list:
     # Sort fields (optional)
     sorted_field_names = sorted(list(set_of_field_names))
     
-    with open("field_names.json", "w") as file:
+    with open("data/raw/field_names.json", "w") as file:
         json.dump(sorted_field_names, file)
     
     return sorted_field_names
+
+def structure_data():
+    with open("data/raw/output.json", "r") as file:
+        json_content = json.load(file)
+        extract_field_names(json_content)
+        structure_dictionaries(json_content)
 
 def structure_dictionaries(data: list) -> list:
     print("\nStructuring data...")
