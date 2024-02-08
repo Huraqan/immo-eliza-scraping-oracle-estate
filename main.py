@@ -1,9 +1,7 @@
-import json
 from time import perf_counter
 
-from scraper.immo_spider import deploy_crawler
-from scraper.structure_data import structure_data
-
+from scraper.data_processing import restructure_data
+from scraper.deployment import deploy_crawler
 
 if __name__ == "__main__":
     print(
@@ -18,8 +16,6 @@ if __name__ == "__main__":
 
     deploy_crawler()
 
-    structure_data()
-
     t = perf_counter() - t
 
     print(
@@ -30,4 +26,6 @@ if __name__ == "__main__":
         "seconds.",
     )
     
-    print("\n\nThank you for scraping ImmoWeb, they're scammers anyway!\n\n")
+    restructure_data()
+
+    print("\n\nThank you for choosing ORACLE-ESTATE!\n\n")

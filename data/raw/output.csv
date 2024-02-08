@@ -1,1165 +1,296 @@
-Property ID,Locality name,Postal code,Price,Type of property,Subtype of property,Type of sale,Bedrooms,Living area,Kitchen type,Furnished,Fireplaces,Terrace surface,Garden surface,Surface of the plot,Number of facades,Swimming pool,Building condition
-11129063,lede,9340,320405,appartment,apartment,for-sale,2,95,1,0,0,10,,,,0,
-11129068,lede,9340,478741,appartment,apartment,for-sale,2,143,1,0,0,51,,,,0,
-11129066,aalst,9300,357500,appartment,apartment,for-sale,3,107,1,0,0,20,,,,0,
-11129071,aalst,9300,334200,appartment,apartment,for-sale,1,105,1,0,0,15,,,,0,
-11129076,aalst,9300,315200,appartment,apartment,for-sale,1,99,1,0,0,15,,,,0,
-11128434,ixelles,1050,1150000,appartment,duplex,for-sale,3,220,1,0,0,30,,,,0,As new
-11128432,geraardsbergen,9506,480000,house,house,for-sale,3,185,1,0,0,40,1250,1575,,0,Good
-11128436,braine-l%27alleud,1421,3085000,house,exceptional-property,for-sale,6,800,1,0,0,,,7554,,0,Good
-11128435,chaudfontaine,4050,95000,house,house,for-sale,3,95,1,0,0,,,,,0,To renovate
-11128431,geraardsbergen,9500,480000,house,house,for-sale,3,185,1,0,0,40,1250,1575,,0,Good
-11128443,melsele,9120,843000,appartment,apartment,for-sale,3,182,1,0,0,18,,,,0,As new
-11128433,mechelen,2800,345000,house,house,for-sale,3,232,1,0,0,,,175,,0,To be done up
-11128448,antwerp,2060,290000,house,house,for-sale,4,180,1,0,0,20,,104,,0,To renovate
-11085399,etterbeek,1040,1200000,house,apartment-block,for-sale,5,359,1,0,0,10,70,225,,0,As new
-11128445,melsele,9120,590000,appartment,apartment,for-sale,2,121,1,0,0,8,,,,0,As new
-11128451,brasschaat,2930,2950000,house,villa,for-sale,4,595,1,0,0,,,4522,,0,As new
-11128450,li%C3%A8ge,4000,295000,house,house,for-sale,4,294,0,0,0,7,125,192,,0,To renovate
-11128444,malle,2390,388000,house,house,for-sale,4,227,1,0,0,,,1764,,0,To renovate
-11128446,melsele,9120,599000,appartment,apartment,for-sale,2,114,1,0,0,9,,,,0,As new
-11128413,heist-op-den-berg,2220,525132,house,house,for-sale,3,160,1,0,0,,,1017,,0,As new
-11128416,heist-op-den-berg,2220,629239,house,house,for-sale,4,233,1,0,0,,,1017,,0,As new
-11128418,bonheiden,2820,943429,house,house,for-sale,4,317,1,0,0,21,,2100,,0,As new
-11128412,zoersel,2980,523597,house,house,for-sale,3,176,1,0,0,,,552,,0,As new
-11128417,bonheiden,2820,761763,house,house,for-sale,3,256,1,0,0,,,2100,,0,As new
-10990841,etterbeek,1040,1095000,house,mixed-use-building,for-sale,5,450,1,0,0,9,140,209,,0,Good
-11128414,heist-op-den-berg,2220,576316,house,house,for-sale,3,181,1,0,0,,,1017,,0,As new
-11128419,bonheiden,2820,802120,house,house,for-sale,3,255,1,0,0,,,2100,,0,As new
-11128422,mol,2400,472772,house,house,for-sale,4,180,1,0,0,,,1848,,0,As new
-11128420,mol,2400,518032,house,house,for-sale,3,182,1,0,0,,,1848,,0,As new
-11128421,tisselt,2830,349000,house,mixed-use-building,for-sale,3,359,1,0,0,,,,,0,
-11128423,saint-ghislain%20neufmaison,7332,360309,house,house,for-sale,3,189,1,0,0,,,1310,,0,As new
-11128425,saint-ghislain%20neufmaison,7332,350426,house,house,for-sale,4,147,1,0,0,,,1180,,0,As new
-11128424,saint-ghislain%20neufmaison,7332,331227,house,house,for-sale,3,147,1,0,0,,,1180,,0,As new
-11128426,saint-ghislain%20neufmaison,7332,373632,house,house,for-sale,3,160,1,0,0,,,1180,,0,As new
-11128453,antwerp,2000,1495000,appartment,duplex,for-sale,3,125,1,0,0,100,,,,0,As new
-11128429,falaen,5522,595000,house,exceptional-property,for-sale,6,440,1,0,1,,,1120,,0,Just renovated
-11128430,sint-pieters-leeuw,1600,435000,appartment,loft,for-sale,1,175,1,0,0,,,,,0,Good
-11128428,ramillies,1367,499000,house,house,for-sale,5,275,1,0,0,27,,495,,0,Good
-11128457,brugge,8380,217000,house,house,for-sale,3,225,1,0,0,,,232,,0,To renovate
-11128458,beernem,8730,245000,appartment,apartment,for-sale,3,104,1,0,0,4,,,,0,As new
-11128456,scherpenheuvel-zichem,3270,509000,house,house,for-sale,5,277,1,0,0,,,802,,0,
-11128468,vorselaar,2290,215000,appartment,apartment,for-sale,1,57,1,0,0,20,,,,0,Good
-11128459,brugge,8000,279000,house,house,for-sale,2,146,1,0,0,,25,84,,0,Good
-11128460,bruxelles,1120,279000,appartment,apartment,for-sale,2,80,1,0,0,8,,,,0,Good
-11128467,diest,3290,265000,appartment,duplex,for-sale,2,121,1,0,0,4,,,,0,
-11128470,chaudfontaine,4050,319000,house,villa,for-sale,4,194,1,0,0,13,163,469,,0,To renovate
-11128469,li%C3%A8ge,4000,219000,house,house,for-sale,3,180,1,0,0,65,,309,,0,Just renovated
-11128471,tubize,1480,330000,house,house,for-sale,4,160,1,0,0,,200,282,,0,Good
-11128472,tubize,1480,275000,house,house,for-sale,3,120,1,0,0,,,189,,0,Good
-10902181,etterbeek,1040,825000,house,apartment-block,for-sale,4,265,1,0,0,15,110,180,,0,To be done up
-11075462,etterbeek,1040,930000,house,apartment-block,for-sale,4,340,1,0,0,,200,330,,0,Good
-10946788,etterbeek,1040,1950000,house,apartment-block,for-sale,8,450,1,1,0,30,100,292,,0,Good
-10815509,etterbeek,1040,1650000,house,house,for-sale,7,485,1,0,0,,365,565,,0,Good
-11080245,etterbeek,1040,1495000,house,mansion,for-sale,5,375,1,0,0,,130,310,,0,To renovate
-11055906,etterbeek,1040,1485000,house,mansion,for-sale,5,472,1,0,0,,200,355,,0,Just renovated
-10563825,etterbeek,1040,479000,house,house,for-sale,5,170,1,0,0,,,67,,0,To be done up
-10709080,etterbeek,1040,440000,house,house,for-sale,4,189,1,0,0,,87,135,,0,To renovate
-10926800,etterbeek,1040,1395000,house,house,for-sale,5,433,1,0,0,10,90,180,,0,As new
-10829656,etterbeek,1040,1495000,house,villa,for-sale,6,275,1,0,0,,,645,,0,As new
-11031038,etterbeek,1040,1650000,house,house,for-sale,7,466,1,0,0,30,87,210,,0,To be done up
-10952442,etterbeek,1040,1150000,house,exceptional-property,for-sale,5,297,1,0,0,10,30,125,,0,Just renovated
-11021491,etterbeek,1040,550000,house,house,for-sale,4,230,1,0,0,,30,83,,0,To be done up
-11022969,etterbeek,1040,965000,house,house,for-sale,5,200,1,0,0,,90,175,,0,Good
-10985513,etterbeek,1040,425000,house,house,for-sale,4,225,0,0,0,,30,103,,0,To renovate
-10249425,etterbeek,1040,795000,house,house,for-sale,9,355,1,0,0,,80,,,0,To renovate
-10952430,etterbeek,1040,1150000,house,house,for-sale,5,297,1,0,0,2,27,125,,0,Just renovated
-10987495,etterbeek,1040,895000,house,house,for-sale,6,270,1,0,0,,30,110,,0,As new
-10831130,etterbeek,1040,1495000,house,house,for-sale,6,275,1,0,0,40,300,632,,0,To be done up
-10538749,schaerbeek,1030,525000,house,apartment-block,for-sale,5,220,1,0,0,,20,,,0,
-10832715,etterbeek,1040,1150000,house,house,for-sale,6,300,1,0,0,40,150,260,,0,As new
-10910440,schaerbeek,1030,289000,house,house,for-sale,5,160,1,0,0,,,,,0,
-11042220,schaerbeek,1030,435000,house,house,for-sale,3,180,1,0,0,,75,,,0,
-10801482,schaerbeek,1030,430000,house,apartment-block,for-sale,4,205,1,0,0,,,,,0,To renovate
-10949435,etterbeek,1040,850000,house,town-house,for-sale,5,352,1,0,0,32,120,319,,0,To renovate
-10904504,schaerbeek,1030,349000,house,house,for-sale,5,171,1,0,0,,22,,,0,
-11044944,schaerbeek,1030,529000,house,house,for-sale,4,273,1,0,0,23,,,,0,
-11128483,temse,9140,985000,house,villa,for-sale,3,401,1,0,0,,3800,4150,,0,As new
-11128473,tubize,1480,195000,house,house,for-sale,3,136,0,0,0,20,,438,,0,To be done up
-11128475,antwerp,2000,2395000,appartment,penthouse,for-sale,3,302,1,0,0,78,,,,0,As new
-11128481,ninove,9400,299000,house,mixed-use-building,for-sale,3,178,0,0,0,110,,615,,0,To be done up
-11128484,malmedy,4960,150000,appartment,triplex,for-sale,2,76,1,1,0,30,,,,0,Good
-11128474,temse,9140,1450000,house,villa,for-sale,9,825,1,0,0,,,4670,,0,As new
-11128493,arendonk,2370,395000,house,house,for-sale,6,,1,0,0,25,,990,,0,Good
-11128500,wavre,1300,298000,appartment,apartment,for-sale,1,82,1,0,0,10,,,,0,As new
-10975158,knokke-heist,8300,1099000,appartment,apartment,for-sale,2,118,1,0,0,,,,,0,As new
-11128503,fosses-la-ville,5070,885000,house,exceptional-property,for-sale,2,170,1,0,0,,,3294,,0,As new
-11128496,arendonk,2370,398000,house,house,for-sale,3,167,1,0,0,,,1559,,0,Good
-11128507,rixensart,1330,250000,appartment,apartment,for-sale,1,70,1,0,0,6,,,,0,Good
-10972903,schaerbeek,1030,595000,house,apartment-block,for-sale,5,225,1,0,0,,,,,0,
-11128505,geel,2440,200000,house,house,for-sale,4,175,1,0,0,,550,630,,0,To renovate
-11128508,nivelles,1400,195000,appartment,apartment,for-sale,2,70,1,1,0,,,,,0,Good
-11128506,herentals,2200,245000,house,house,for-sale,3,,1,0,0,,253,324,,0,To be done up
-11128502,antwerp,2020,309000,house,house,for-sale,4,148,1,0,0,11,,97,,0,Good
-10322963,schaerbeek,1030,320000,house,house,for-sale,4,200,1,0,0,,,,,0,
-10804330,schaerbeek,1030,539000,house,apartment-block,for-sale,5,224,1,0,0,,,,,0,
-10421189,schaerbeek,1030,359000,house,house,for-sale,4,217,1,0,0,,,,,0,
-10356246,schaerbeek,1030,545000,house,apartment-block,for-sale,5,225,1,0,0,,,70,,0,To be done up
-10428894,schaerbeek,1030,375000,house,apartment-block,for-sale,6,200,1,0,0,,,,,0,
-10804329,schaerbeek,1030,549000,house,house,for-sale,5,213,1,0,0,,40,,,0,
-11092365,schaerbeek,1030,499000,house,mixed-use-building,for-sale,5,210,1,0,0,,,,,0,
-11080153,schaerbeek,1030,390000,house,house,for-sale,4,170,1,0,0,20,,,,0,To renovate
-10879871,schaerbeek,1030,379000,house,apartment-block,for-sale,,,1,0,0,,,,,0,
-10994035,schaerbeek,1030,745000,house,house,for-sale,4,200,1,0,0,,,,,0,
-10849829,schaerbeek,1030,400000,house,town-house,for-sale,3,,1,0,1,,,,,0,Good
-10998245,schaerbeek,1030,745000,house,house,for-sale,4,200,1,0,0,,,,,0,
-10428891,schaerbeek,1030,375000,house,mixed-use-building,for-sale,6,200,1,0,0,3,,82,,0,
-11097920,schaerbeek,1030,365000,house,apartment-block,for-sale,3,101,1,0,0,9,,,,0,
-10979668,bruxelles-3,1030,599000,house,apartment-block,for-sale,10,,1,0,0,,,420,,0,
-10892836,schaerbeek,1030,580000,house,house,for-sale,4,,1,0,0,,1,,,0,Just renovated
-11090404,schaarbeek,1030,1330000,house,house,for-sale,5,316,1,0,0,1,1,310,,0,As new
-11001736,schaerbeek,1030,370000,house,house,for-sale,10,,0,0,0,,,195,,0,
-10858249,schaarbeek,1030,795000,house,house,for-sale,3,610,1,0,0,,,365,,0,
-11034477,schaarbeek,1030,649000,house,house,for-sale,4,190,1,0,0,,,204,,0,
-10984208,schaerbeek,1030,1175000,house,apartment-block,for-sale,,460,0,0,0,,,,,0,To be done up
-10473178,schaerbeek,1030,780000,house,mixed-use-building,for-sale,6,250,1,0,0,,,110,,0,
-10970056,schaerbeek,1030,850000,house,house,for-sale,6,326,1,0,0,,,,,0,Good
-10602020,schaerbeek,1030,749000,house,house,for-sale,7,268,1,0,0,23,60,180,,0,
-11023729,schaerbeek,1030,950000,house,house,for-sale,5,204,1,0,0,10,70,308,,0,To be done up
-10797201,schaerbeek,1030,349000,house,house,for-sale,3,165,1,0,0,,,57,,0,Good
-11104830,schaerbeek,1030,760000,house,house,for-sale,5,300,1,0,0,,,,,0,Just renovated
-11128512,dendermonde,9200,259000,appartment,apartment,for-sale,2,77,1,0,0,,,,,0,Good
-10690644,schaerbeek,1030,995000,house,apartment-block,for-sale,8,330,1,0,0,25,,,,0,Good
-11128511,dendermonde,9200,370000,house,house,for-sale,3,189,1,0,0,,,144,,0,As new
-11128513,zele,9240,195000,appartment,apartment,for-sale,2,,1,0,0,,,,,0,
-11128514,h%C3%A9ron%20couthuin,4218,349000,house,house,for-sale,4,225,1,0,0,70,,792,,0,Good
-11128519,keerbergen,3140,932000,house,villa,for-sale,5,340,1,0,0,,,1845,,0,As new
-11128518,boutersem,3370,399000,house,house,for-sale,3,181,1,0,0,40,,2317,,0,To renovate
-11128520,putte,2580,480000,house,house,for-sale,4,260,1,0,0,,600,898,,0,As new
-10876583,oud-heverlee,3050,325000,house,house,for-sale,4,121,1,0,0,15,400,592,,0,To renovate
-11034004,zellik,1731,325000,house,house,for-sale,4,144,0,0,0,,,322,,0,To renovate
-11128522,louvain-la-neuve,1348,145000,appartment,apartment,for-sale,1,30,1,0,0,,,,,0,Good
-11128523,louvain-la-neuve,1348,155000,appartment,apartment,for-sale,1,38,1,0,0,,,,,0,Good
-11128524,louvain-la-neuve,1348,175000,appartment,apartment,for-sale,1,46,1,0,0,,,,,0,Good
-11128529,bruxelles,1000,825000,appartment,apartment,for-sale,3,231,1,0,0,6,,,,0,As new
-11128527,amay,4540,175000,house,house,for-sale,6,130,1,0,0,,500,840,,0,Good
-11128530,saint-gilles,1060,620000,house,mixed-use-building,for-sale,4,200,1,0,0,,,50,,0,Good
-11128531,ixelles,1050,1150000,appartment,apartment,for-sale,4,240,1,0,0,6,,,,0,Good
-11128541,rocourt,4000,426728,house,house,for-sale,4,148,1,0,0,24,,522,,0,
-11128540,mons%20fl%C3%A9nu,7012,350000,house,house,for-sale,5,,1,0,0,,,1657,,0,As new
-10866901,schaerbeek,1030,360000,house,house,for-sale,3,175,1,0,0,,,66,,0,To restore
-10982922,schaerbeek,1030,499000,house,house,for-sale,,214,1,0,0,,29,,,0,
-11128542,stembert,4801,545083,house,house,for-sale,5,225,1,0,0,,,634,,0,
-11074990,rocourt,4000,401845,house,house,for-sale,3,170,1,0,0,26,,291,,0,
-11128545,waterloo,1410,860000,house,villa,for-sale,5,192,1,0,0,40,1200,1432,,0,Good
-11128546,waterloo,1410,325000,appartment,apartment,for-sale,3,102,1,0,0,6,,,,0,Good
-11128544,waterloo,1410,385000,house,house,for-sale,4,123,0,0,0,20,,507,,0,To renovate
-11069282,braine-l%27alleud,1420,325000,house,house,for-sale,3,200,1,0,0,18,,140,,0,To be done up
-11128549,herentals,2200,375000,house,house,for-sale,5,220,1,0,0,24,16,193,,0,
-11128550,ninove,9400,270000,house,house,for-sale,3,177,1,0,0,,,318,,0,To be done up
-11128551,la%20bruy%C3%A8re,5080,349000,house,villa,for-sale,3,137,1,0,0,,,1900,,0,Good
-10602239,dinant,5500,269000,house,mixed-use-building,for-sale,2,,1,0,0,,50,490,,0,Good
-11128557,oud-heverlee%20haasrode,3053,269000,appartment,duplex,for-sale,1,74,1,0,0,,,,,0,
-10385970,schaerbeek,1030,2435000,house,mansion,for-sale,6,650,1,0,1,,140,340,,0,Just renovated
-11128553,balen,2490,265000,house,house,for-sale,2,,1,0,0,,,721,,0,
-10912209,schaarbeek,1030,598000,house,mansion,for-sale,3,239,1,0,0,,40,116,,0,To renovate
-10679585,schaerbeek,1030,595000,house,house,for-sale,4,200,1,0,0,,,67,,0,To be done up
-10906733,schaerbeek,1030,399000,house,house,for-sale,4,260,1,0,0,11,68,175,,0,To renovate
-10909178,merksem,2170,159000,appartment,apartment,for-sale,2,80,1,0,0,5,,,,0,Good
-11041216,schaerbeek,1030,895000,house,apartment-block,for-sale,7,310,1,0,0,20,,100,,0,Good
-10866515,schaerbeek,1030,649000,house,house,for-sale,4,176,1,0,0,37,,75,,0,To be done up
-10847009,schaerbeek,1030,497000,house,apartment-block,for-sale,5,250,1,0,0,5,,,,0,
-10764203,schaerbeek,1030,640000,house,apartment-block,for-sale,5,300,1,0,0,,70,,,0,Good
-11062634,schaerbeek,1030,490000,house,house,for-sale,4,306,1,0,0,,,,,0,As new
-10285390,schaerbeek,1030,1100000,house,apartment-block,for-sale,,450,1,0,0,2,,,,0,To renovate
-10935328,schaerbeek,1030,200000,house,house,for-sale,2,92,1,0,0,,,,,0,To be done up
-10950591,schaerbeek,1030,450000,house,apartment-block,for-sale,5,250,1,0,0,,,,,0,
-10658510,schaerbeek,1030,379000,house,house,for-sale,3,140,1,0,0,,,,,0,Good
-10867551,schaerbeek,1030,579000,house,house,for-sale,7,266,1,0,0,,58,133,,0,To be done up
-10909361,schaerbeek,1030,640000,house,apartment-block,for-sale,10,370,1,0,0,,,370,,0,To renovate
-10131829,schaerbeek,1030,430000,house,house,for-sale,4,280,1,0,0,,100,195,,0,To renovate
-10746173,schaarbeek,1030,595000,house,house,for-sale,4,200,1,0,0,,,67,,0,To restore
-10859014,schaarbeek,1030,325000,house,house,for-sale,6,200,1,0,0,,,,,0,To renovate
-10553495,schaerbeek,1030,525000,house,house,for-sale,3,230,1,0,0,4,60,,,0,Just renovated
-11069485,schaerbeek,1030,590000,house,mixed-use-building,for-sale,5,450,1,0,0,57,,248,,0,To be done up
-10958360,schaerbeek,1030,380000,house,mixed-use-building,for-sale,5,240,1,0,0,,,65,,0,To renovate
-10933136,schaerbeek,1030,979000,house,apartment-block,for-sale,13,520,1,0,0,2,,113,,0,Good
-10925577,schaerbeek,1030,645000,house,mixed-use-building,for-sale,4,310,1,0,0,,,135,,0,To be done up
-10979751,schaerbeek,1030,425000,house,house,for-sale,4,141,0,0,0,,46,105,,0,To renovate
-10950631,schaarbeek,1030,1300000,house,apartment-block,for-sale,6,520,1,0,0,,,350,,0,To be done up
-10763174,schaerbeek,1030,650000,house,house,for-sale,5,290,1,0,0,12,190,280,,0,To be done up
-11045698,schaerbeek,1030,290000,house,house,for-sale,4,130,1,0,0,,,40,,0,To renovate
-11128558,leuven,3000,269000,appartment,duplex,for-sale,1,74,1,0,0,,,,,0,
-11089287,schaerbeek,1030,1345000,house,mixed-use-building,for-sale,47,961,1,0,0,20,,443,,0,To renovate
-10992165,schaerbeek,1030,1389000,house,apartment-block,for-sale,10,650,0,0,0,,,140,,0,Good
-11128561,merchtem,1785,265000,appartment,apartment,for-sale,2,80,1,0,0,,,,,0,As new
-11128560,charleroi,6043,180000,appartment,apartment,for-sale,2,105,1,1,0,8,,,,0,As new
-10938712,schaerbeek,1030,765000,house,mansion,for-sale,4,247,1,0,0,,55,157,,0,As new
-11128562,merchtem,1785,265000,appartment,apartment,for-sale,2,80,1,0,0,,,,,0,As new
-11128571,juprelle,4458,266163,appartment,apartment,for-sale,3,110,1,0,0,8,,,,0,As new
-11128570,antwerp,2000,212000,appartment,apartment,for-sale,1,55,1,0,0,12,,,,0,As new
-11128572,juprelle,4450,283375,appartment,apartment,for-sale,3,110,1,0,0,8,,,,0,
-11128573,juprelle,4458,391887,appartment,penthouse,for-sale,3,164,1,0,0,17,,,,0,As new
-11128575,keerbergen,3140,795000,house,house,for-sale,3,255,1,0,0,,,1380,,0,As new
-11128582,bruxelles,1000,1590000,appartment,penthouse,for-sale,4,320,1,0,0,35,,,,0,Just renovated
-11128591,erpe-mere,9420,1250000,house,exceptional-property,for-sale,25,1465,1,0,0,,,4505,,0,To be done up
-11128576,tremelo,3120,620000,house,house,for-sale,3,151,1,0,0,60,3000,3162,,0,As new
-11128577,destelbergen,9070,950000,house,exceptional-property,for-sale,4,340,1,0,0,,,24800,,0,Good
-11128597,neupr%C3%A9,4120,279000,appartment,apartment,for-sale,3,127,1,0,0,,,,,0,Good
-11128592,ciney,5590,270000,house,house,for-sale,3,105,1,0,0,,,655,,0,To renovate
-11128603,aiseau-presles,6250,319000,house,villa,for-sale,3,141,1,0,0,,,,,0,To be done up
-11128600,steenokkerzeel,1820,624000,house,house,for-sale,5,309,1,0,0,,,1189,,0,Good
-11128601,vilvoorde%20peutie,1800,495000,house,house,for-sale,3,128,1,0,0,48,,,,0,As new
-11128598,halle,1500,299000,appartment,duplex,for-sale,3,121,1,0,0,,,,,0,Good
-11128604,gerpinnes,6280,79000,appartment,flat-studio,for-sale,1,46,1,0,0,,,,,0,Good
-10997950,charleroi,6061,133000,house,house,for-sale,3,,1,0,0,200,,,,0,To renovate
-11128605,wichelen,9260,362000,house,house,for-sale,2,150,1,0,0,,180,283,,0,Just renovated
-11128606,herne,1540,675000,house,villa,for-sale,5,256,1,0,0,,,2338,,0,As new
-11128609,souvret,6182,77500,house,house,for-sale,1,115,1,0,0,,,,,0,Good
-11128614,antwerp,2000,1350000,house,apartment-block,for-sale,4,280,1,0,0,15,,92,,0,As new
-10466604,dendermonde,9200,135000,house,bungalow,for-sale,3,120,1,1,0,,,3634,,0,Good
-11128612,heist-op-den-berg,2220,338000,house,villa,for-sale,3,202,1,0,0,,,1085,,0,Good
-11128615,gent,9000,320000,appartment,apartment,for-sale,2,133,1,0,0,,,,,0,Good
-11128618,temse,9140,539000,house,mixed-use-building,for-sale,,,1,0,0,,,210,,0,To be done up
-11128610,gosselies,6041,260000,house,house,for-sale,5,175,1,0,0,15,,,,0,As new
-11095184,schaerbeek,1030,390000,house,house,for-sale,4,244,1,0,0,,,120,,0,Good
-11081508,schaerbeek,1030,620000,house,apartment-block,for-sale,9,280,1,0,0,41,,,,0,
-10940150,schaerbeek,1030,465000,house,house,for-sale,5,262,1,0,0,25,110,215,,0,Good
-10788724,schaerbeek,1030,450000,house,apartment-block,for-sale,4,230,1,0,0,,75,185,,0,Good
-11010085,schaerbeek-schaarbeek,1030,650000,house,house,for-sale,,,1,0,0,,,195,,0,
-10938683,schaerbeek,1030,445000,house,house,for-sale,2,,1,0,0,,53,,,0,Just renovated
-11098348,schaerbeek,1030,975000,house,apartment-block,for-sale,,460,1,0,0,,,,,0,
-10843480,schaerbeek,1030,570000,house,house,for-sale,4,,1,0,0,14,30,,,0,Good
-11094451,schaerbeek,1030,230000,house,house,for-sale,4,,1,0,0,,,80,,0,
-11005641,schaerbeek,1030,950000,house,apartment-block,for-sale,3,200,1,0,0,,,,,0,Good
-11116920,schaerbeek,1030,645000,house,house,for-sale,6,575,1,0,0,,,455,,0,
-10793276,schaerbeek,1030,595000,house,apartment-block,for-sale,7,305,1,0,0,15,,135,,0,
-11120461,schaerbeek,1030,645000,house,apartment-block,for-sale,6,575,1,0,0,,,455,,0,
-11035861,schaerbeek,1030,300000,house,house,for-sale,2,200,1,0,0,,,,,0,
-11088866,schaerbeek,1030,399000,house,house,for-sale,6,210,0,0,0,,44,92,,0,
-11120403,schaerbeek,1030,300000,house,house,for-sale,4,,1,0,0,,,233,,0,To renovate
-10719146,schaerbeek,1030,750000,house,apartment-block,for-sale,7,305,1,0,0,15,,135,,0,To renovate
-11092431,schaerbeek,1030,549000,house,house,for-sale,4,215,1,0,0,7,3,,,0,Good
-11100436,bruxelles,1030,1050000,house,mansion,for-sale,6,419,1,0,0,15,41,133,,0,As new
-10879098,schaerbeek,1030,319000,house,house,for-sale,3,200,0,0,0,20,,,,0,To restore
-10981239,schaerbeek,1030,349999,house,house,for-sale,2,90,1,0,0,5,,,,0,Good
-10816299,schaerbeek,1030,749000,house,mansion,for-sale,5,288,1,0,0,21,75,,,0,As new
-11113620,schaerbeek,1030,369000,house,house,for-sale,5,200,1,0,0,,,69,,0,To renovate
-11069238,schaerbeek,1030,599000,house,mixed-use-building,for-sale,8,350,1,0,0,,,199,,0,Good
-9703696,schaerbeek,1030,409000,house,apartment-block,for-sale,3,260,1,0,0,,82,,,0,To be done up
-11069235,schaerbeek,1030,599000,house,house,for-sale,8,350,1,0,0,,,199,,0,Good
-10723199,schaerbeek,1030,940000,house,town-house,for-sale,4,345,1,0,0,,,345,,0,Just renovated
-11060224,schaerbeek,1030,369000,house,apartment-block,for-sale,4,210,1,0,0,17,40,115,,0,To renovate
-10911144,schaerbeek,1030,379000,house,mansion,for-sale,3,124,1,0,0,,,,,0,To renovate
-11128622,berloz,4257,499000,appartment,apartment,for-sale,5,197,1,0,0,39,,,,0,As new
-11128619,ottignies,1340,259000,appartment,apartment,for-sale,2,71,1,0,0,5,,,,0,Good
-11128625,marcinelle,6001,180000,house,house,for-sale,5,191,1,0,0,10,48,180,,0,To be done up
-11128626,herstal,4040,184000,appartment,apartment,for-sale,2,,1,0,0,,,,,0,Good
-11075246,mons,7000,195000,appartment,apartment,for-sale,2,81,1,0,0,5,,,,0,Good
-11128623,waremme,4300,499000,appartment,apartment,for-sale,5,197,1,0,0,39,,,,0,As new
-11128621,wichelen%20schellebelle,9260,160000,house,house,for-sale,3,110,1,0,0,,,120,,0,To be done up
-10838609,spy,5190,315000,house,house,for-sale,3,140,1,0,0,,650,756,,0,As new
-11128628,glabbeek,3380,695000,house,house,for-sale,5,487,1,0,0,,6300,6998,,0,Good
-11128759,laeken,1020,145000,appartment,apartment,for-sale,2,62,1,0,0,,,,,0,To renovate
-11128632,chaudfontaine,4052,710000,house,exceptional-property,for-sale,5,290,1,0,0,40,1800,1937,,0,
-11128772,li%C3%A8ge,4020,235000,house,house,for-sale,5,,1,0,0,,,,,0,Good
-11128769,edegem,2650,289900,house,house,for-sale,4,187,1,0,0,15,,86,,0,To renovate
-11128633,chaudfontaine,4052,710000,house,apartment-block,for-sale,5,290,1,0,0,40,1800,1937,,0,
-11116530,schaerbeek,1030,540000,house,mixed-use-building,for-sale,4,250,1,0,0,,,75,,0,Good
-11128775,hoboken,2660,349000,house,house,for-sale,4,175,1,0,0,,77,180,,0,To be done up
-11128778,nettinne,5377,325000,house,house,for-sale,4,258,1,0,1,,1360,1360,,0,To renovate
-11128774,lierde,9570,431925,house,house,for-sale,3,209,1,0,0,23,,532,,0,As new
-11128779,de%20panne,8660,215000,appartment,apartment,for-sale,2,55,1,1,0,,,,,0,
-11128780,boortmeerbeek,3190,795000,house,apartment-block,for-sale,8,486,1,0,0,,,950,,0,To renovate
-11128781,soignies,7060,295000,appartment,apartment,for-sale,3,90,1,0,0,22,259,,,0,
-11128814,geel%20%28geel%29,2440,525000,house,house,for-sale,4,310,1,0,0,,,683,,0,
-11128831,antwerpen%20berchem,2600,469000,house,mansion,for-sale,5,233,1,0,0,25,,140,,0,To be done up
-11128825,antwerpen,2180,235000,appartment,apartment,for-sale,2,80,1,0,0,,,,,0,Just renovated
-11128815,zottegem,9620,349000,house,house,for-sale,3,148,1,0,0,,,572,,0,
-11128832,hoboken,2660,175000,appartment,apartment,for-sale,2,87,1,0,0,4,,,,0,Good
-11128844,gent%20sint-denijs-westrem,9051,459000,appartment,apartment,for-sale,2,108,1,0,0,4,,,,0,As new
-11128830,brussels%20city,1000,469000,appartment,apartment,for-sale,2,96,1,0,0,8,,,,0,As new
-11128846,gent%20sint-denijs-westrem,9051,398000,appartment,apartment,for-sale,2,95,1,0,0,3,,,,0,As new
-11128847,gent%20sint-denijs-westrem,9051,369000,appartment,apartment,for-sale,2,85,1,0,0,5,,,,0,As new
-11128639,mol,2400,235000,appartment,ground-floor,for-sale,2,104,1,0,0,25,,,,0,Good
-11128635,tubize,1480,350000,house,mixed-use-building,for-sale,2,104,1,0,0,,,760,,0,To renovate
-11128640,dessel,2480,675000,house,exceptional-property,for-sale,3,250,1,0,0,,,2299,,0,As new
-11128641,mol,2400,925000,appartment,apartment,for-sale,2,217,1,0,0,70,,,,0,As new
-11128642,jette,1090,175000,appartment,apartment,for-sale,1,59,1,0,0,,,,,0,To be done up
-11128643,jette,1090,1250000,house,mixed-use-building,for-sale,8,370,1,0,0,,,200,,0,Good
-11128645,braine-le-comte,7090,299000,house,mixed-use-building,for-sale,1,197,1,0,0,,129,279,,0,Good
-11128648,huy%20ben-ahin,4500,299000,house,house,for-sale,2,112,1,0,0,,1025,1025,,0,Good
-11128644,ninove,9400,269000,house,house,for-sale,2,143,1,0,0,30,270,394,,0,As new
-11128647,nandrin,4550,649000,house,mixed-use-building,for-sale,,360,1,0,0,,,1098,,0,Good
-11128649,malmedy,4960,215000,house,house,for-sale,2,69,1,0,0,,,110,,0,Good
-10949770,binche,7130,145000,house,house,for-sale,2,94,1,0,0,33,,60,,0,To be done up
-11128676,amay,4540,275000,house,house,for-sale,3,130,1,0,0,20,550,643,,0,As new
-11073615,oedelem,8730,385000,house,house,for-sale,3,160,1,0,0,,,272,,0,
-11128681,assebroek,8310,319000,house,house,for-sale,3,178,1,0,1,25,127,243,,0,Good
-10752968,schaerbeek,1030,405000,house,house,for-sale,,,1,0,0,,,,,0,
-11128683,uccle,1180,250000,appartment,apartment,for-sale,1,65,1,0,0,,,,,0,To be done up
-11126144,schaerbeek,1030,900000,house,apartment-block,for-sale,5,330,1,0,0,21,73,180,,0,Good
-11128684,uccle,1180,329000,appartment,apartment,for-sale,2,80,1,0,0,15,,,,0,To be done up
-11092265,schaerbeek,1030,Starting price : 100000,house,house,for-sale,6,,1,0,0,,,,,0,
-11028075,schaerbeek,1030,2200000,house,mansion,for-sale,9,550,1,0,0,,,500,,0,As new
-11101535,schaarbeek,1030,650000,house,mansion,for-sale,9,,1,0,0,,1,,,0,To renovate
-10308193,schaerbeek,1030,789000,house,apartment-block,for-sale,,800,1,0,0,,,,,0,To be done up
-11065070,schaerbeek,1030,Starting price : 265000,house,apartment-block,for-sale,5,,1,0,0,,,81,,0,
-11049882,schaerbeek,1030,Starting price : 980000,house,house,for-sale,1,,1,0,0,,,883,,0,
-11045972,schaerbeek,1030,Starting price : 400000,house,apartment-block,for-sale,6,,1,0,0,,,105,,0,
-11113797,schaerbeek,1030,799000,house,apartment-block,for-sale,6,,1,0,0,,300,,,0,
-10063112,schaerbeek,1030,835000,house,apartment-block,for-sale,,320,1,0,0,,50,,,0,Good
-11087614,schaerbeek,1030,Starting price : 100000,house,house,for-sale,2,,1,0,0,,,30,,0,
-10884469,schaerbeek,1030,699000,house,apartment-block,for-sale,,285,1,0,0,,36,,,0,
-10973007,schaerbeek,1030,459000,house,house,for-sale,5,,1,0,0,4,26,,,0,
-10964311,schaerbeek,1030,825000,house,house,for-sale,5,340,1,0,0,20,85,190,,0,To renovate
-10891324,schaerbeek,1030,425000,house,house,for-sale,7,280,1,0,0,,,70,,0,To be done up
-11044220,schaerbeek,1030,395000,house,house,for-sale,3,174,1,0,0,20,93,,,0,
-11031917,schaarbeek,1030,417000,house,house,for-sale,3,205,1,0,0,,103,,,0,To be done up
-11010305,schaerbeek,1030,550000,house,house,for-sale,8,213,1,0,0,,,65,,0,Good
-11059998,schaerbeek,1030,350000,house,house,for-sale,7,180,1,0,0,75,45,150,,0,
-11090446,schaerbeek,1030,319000,house,house,for-sale,7,164,1,0,0,23,,,,0,To renovate
-11092700,schaerbeek,1030,695000,house,town-house,for-sale,4,263,1,0,0,,,,,0,As new
-11086655,schaerbeek,1030,539000,house,house,for-sale,4,222,1,0,0,14,40,,,0,As new
-10892296,schaerbeek,1030,365000,house,house,for-sale,6,206,0,0,0,,20,95,,0,
-10583541,schaarbeek,1030,545000,house,mansion,for-sale,4,266,1,0,1,20,40,150,,0,Good
-11064872,schaerbeek,1030,499000,house,house,for-sale,4,308,1,0,0,37,87,,,0,Good
-11102355,schaerbeek,1030,2900000,house,apartment-block,for-sale,4,875,1,0,0,15,230,162,,0,Good
-11127427,bruxelles,1000,995000,house,apartment-block,for-sale,10,630,1,0,0,30,,200,,0,Good
-11129556,namur,5000,250000,appartment,apartment,for-sale,2,104,1,0,0,17,,,,0,As new
-11129507,herbeumont,6887,425000,house,manor-house,for-sale,14,,1,0,0,,,590,,0,To renovate
-11129508,knokke,8300,545000,appartment,apartment,for-sale,2,74,1,0,0,,,,,0,
-11129510,knokke,8300,635000,appartment,apartment,for-sale,2,,1,0,0,,,,,0,
-11129511,bertrix,6880,260000,house,villa,for-sale,5,,1,0,0,,,1500,,0,
-11129509,herbeumont,6887,425000,house,manor-house,for-sale,14,,1,0,0,,,590,,0,To renovate
-11129513,knokke,8300,765000,appartment,apartment,for-sale,3,90,1,0,0,,,,,0,As new
-11129514,knokke,8300,295000,appartment,apartment,for-sale,2,65,1,0,0,,,,,0,To be done up
-11129512,knokke,8300,415000,appartment,apartment,for-sale,2,85,1,0,0,,,,,0,
-11129516,knokke,8300,1350000,appartment,apartment,for-sale,2,75,1,0,0,,,,,0,
-11129519,knokke,8300,330000,appartment,flat-studio,for-sale,,,1,0,0,,,,,0,
-11129520,nieuwpoort,8620,320000,appartment,apartment,for-sale,2,65,1,1,0,5,,,,0,To be done up
-11129522,westerlo,2260,1150000,house,house,for-sale,5,267,1,0,1,,,2445,,0,As new
-11129525,mechelen,2800,281606,appartment,service-flat,for-sale,1,60,1,0,0,5,,,,0,
-11129517,knokke,8300,395000,appartment,apartment,for-sale,1,58,1,0,0,,,,,0,
-11129524,mechelen,2800,321935,appartment,service-flat,for-sale,1,72,1,0,0,9,,,,0,
-11129526,mechelen,2800,316813,appartment,service-flat,for-sale,1,71,1,0,0,6,,,,0,
-11129527,mechelen,2800,310000,appartment,service-flat,for-sale,1,72,1,0,0,7,,,,0,
-11129531,evergem,9940,399000,house,house,for-sale,3,235,1,0,0,,,604,,0,Good
-11129544,oostende,8400,335000,appartment,apartment,for-sale,2,107,1,0,0,,,,,0,Good
-11129545,bilzen,3740,295000,house,farmhouse,for-sale,3,212,1,0,0,,1600,2751,,0,Good
-11129552,kortemark,8610,559000,house,house,for-sale,4,336,1,0,0,,,904,,0,Good
-11129563,lier,2500,319000,house,house,for-sale,3,125,1,0,0,,25,102,,0,Good
-11129550,de%20haan,8420,99000,appartment,apartment,for-sale,2,48,1,0,0,,,,,0,Good
-11129564,lier,2500,279000,house,house,for-sale,3,125,1,0,0,,25,102,,0,Good
-11129566,wevelgem,8560,249000,house,house,for-sale,3,195,1,0,0,,,410,,0,Good
-11129560,de%20klinge,9170,534000,house,house,for-sale,4,224,1,0,0,,578,823,,0,Good
-11129567,de%20panne,8660,140000,appartment,apartment,for-sale,1,42,1,0,0,,,,,0,To be done up
-11129568,oostende,8400,117000,appartment,duplex,for-sale,3,,1,0,0,,,,,0,To renovate
-10666016,pentagone-bruxelles,1000,1290000,house,apartment-block,for-sale,5,526,1,0,0,16,,105,,0,
-11129571,blankenberge,8370,289000,appartment,apartment,for-sale,2,78,1,0,0,8,,,,0,Good
-10825352,bruxelles,1000,799000,house,house,for-sale,6,430,1,0,0,,,10,,0,
-10923264,bruxelles,1000,379000,house,house,for-sale,6,200,1,0,0,,,75,,0,To be done up
-11061689,bruxelles,1000,565000,house,house,for-sale,5,265,1,0,0,,,110,,0,To be done up
-11094009,brussels,1000,845000,house,mixed-use-building,for-sale,7,800,1,0,0,40,,266,,0,To renovate
-10941385,bruxelles,1000,1390000,house,house,for-sale,5,322,1,0,1,,,,,0,As new
-11027694,bruxelles,1000,1395000,house,apartment-block,for-sale,6,320,1,0,0,,,100,,0,
-11045095,bruxelles,1000,965000,house,apartment-block,for-sale,8,663,1,0,0,12,,251,,0,As new
-11116474,bruxelles,1000,1150000,house,mixed-use-building,for-sale,6,400,1,0,0,15,,233,,0,Good
-10979848,bruxelles-ville,1000,950000,house,apartment-block,for-sale,7,495,1,0,0,,,195,,0,As new
-10492935,bruxelles,1000,410000,house,house,for-sale,2,100,1,0,0,10,,109,,0,As new
-11122899,bruxelles,1000,1200000,house,apartment-block,for-sale,4,270,1,1,0,,,,,0,As new
-11127207,bruxelles,1000,445000,house,house,for-sale,4,162,1,0,0,8,,60,,0,Just renovated
-10378811,brussels,1000,695000,house,apartment-block,for-sale,5,290,1,1,0,12,,,,0,Good
-10540761,brussel,1000,1290000,house,house,for-sale,4,700,1,0,0,,,339,,0,Good
-10800986,bruxelles,1000,945000,house,apartment-block,for-sale,4,300,1,0,0,36,36,156,,0,To be done up
-11121228,bruxelles,1000,1400000,house,apartment-block,for-sale,,448,1,0,0,15,,152,,0,To renovate
-10990259,brussels,1000,1300000,house,mixed-use-building,for-sale,6,518,1,0,0,100,200,330,,0,To renovate
-10817855,bruxelles,1000,1030000,house,house,for-sale,4,327,1,0,0,,250,366,,0,To be done up
-10694104,bruxelles-ville,1000,2495000,house,apartment-block,for-sale,12,818,0,0,0,,,190,,0,Just renovated
-10676542,brussels-city,1000,320000,house,apartment-block,for-sale,4,180,1,0,0,,,45,,0,Good
-11115382,bruxelles,1000,895000,house,exceptional-property,for-sale,4,277,1,0,0,14,52,,,0,Good
-11091504,brussels,1000,495000,house,house,for-sale,3,246,1,0,0,44,15,155,,0,To renovate
-9402335,bruxelles,1000,1400000,house,mixed-use-building,for-sale,3,568,1,0,0,,,196,,0,Just renovated
-10815556,bruxelles,1000,360000,house,house,for-sale,4,135,1,0,0,,,45,,0,Good
-11124185,bruxelles,1000,925000,house,apartment-block,for-sale,6,550,1,0,0,40,,200,,0,Good
-10994408,bruxelles,1000,515000,house,mixed-use-building,for-sale,3,134,1,0,0,,,43,,0,As new
-10965913,brussels,1000,450000,house,house,for-sale,4,210,1,0,0,,,225,,0,Good
-10653822,bruxelles,1000,1950000,house,mansion,for-sale,6,497,1,0,0,24,40,242,,0,Good
-11114621,schaerbeek,1030,525000,house,house,for-sale,3,200,1,0,0,,,,,0,
-11128789,deinze,9800,445000,house,house,for-sale,4,160,1,0,0,,,256,,0,Good
-11128782,heure,5377,125000,appartment,country-cottage,for-sale,2,53,1,1,1,13,,66,,0,Good
-10973072,schaerbeek,1030,575000,house,house,for-sale,3,194,1,0,0,,,96,,0,Good
-11128790,li%C3%A8ge,4020,229000,house,mixed-use-building,for-sale,4,150,1,0,0,,,53,,0,To renovate
-10934769,charleroi,6000,97500,appartment,apartment,for-sale,2,91,1,0,0,,,,,0,
-10851000,sinsin,5377,410000,house,villa,for-sale,4,225,1,0,1,,349,349,,0,Just renovated
-11128794,petit-enghien,7850,365000,house,apartment-block,for-sale,4,163,1,0,0,30,,2191,,0,
-11128805,gavere,9890,392000,house,house,for-sale,3,197,1,0,0,10,16,223,,0,As new
-11128801,brussels,1000,598000,appartment,apartment,for-sale,3,250,1,0,0,4,,,,0,
-11128796,petit-enghien,7850,365000,house,house,for-sale,4,163,1,0,0,30,,2191,,0,
-11128807,gavere,9890,365000,house,house,for-sale,3,174,1,0,0,9,15,198,,0,As new
-11128809,gavere,9890,370000,house,house,for-sale,3,176,1,0,0,9,15,200,,0,As new
-11128811,fl%C3%A9nu,7012,170000,appartment,apartment,for-sale,2,126,1,0,0,2,,,,0,Good
-11027329,eugies,7080,159000,appartment,apartment,for-sale,3,105,1,0,0,27,,,,0,
-11128810,ixelles,1050,630000,house,house,for-sale,2,110,1,0,0,4,,,,0,As new
-11128813,geel%20%28geel%29,2440,450000,house,house,for-sale,2,150,0,0,0,,,6954,,0,
-11044993,schaerbeek,1030,659000,house,mansion,for-sale,5,265,1,1,0,14,,80,,0,As new
-11128802,saint-gilles,1060,598000,appartment,apartment,for-sale,3,250,1,0,0,4,,,,0,
-10939970,schaerbeek,1030,515000,house,house,for-sale,4,180,1,0,0,,90,140,,0,To renovate
-11050435,schaerbeek,1030,375000,house,apartment-block,for-sale,5,215,1,0,0,,,95,,0,
-11092497,schaerbeek,1030,699000,house,apartment-block,for-sale,4,396,1,0,0,2,,140,,0,Good
-10833645,schaerbeek,1030,975000,house,apartment-block,for-sale,,340,1,0,0,12,,178,,0,Good
-11120993,schaerbeek,1030,700000,house,house,for-sale,6,281,1,0,0,19,90,165,,0,Just renovated
-11128812,geel%20%28geel%29,2440,275000,house,house,for-sale,1,68,1,0,0,,,4500,,0,
-11097242,schaerbeek,1030,350000,house,house,for-sale,5,177,0,0,0,10,50,165,,0,To renovate
-11086373,schaerbeek,1030,550000,house,house,for-sale,4,237,1,0,0,,,110,,0,Good
-10513232,schaerbeek,1030,1500000,house,exceptional-property,for-sale,8,492,1,0,0,,368,503,,0,Good
-10933992,schaerbeek,1030,800000,house,house,for-sale,6,326,0,0,0,4,70,210,,0,To be done up
-11060201,schaerbeek,1030,745000,house,apartment-block,for-sale,4,380,1,0,0,14,26,190,,0,Good
-10871988,schaerbeek,1030,795000,house,apartment-block,for-sale,,350,1,0,0,20,70,155,,0,To renovate
-11045399,schaerbeek,1030,380000,house,house,for-sale,4,165,1,0,0,7,7,,,0,Good
-10557318,schaerbeek,1030,580000,house,house,for-sale,4,204,1,0,0,14,51,130,,0,Good
-10931493,schaerbeek,1030,695000,house,house,for-sale,4,251,1,0,0,10,30,100,,0,Good
-10914078,schaerbeek,1030,595000,house,apartment-block,for-sale,6,260,1,0,0,,,114,,0,Good
-11108088,schaerbeek,1030,749000,house,apartment-block,for-sale,3,450,0,0,0,,,,,0,To be done up
-10367111,schaerbeek,1030,600000,house,apartment-block,for-sale,9,370,1,0,0,8,,370,,0,Good
-11096488,schaerbeek,1030,995000,house,house,for-sale,5,295,1,0,0,,,370,,0,Good
-10565759,schaerbeek,1030,1200000,house,apartment-block,for-sale,9,485,1,0,0,32,58,185,,0,As new
-11115383,schaerbeek,1030,985000,house,house,for-sale,5,341,1,0,0,12,90,235,,0,Just renovated
-10754807,schaerbeek,1030,995000,house,exceptional-property,for-sale,6,312,1,0,0,62,45,225,,0,As new
-10942473,schaerbeek,1030,895000,house,house,for-sale,5,310,1,0,0,1,50,124,,0,As new
-10625096,schaerbeek,1030,650000,house,house,for-sale,5,320,1,0,0,20,80,150,,0,As new
-11091508,schaerbeek,1030,475000,house,house,for-sale,4,203,1,0,0,8,,65,,0,Good
-11077228,schaerbeek,1030,415000,house,house,for-sale,6,175,1,0,0,2,,61,,0,Good
-11128852,koningshooikt,2500,340000,house,house,for-sale,4,163,1,0,0,,,536,,0,Good
-11045861,schaerbeek,1030,375000,house,house,for-sale,6,230,0,0,0,10,30,105,,0,To renovate
-11120388,schaerbeek,1030,850000,house,house,for-sale,8,382,1,0,0,,70,382,,0,Good
-10625094,schaerbeek,1030,650000,house,apartment-block,for-sale,3,320,1,0,0,20,80,150,,0,As new
-11128851,willebroek,2830,217000,appartment,apartment,for-sale,1,60,1,0,0,14,,,,0,Good
-11019706,londerzeel,1840,448000,house,town-house,for-sale,3,160,1,0,0,6,,61,,0,As new
-11128860,marbais,1495,329000,house,house,for-sale,4,330,1,0,0,,350,534,,0,To renovate
-11128858,li%C3%A8ge,4020,139000,house,house,for-sale,2,97,1,0,0,22,,81,,0,To be done up
-11128862,bouillon,6830,375000,house,house,for-sale,4,147,1,0,0,,,650,,0,
-11128873,sint-martens-latem,9830,1372000,appartment,apartment,for-sale,2,187,1,0,0,38,,,,0,As new
-11128863,rendeux,6987,465000,house,house,for-sale,5,243,1,0,0,,1000,1073,,0,
-11128874,bruxelles,1000,350000,appartment,apartment,for-sale,2,85,1,0,0,,,,,0,Good
-10998895,bertrix,6880,99000,house,house,for-sale,3,115,0,0,0,,,461,,0,To renovate
-10979826,vielsalm,6690,340000,house,house,for-sale,4,152,1,0,0,,,603,,0,Good
-11128880,koekelberg,1081,299000,appartment,apartment,for-sale,2,95,1,0,0,,,,,0,
-11128886,viroinval,5670,180000,house,house,for-sale,4,275,1,0,0,,,205,,0,Good
-11128881,ganshoren,1083,215000,appartment,apartment,for-sale,2,71,1,0,0,,,,,0,
-11128887,viroinval,5670,180000,appartment,country-cottage,for-sale,4,275,1,0,0,,,205,,0,Good
-11128889,viroinval,5670,180000,house,manor-house,for-sale,4,275,1,0,0,,,205,,0,Good
-11128892,fl%C3%A9malle-grande,4400,475000,house,apartment-block,for-sale,,263,1,0,0,,,,,0,Good
-11128890,viroinval,5670,180000,house,exceptional-property,for-sale,4,275,1,0,0,,,205,,0,Good
-10870905,bruxelles,1020,1580000,house,mixed-use-building,for-sale,8,600,1,0,0,70,,,,0,
-11076212,bruxelles-2,1020,380000,house,house,for-sale,4,208,1,0,0,,25,,,0,
-10658125,bruxelles,1020,390000,house,house,for-sale,7,250,1,0,0,,,,,0,
-11111015,schaerbeek,1030,589000,house,apartment-block,for-sale,4,200,1,0,0,3,90,180,,0,Good
-11122274,schaerbeek,1030,460000,house,mixed-use-building,for-sale,5,200,0,0,0,12,,125,,0,To renovate
-10866689,bruxelles,1020,330000,house,mixed-use-building,for-sale,4,180,1,0,0,,,,,0,Good
-10959558,laeken,1020,295000,house,house,for-sale,4,160,1,0,0,,20,,,0,
-10855522,bruxelles,1020,1285000,house,mixed-use-building,for-sale,7,,0,0,0,,,,,0,
-11053459,bruxelles,1020,399000,house,apartment-block,for-sale,4,195,1,0,0,22,97,198,,0,To renovate
-10940048,bruxelles,1020,650000,house,house,for-sale,4,211,1,0,0,,75,,,0,Good
-11079293,bruxelles,1020,585000,house,house,for-sale,5,210,1,0,0,,,160,,0,
-11053461,bruxelles,1020,399000,house,house,for-sale,4,195,1,0,0,22,97,198,,0,To renovate
-11002534,bruxelles,1020,650000,house,house,for-sale,5,231,1,0,1,1,1,252,,0,As new
-10745567,laken,1020,1300000,house,house,for-sale,6,500,1,0,0,20,200,580,,0,To be done up
-11094977,laken-brussel,1020,850000,house,apartment-block,for-sale,,609,1,0,0,,,190,,0,
-10922387,bruxelles,1020,285000,house,house,for-sale,4,210,1,0,0,13,75,145,,0,To renovate
-10986696,bruxelles,1020,400000,house,house,for-sale,5,235,1,0,1,40,65,185,,0,To renovate
-10890654,bruxelles,1020,1100000,house,exceptional-property,for-sale,4,330,1,0,0,,300,725,,0,To renovate
-10924448,bruxelles,1020,1480000,house,apartment-block,for-sale,14,675,1,1,0,10,,250,,0,As new
-10858504,bruxelles,1020,999000,house,apartment-block,for-sale,7,,1,0,0,,,,,0,Good
-10180733,bruxelles,1020,660000,house,apartment-block,for-sale,9,,1,0,0,,,,,0,Good
-11075702,bruxelles-2,1020,370000,house,house,for-sale,4,151,1,0,0,6,40,90,,0,
-11071176,laken,1020,650000,house,house,for-sale,4,205,1,0,0,,,208,,0,
-11126543,bruxelles,1020,525000,house,mixed-use-building,for-sale,4,280,1,0,0,,,,,0,To be done up
-11116094,brussels-city,1020,960000,house,apartment-block,for-sale,6,,1,0,0,,,201,,0,Good
-10955153,laeken-bru,1020,610000,house,house,for-sale,4,220,1,0,0,,,,,0,
-11128685,geraardsbergen,9500,495000,house,house,for-sale,6,300,1,0,0,40,110,313,,0,Good
-10927728,brussel,1020,365000,house,house,for-sale,2,85,1,0,0,,,179,,0,
-10732623,bruxelles,1020,689000,house,apartment-block,for-sale,6,340,1,0,0,,,,,0,As new
-11047312,laeken,1020,549000,house,house,for-sale,7,290,1,0,0,28,18,,,0,As new
-11035360,lauwe,8930,295000,appartment,apartment,for-sale,3,172,1,0,0,,,,,0,Good
-11128703,rongy,7623,270000,house,villa,for-sale,3,160,1,0,0,20,700,,,0,Good
-11128710,braine-le-comte,7090,195000,house,house,for-sale,3,120,1,0,0,23,190,295,,0,Good
-11025119,zonhoven,3520,475722,house,house,for-sale,3,193,1,0,0,,,818,,0,
-11128700,mechelen,2800,235000,appartment,apartment,for-sale,3,123,1,0,0,,,,,0,
-11128702,li%C3%A8ge,4000,245000,house,house,for-sale,3,150,1,0,0,,,240,,0,
-11128711,woluwe-saint-lambert,1200,435000,appartment,apartment,for-sale,2,117,1,0,0,6,,,,0,As new
-11128718,rongy,7623,40000,house,house,for-sale,1,80,0,0,0,,90,,,0,To restore
-11128715,ghislenghien,7822,329500,house,house,for-sale,4,150,1,0,0,,,808,,0,Good
-11128719,rongy,7623,40000,house,house,for-sale,1,80,0,0,0,,90,,,0,To restore
-11128722,waasmunster,9250,745000,house,villa,for-sale,3,322,1,0,1,,,1484,,0,Good
-11129457,deerlijk,8540,396500,house,house,for-sale,3,,1,1,0,,,222,,0,As new
-11129463,zonhoven,3520,450000,house,house,for-sale,3,162,1,0,0,,,400,,0,
-11129460,zonhoven,3520,330000,house,house,for-sale,3,158,1,0,0,,,400,,0,
-11129459,zonhoven,3520,380000,house,house,for-sale,3,162,1,0,0,,,400,,0,
-11129464,zonhoven,3520,450000,house,house,for-sale,3,158,1,0,0,,,400,,0,
-11129455,antheit,4520,259000,house,house,for-sale,3,209,1,0,0,,,588,,0,Good
-11129465,evere,1140,349000,house,house,for-sale,3,120,1,0,0,,47,,,0,To restore
-11129468,molenbeek-saint-jean,1080,499000,house,apartment-block,for-sale,6,400,1,0,0,,,,,0,To renovate
-11129470,fosses-la-ville,5070,100000,house,apartment-block,for-sale,4,262,0,0,0,,,124,,0,
-11129467,mortsel,2640,209000,appartment,ground-floor,for-sale,1,55,1,0,0,30,106,,,0,Good
-10879673,schaerbeek,1030,550000,house,house,for-sale,4,196,1,0,0,,35,141,,0,To be done up
-11129471,fosses-la-ville,5070,100000,house,mixed-use-building,for-sale,4,262,0,0,0,,,124,,0,
-10853106,schaerbeek,1030,780000,house,house,for-sale,5,314,1,0,0,15,,265,,0,To renovate
-11128724,couillet,6010,230000,house,apartment-block,for-sale,4,180,1,0,0,,,,,0,As new
-10797530,laeken,1020,429000,house,house,for-sale,3,157,1,0,1,10,80,,,0,
-11128723,bouffioulx,6200,420000,house,apartment-block,for-sale,7,360,1,0,0,,,120,,0,
-11128725,uccle,1180,335000,appartment,apartment,for-sale,2,114,1,0,0,,,,,0,Good
-10855744,balen,2490,549000,house,villa,for-sale,3,295,1,0,0,,,2044,,0,Good
-11128732,vilvoorde,1800,260000,house,house,for-sale,3,110,1,0,0,,,350,,0,
-11128729,desselgem,8792,239000,house,house,for-sale,3,143,1,0,0,,,283,,0,
-11128734,westkapelle,8300,890000,house,villa,for-sale,6,320,1,0,0,,,819,,0,Good
-11128731,li%C3%A8ge,4020,215000,house,apartment-block,for-sale,,,0,0,0,,,175,,0,To restore
-11128736,meulebeke,8760,169000,house,house,for-sale,3,100,1,0,0,,,34,,0,Good
-11128741,stembert,4801,180000,house,house,for-sale,3,124,1,0,0,,,135,,0,
-11128740,heusy,4802,380000,house,house,for-sale,5,171,1,0,0,20,,430,,0,
-11128744,harelbeke,8530,630000,house,villa,for-sale,3,295,1,0,0,,,867,,0,
-11128737,olloy-sur-viroin,5670,145000,house,house,for-sale,4,188,1,0,0,,,727,,0,To be done up
-11128753,adinkerke,8660,279000,house,house,for-sale,3,154,1,0,1,35,,146,,0,Good
-11128745,deerlijk,8540,307000,house,house,for-sale,3,134,1,0,0,,,286,,0,Good
-11128758,laeken,1020,149000,appartment,apartment,for-sale,2,62,1,0,0,16,,,,0,To renovate
-11097278,schaerbeek,1030,750000,house,apartment-block,for-sale,3,290,1,0,0,,,60,,0,
-11128748,fl%C3%A9malle,4400,279000,house,house,for-sale,4,132,0,0,0,,200,264,,0,
-11094936,schaerbeek,1030,245000,house,house,for-sale,4,170,1,0,0,,,45,,0,To renovate
-10511947,schaerbeek,1030,825000,house,apartment-block,for-sale,4,285,1,0,0,6,,85,,0,Good
-10511948,schaerbeek,1030,699000,house,apartment-block,for-sale,5,225,1,0,0,12,,45,,0,As new
-11097853,schaerbeek,1030,680000,house,house,for-sale,4,304,1,0,0,,,80,,0,
-11119768,schaerbeek,1030,380000,house,house,for-sale,5,175,1,0,0,9,,55,,0,To restore
-10932607,schaarbeek,1030,475000,house,house,for-sale,4,225,1,0,0,,43,120,,0,
-10835843,schaerbeek,1030,1250000,house,house,for-sale,5,300,1,0,0,15,60,129,,0,Good
-11042801,schaerbeek,1030,550000,house,house,for-sale,5,218,1,0,0,13,,65,,0,To be done up
-11121085,schaerbeek,1030,625000,house,apartment-block,for-sale,4,,0,0,0,,,,,0,To be done up
-11064787,schaerbeek,1030,595000,house,apartment-block,for-sale,4,263,1,0,0,,45,150,,0,Just renovated
-10423863,schaerbeek,1030,1250000,house,house,for-sale,5,495,1,0,0,26,230,340,,0,To be done up
-10011344,schaerbeek,1030,595000,house,apartment-block,for-sale,4,270,1,0,0,,245,330,,0,To renovate
-11097761,schaerbeek,1030,400000,house,house,for-sale,4,210,0,0,0,,18,,,0,To renovate
-11000347,schaerbeek,1030,785000,house,house,for-sale,6,280,1,0,0,28,110,421,,0,Good
-11128735,sint-niklaas,9111,415000,house,house,for-sale,3,228,1,0,0,,,388,,0,Good
-11115953,schaerbeek,1030,550000,house,house,for-sale,4,188,1,0,0,,,115,,0,As new
-10810528,schaerbeek,1030,625000,house,apartment-block,for-sale,3,233,1,0,0,,105,190,,0,Good
-11077998,schaerbeek,1030,975000,house,apartment-block,for-sale,6,430,1,0,0,,142,418,,0,Good
-10837452,bruxelles,1030,775000,house,house,for-sale,5,320,1,0,1,13,16,,,0,As new
-11119621,schaerbeek,1030,1250000,house,house,for-sale,6,435,1,0,0,,,253,,0,As new
-11111846,schaerbeek,1030,475000,house,apartment-block,for-sale,4,213,1,0,0,,40,228,,0,
-11063477,schaerbeek,1030,850000,house,house,for-sale,5,233,1,0,0,14,50,178,,0,Good
-11099841,bruxelles,1030,3300000,house,mixed-use-building,for-sale,,785,1,0,0,120,50,372,,0,As new
-11031039,schaerbeek,1030,1285000,house,house,for-sale,6,445,1,0,0,25,,244,,0,To renovate
-11021494,schaerbeek,1030,750000,house,house,for-sale,5,300,0,0,1,,,530,,0,To renovate
-10566484,schaerbeek,1030,695000,house,house,for-sale,5,245,0,0,0,20,30,105,,0,To be done up
-10925581,schaerbeek,1030,645000,house,apartment-block,for-sale,4,310,1,0,0,,,135,,0,To be done up
-10904124,schaerbeek,1030,350000,house,house,for-sale,4,178,0,0,0,,,64,,0,To renovate
-11094123,schaerbeek,1030,1195000,house,exceptional-property,for-sale,8,488,1,0,0,,128,305,,0,Good
-11129474,fosses-la-ville,5070,100000,appartment,apartment,for-sale,4,262,0,0,0,,,,,0,
-11129475,fosses-la-ville,5070,100000,house,house,for-sale,4,262,0,0,0,,,124,,0,
-11129481,nijlen,2560,238000,appartment,apartment,for-sale,2,82,1,0,0,,,,,0,
-11129479,westende,8434,134000,appartment,duplex,for-sale,2,44,1,0,0,,,,,0,
-11129480,leuven,3000,335000,appartment,apartment,for-sale,2,83,1,0,0,,,,,0,
-11129482,neufch%C3%A2teau,6840,115000,house,house,for-sale,3,174,1,0,0,,,298,,0,
-10982886,brugge,8200,210000,house,house,for-sale,3,89,1,0,0,,,405,,0,To restore
-11129496,ingelmunster,8770,189000,house,house,for-sale,3,,1,0,0,,,270,,0,
-11129489,berchem-sainte-agathe,1082,349000,appartment,apartment,for-sale,3,102,1,0,0,,112,,,0,
-11129485,ciney%20ach%C3%AAne,5590,495000,house,house,for-sale,3,180,1,0,0,200,850,1140,,0,As new
-11129490,bruxelles%20%201,1000,139000,appartment,flat-studio,for-sale,,45,1,0,0,,,,,0,
-11129497,ingelmunster,8770,198500,house,house,for-sale,3,,1,0,0,,,343,,0,To renovate
-11129492,woluwe-saint-pierre,1150,1090000,appartment,triplex,for-sale,4,296,1,0,0,18,287,,,0,Good
-11129503,brasschaat,2930,1650000,house,house,for-sale,8,366,1,0,0,,100,230,,0,
-11129505,knokke,8300,1795000,appartment,apartment,for-sale,3,,1,0,0,,,,,0,
-11054497,bruxelles,1000,1297000,house,mixed-use-building,for-sale,5,397,1,1,0,12,,69,,0,As new
-10452091,bruxelles,1000,8000000,house,apartment-block,for-sale,,1950,1,0,1,,,900,,0,Good
-11065975,nord-est-bruxelles,1000,789000,house,house,for-sale,5,255,1,0,0,15,,1,,0,
-10959876,bruxelles,1000,560000,house,house,for-sale,2,135,1,0,1,,,,,0,Good
-11129504,knokke,8300,475000,appartment,duplex,for-sale,2,,1,0,0,,,,,0,
-10269586,bruxelles,1000,1995000,house,house,for-sale,5,550,1,0,0,15,,,,0,Just renovated
-11064959,bruxelles,1000,3800000,house,house,for-sale,4,450,1,0,0,20,70,,,0,As new
-11128877,bruxelles,1000,1920000,house,apartment-block,for-sale,15,1200,1,0,0,60,,400,,0,Good
-10974516,bruxelles,1000,1200000,house,apartment-block,for-sale,3,274,1,0,0,,,,,0,Good
-10252033,bruxelles,1000,1850000,house,apartment-block,for-sale,4,468,1,0,0,,,,,0,Good
-10498546,bruxelles,1000,850000,house,apartment-block,for-sale,5,250,1,0,0,,,65,,0,Good
-11013179,brussels,1000,1450000,house,exceptional-property,for-sale,5,550,0,0,0,35,233,366,,0,To renovate
-11028941,bruxelles,1000,1190000,house,villa,for-sale,5,350,1,0,0,40,300,734,,0,Good
-10775660,bruxelles,1000,1890000,house,mansion,for-sale,6,400,1,0,0,30,40,,,0,Just renovated
-11037414,bruxelles,1000,6400000,house,apartment-block,for-sale,27,1350,1,1,0,495,40,560,,0,As new
-11055922,brussels-city,1000,635000,house,apartment-block,for-sale,8,268,1,0,0,,,,,0,To renovate
-10984242,bruxelles,1000,495000,house,mixed-use-building,for-sale,9,260,1,0,0,,,110,,0,To be done up
-11091579,brussels,1000,550000,house,apartment-block,for-sale,4,220,1,0,0,,,,,0,To be done up
-10984241,bruxelles,1000,495000,house,house,for-sale,9,260,1,0,0,,,110,,0,To be done up
-11093861,bruxelles,1000,1750000,house,apartment-block,for-sale,10,500,1,0,0,,,120,,0,
-11063416,pentagone-bruxelles,1000,599000,house,apartment-block,for-sale,4,160,1,0,0,,,50,,0,
-11045094,bruxelles,1000,580000,house,house,for-sale,4,179,1,0,0,,,80,,0,To be done up
-10971627,bruxelles,1000,395000,house,house,for-sale,3,125,1,0,0,,,,,0,As new
-10919998,bruxelles,1000,850000,house,mixed-use-building,for-sale,3,280,1,0,0,,,86,,0,As new
-10885727,brussels,1000,1345000,house,mixed-use-building,for-sale,,1000,1,0,0,,,1000,,0,To renovate
-10954063,bruxelles,1000,340000,house,mixed-use-building,for-sale,1,94,1,0,0,,,110,,0,As new
-10802621,bruxelles,1000,1270000,house,apartment-block,for-sale,,205,1,0,0,,,205,,0,As new
-10994733,bruxelles,1000,980000,house,exceptional-property,for-sale,4,247,1,1,0,40,40,,,0,Good
-10220315,bruxelles,1000,815000,house,house,for-sale,5,214,1,0,0,,50,103,,0,To renovate
-11092349,brussels-city,1000,889000,house,mixed-use-building,for-sale,7,400,1,0,0,,,,,0,To be done up
-11128894,gent,9000,1372000,appartment,apartment,for-sale,2,187,1,0,0,38,,,,0,As new
-11128896,boortmeerbeek,3190,299000,house,house,for-sale,2,130,1,0,0,,,552,,0,To renovate
-11128897,quevy,7041,444408,house,house,for-sale,3,200,1,0,0,,,1022,,0,
-10978315,westende,8434,122000,appartment,flat-studio,for-sale,,24,1,1,0,,,,,0,
-11128901,berchem,2600,415000,appartment,apartment,for-sale,3,121,1,0,0,10,,,,0,Good
-11128926,koksijde,8670,179000,appartment,apartment,for-sale,2,43,1,0,0,,,,,0,Good
-11128910,bilzen,3740,2500,appartment,apartment,for-sale,2,96,1,0,0,15,,,,0,
-11128905,de%20klinge,9170,695000,house,villa,for-sale,3,,1,0,1,30,,2720,,0,Good
-11128925,de%20haan,8420,535000,appartment,apartment,for-sale,2,96,1,0,0,,,,,0,Good
-11128927,gent,9000,349000,appartment,apartment,for-sale,3,97,1,0,0,,,,,0,To renovate
-11128930,le%20roeulx%20villesur-haine,7070,350000,house,villa,for-sale,3,130,1,0,0,45,1075,1145,,0,As new
-11120011,bruxelles,1000,1250000,house,house,for-sale,6,435,1,0,0,,,253,,0,As new
-10852454,koksijde,8670,329000,appartment,apartment,for-sale,2,73,1,0,0,,,,,0,Good
-11128931,brugge,8000,289000,appartment,apartment,for-sale,3,93,1,0,0,,,,,0,Good
-11128932,harelbeke,8530,296000,house,house,for-sale,4,205,1,0,0,,,234,,0,Good
-11128934,harelbeke,8530,218000,house,house,for-sale,,205,1,0,0,,,234,,0,Good
-11128928,evere,1140,299000,appartment,apartment,for-sale,2,80,1,0,0,,,,,0,Good
-11086246,schaerbeek,1030,450000,house,apartment-block,for-sale,4,150,1,0,0,,,1,,0,
-11128951,geraardsbergen,9500,249000,house,house,for-sale,3,98,1,0,0,,,282,,0,Good
-11128936,walhain,1457,399000,house,villa,for-sale,3,158,1,0,0,41,,1921,,0,To be done up
-10754428,knokke,8300,545000,appartment,penthouse,for-sale,1,52,1,0,0,,,,,0,Good
-11128948,zele,9240,145000,house,house,for-sale,2,102,0,0,0,,,52,,0,To renovate
-11128952,jumet,6040,129000,house,house,for-sale,2,115,1,0,0,,100,215,,0,Good
-11128963,poperinge,8970,339000,house,house,for-sale,4,237,1,0,0,,685,874,,0,
-11128969,woluwe-saint-lambert,1200,1190000,house,house,for-sale,5,276,1,0,0,40,50,200,,0,As new
-10827629,de%20panne,8660,150000,appartment,ground-floor,for-sale,,34,1,0,0,,,,,0,Good
-10764222,knokke,8300,1099000,appartment,apartment,for-sale,2,118,1,0,0,,,,,0,Good
-10470855,bruxelles,1020,729000,house,apartment-block,for-sale,,297,1,0,0,,,113,,0,
-11059271,waregem,8792,434000,house,house,for-sale,4,187,1,0,0,,,380,,0,Good
-10868077,laeken,1020,429000,house,house,for-sale,3,157,1,0,1,10,80,,,0,
-10833915,laeken,1020,630000,house,mixed-use-building,for-sale,6,277,1,0,0,,,71,,0,To be done up
-11046570,bruxelles-2,1020,1150000,house,villa,for-sale,4,450,1,0,1,,950,1165,,0,
-10946931,laeken,1020,480000,house,house,for-sale,6,160,1,0,0,20,,,,0,Just renovated
-10928160,bruxelles,1020,570000,house,apartment-block,for-sale,7,220,1,0,0,24,37,13,,0,
-10816490,laeken,1020,319000,house,house,for-sale,3,120,1,0,1,9,25,,,0,
-10996287,laeken,1020,319000,house,house,for-sale,3,120,1,0,1,9,25,,,0,
-10737284,bruxelles,1020,880000,house,apartment-block,for-sale,7,380,1,0,0,170,,234,,0,As new
-11100110,bruxelles,1020,699000,house,apartment-block,for-sale,3,240,0,0,0,,,79,,0,
-11088864,bruxelles,1020,399000,house,house,for-sale,6,210,0,0,0,,44,92,,0,
-11116264,laeken-bru,1020,400000,house,house,for-sale,4,270,1,0,0,,,,,0,
-10938625,bruxelles,1020,409000,house,house,for-sale,4,180,1,0,0,7,,63,,0,Good
-10942872,laeken,1020,399000,house,house,for-sale,3,130,1,0,0,,,45,,0,As new
-10240589,laeken,1020,309000,house,house,for-sale,5,170,1,0,0,,,,,0,
-10839831,bruxelles,1020,275000,house,house,for-sale,3,205,1,0,0,70,,110,,0,To renovate
-10913166,laeken,1020,475000,house,house,for-sale,4,185,1,0,0,10,25,,,0,As new
-10839832,bruxelles,1020,275000,house,mixed-use-building,for-sale,3,205,1,0,0,70,,110,,0,To renovate
-10623630,laeken,1020,309000,house,house,for-sale,5,170,1,0,0,,,,,0,
-10863817,bruxelles,1020,669000,house,apartment-block,for-sale,6,510,1,0,0,,,330,,0,As new
-11000650,bruxelles,1020,450000,house,apartment-block,for-sale,5,210,1,1,0,20,85,135,,0,To be done up
-10794623,bruxelles,1020,520000,house,apartment-block,for-sale,5,270,1,0,0,12,100,150,,0,Good
-11026841,bruxelles,1020,369000,house,mixed-use-building,for-sale,2,100,1,0,0,20,,200,,0,Good
-10787656,bruxelles,1020,469000,house,house,for-sale,7,260,0,0,0,,135,,,0,To be done up
-11126809,laeken,1020,390000,house,house,for-sale,4,150,1,0,1,35,,100,,0,
-10647387,laeken,1020,495000,house,house,for-sale,6,276,1,0,0,,,,,0,Good
-11090755,bruxelles,1020,439000,house,apartment-block,for-sale,3,175,0,0,0,,100,180,,0,To be done up
-11093277,bruxelles,1020,469000,house,house,for-sale,5,260,0,0,0,20,135,265,,0,To renovate
-10887736,laken,1020,650000,house,house,for-sale,2,220,1,0,0,,,239,,0,As new
-10953357,bruxelles,1020,340000,house,mixed-use-building,for-sale,5,175,1,0,0,,,65,,0,To renovate
-11129392,uccle,1180,250000,appartment,apartment,for-sale,2,70,1,0,0,,,,,0,
-11129393,tienen,3300,255000,house,house,for-sale,3,169,1,0,0,,120,120,,0,
-11129400,lembeek,1502,230000,house,house,for-sale,3,100,1,0,0,,,220,,0,Good
-11101515,tubize,1480,299000,house,villa,for-sale,3,192,1,0,0,,900,930,,0,
-11129403,halle,1500,230000,house,house,for-sale,3,100,1,0,0,,,220,,0,Good
-11129404,berchem-sainte-agathe,1082,289000,appartment,apartment,for-sale,3,90,1,0,0,,,,,0,
-11129415,hoeilaart,1560,450000,house,villa,for-sale,5,228,1,0,0,,125,480,,0,To renovate
-11101507,tubize,1480,299000,appartment,country-cottage,for-sale,3,192,1,0,0,,900,930,,0,
-11129409,dendermonde,9200,449000,house,mansion,for-sale,5,301,1,0,1,,,215,,0,To be done up
-11129416,schaerbeek,1030,185000,appartment,apartment,for-sale,1,61,1,0,0,2,,,,0,
-11129407,li%C3%A8ge%20wandre,4020,245000,house,house,for-sale,4,129,1,0,0,25,,335,,0,
-11129052,dendermonde,9200,324900,house,house,for-sale,2,128,1,0,0,45,147,317,,0,Good
-11129051,falisolle,5060,350000,appartment,loft,for-sale,,,1,0,0,,,,,0,To restore
-11129059,hamme,9220,388062,house,house,for-sale,3,192,0,0,0,,,422,,0,
-11129054,aalst,9300,220851,appartment,apartment,for-sale,1,75,1,0,0,5,,,,0,
-11129050,tamines,5060,265000,house,house,for-sale,4,239,1,0,0,,,,,0,Good
-11129061,lede,9340,316405,appartment,apartment,for-sale,2,90,1,0,0,8,,,,0,
-11129057,aalst,9300,315200,appartment,apartment,for-sale,1,99,1,0,0,15,,,,0,
-11129425,ecaussinnes,7190,475000,house,villa,for-sale,4,175,1,0,1,,,1190,,0,Good
-11129426,sint-agatha-berchem,1082,5500000,house,villa,for-sale,6,880,1,1,1,,,3113,,0,
-11129433,lebbeke,9280,325000,house,house,for-sale,3,,1,0,0,,,,,0,
-11129440,wavre,1300,449000,house,town-house,for-sale,4,150,1,0,0,,,340,,0,
-11129427,brussels%20city,1000,5500000,house,manor-house,for-sale,6,880,1,1,1,,,3113,,0,
-11129441,de%20haan,8420,445000,house,house,for-sale,3,142,1,0,0,,,463,,0,Good
-11129428,sint-agatha-berchem,1082,5500000,house,mixed-use-building,for-sale,6,880,1,1,1,,,3113,,0,
-11129447,boom,2850,319000,house,house,for-sale,3,143,1,0,0,,,120,,0,
-11129442,saint-nicolas,4420,249000,house,house,for-sale,3,120,1,0,0,31,,90,,0,As new
-11129448,quaregnon,7390,140000,house,house,for-sale,3,124,1,0,0,,,,,0,
-11049426,scherpenheuvel-zichem,3270,199000,house,house,for-sale,3,104,1,0,0,,,70,,0,Good
-11129449,ampsin,4540,199000,house,house,for-sale,4,166,1,0,0,30,402,597,,0,Good
-10525614,dour,7370,37500,house,house,for-sale,1,,1,0,0,,,1456,,0,To restore
-11129453,ixelles,1050,670000,appartment,penthouse,for-sale,3,192,1,0,0,14,,,,0,Good
-11129454,deurne,2100,349000,house,house,for-sale,4,238,1,0,0,,,95,,0,Good
-11129451,bernissart,7320,90000,house,house,for-sale,2,212,1,0,0,,,209,,0,To renovate
-11129452,ixelles,1050,249000,appartment,apartment,for-sale,1,62,1,0,0,,,,,0,Good
-11001180,bruxelles-ville,1000,2400000,house,mansion,for-sale,3,748,1,0,0,,,100,,0,As new
-11026344,koekelberg,1000,2150000,house,house,for-sale,10,1200,1,1,1,,,1114,,0,Good
-11076436,bruxelles,1000,650000,house,house,for-sale,,300,1,0,0,,,,,0,To renovate
-11103946,bruxelles,1000,479000,house,house,for-sale,4,150,1,0,0,,,,,0,To renovate
-11103500,bruxelles,1000,4250000,house,mixed-use-building,for-sale,34,2295,1,1,0,,,,,0,Good
-10985971,bruxelles-ville,1000,1275000,house,house,for-sale,8,608,1,0,0,,,240,,0,
-11129427,brussels-city,1000,5500000,house,manor-house,for-sale,6,880,1,1,1,,,3113,,0,
-10583561,brussels-city,1000,4500000,house,exceptional-property,for-sale,5,450,1,0,0,,,1961,,0,To be done up
-11102209,bruxelles,1000,1190000,house,exceptional-property,for-sale,1,120,1,0,0,,,,,0,Just renovated
-10871841,bruxelles,1000,3900000,house,apartment-block,for-sale,,750,1,0,0,,,,,0,Good
-11003494,bruxelles,1000,1100000,house,apartment-block,for-sale,11,506,1,0,0,65,62,270,,0,To restore
-11081746,brussels-city,1000,589000,house,house,for-sale,4,195,1,0,0,,,,,0,Good
-11052421,brussel,1000,2000000,house,house,for-sale,11,500,1,0,0,,,100,,0,Good
-10828600,bruxelles,1000,499000,house,house,for-sale,3,123,1,0,0,,,40,,0,As new
-10954554,bruxelles-1,1000,470000,house,apartment-block,for-sale,3,425,0,0,0,,,,,0,
-11117215,bruxelles,1000,890000,house,mixed-use-building,for-sale,,,1,0,0,2,,,,0,Good
-10397275,bruxelles,1000,1300000,house,house,for-sale,5,380,1,0,0,,102,232,,0,To be done up
-11059995,bruxelles-1,1000,350000,house,house,for-sale,7,180,1,0,0,75,45,150,,0,
-10764072,bruxelles,1000,550000,house,house,for-sale,2,108,1,0,0,23,,,,0,As new
-11057461,bruxelles,1000,799000,house,apartment-block,for-sale,5,220,1,0,0,6,,50,,0,
-10859034,bruxelles,1000,325000,house,house,for-sale,4,,0,0,0,,,,,0,Good
-9776162,bruxelles,1000,1420000,house,mixed-use-building,for-sale,8,587,1,0,0,16,,129,,0,Good
-10897300,bruxelles,1000,695000,house,house,for-sale,4,155,1,0,0,32,,,,0,Good
-11041027,pentagone-bruxelles,1000,1300000,house,mixed-use-building,for-sale,8,399,1,0,0,,,100,,0,
-10835842,bruxelles,1000,1185000,house,apartment-block,for-sale,7,320,1,0,0,50,,,,0,As new
-11101727,brussels-city,1000,649000,house,house,for-sale,4,180,1,0,0,,10,,,0,Good
-10582453,bruxelles,1000,3950000,house,mansion,for-sale,5,530,1,0,0,,,213,,0,As new
-11053576,bruxelles,1000,1650000,house,exceptional-property,for-sale,5,635,1,0,0,23,,,,0,Just renovated
-11129081,wetteren,9230,330000,appartment,apartment,for-sale,2,117,1,0,0,19,,,,0,
-11129083,jemeppe-sur-sambre,5190,349000,house,villa,for-sale,3,145,1,0,0,40,400,576,,0,
-10965775,bruxelles,1000,3800000,house,house,for-sale,4,513,1,0,0,20,84,200,,0,As new
-11129085,rixensart,1330,695000,house,house,for-sale,4,218,1,0,0,50,600,680,,0,As new
-11129197,halle,1500,229000,appartment,apartment,for-sale,1,,1,0,0,,,,,0,Just renovated
-11129080,lede,9340,347533,appartment,apartment,for-sale,2,102,1,0,0,8,,,,0,
-11129195,p%C3%89ruwelz,7600,150000,house,house,for-sale,4,185,1,0,0,,,181,,0,As new
-11129089,hoboken,2660,575000,house,house,for-sale,7,363,0,0,0,,,202,,0,Good
-11129079,aalst,9300,354500,appartment,apartment,for-sale,3,106,1,0,0,28,,,,0,
-11065782,st-amandsberg,9040,350112,appartment,apartment,for-sale,3,137,1,0,0,11,,,,0,As new
-10907768,chaudfontaine%20embourg,4053,545000,appartment,ground-floor,for-sale,3,126,1,0,1,40,750,,,0,
-10982012,laeken,1020,699000,house,mixed-use-building,for-sale,3,240,0,0,0,,,79,,0,To renovate
-11129203,saint-josse-ten-noode,1210,229000,appartment,apartment,for-sale,2,82,1,0,0,,,,,0,Good
-10713709,laeken-bru,1020,499000,house,villa,for-sale,4,137,1,0,0,,468,563,,0,
-10929662,laeken,1020,825000,house,apartment-block,for-sale,4,395,1,0,0,,,282,,0,Good
-11129202,gent,9000,120000 + 1600 per month,appartment,apartment,for-sale,2,93,1,0,0,28,,,,0,Good
-11086127,bruxelles,1020,569000,house,mansion,for-sale,4,244,1,0,1,7,35,189,,0,To renovate
-11060227,laeken-bru,1020,295000,house,house,for-sale,4,160,1,0,0,,45,116,,0,To be done up
-10962795,bruxelles,1020,799000,house,mansion,for-sale,5,285,1,0,0,25,300,580,,0,To be done up
-11116075,laeken,1020,285000,house,house,for-sale,6,124,1,0,0,,,,,0,Good
-11056126,laken-bru,1020,499000,house,house,for-sale,6,265,1,0,0,10,250,380,,0,To renovate
-11052017,laeken-bruxelles,1020,725000,house,mixed-use-building,for-sale,4,320,1,0,0,12,45,320,,0,
-10925477,bruxelles,1020,575000,house,apartment-block,for-sale,7,325,1,0,0,10,,81,,0,Good
-11015674,bruxelles,1020,375000,house,house,for-sale,3,150,1,0,0,30,,,,0,To be done up
-10662471,bruxelles,1020,495000,house,mixed-use-building,for-sale,5,330,1,0,0,23,,68,,0,Good
-11042166,laeken,1020,460000,house,house,for-sale,4,159,1,0,0,20,20,189,,0,Good
-11060170,bruxelles,1020,688000,house,house,for-sale,3,200,1,0,0,,500,600,,0,As new
-10981863,bruxelles,1020,399000,house,house,for-sale,7,260,1,1,0,9,,100,,0,To be done up
-10982371,bruxelles,1020,420000,house,house,for-sale,4,200,1,1,0,52,,118,,0,Good
-11117023,bruxelles,1020,840000,house,villa,for-sale,6,438,1,0,1,100,320,674,,0,Just renovated
-10662656,laeken,1020,849000,house,apartment-block,for-sale,6,300,1,0,0,15,40,185,,0,Good
-10813672,laeken,1020,749000,house,apartment-block,for-sale,8,350,1,0,0,,150,270,,0,Good
-10909575,laeken,1020,429000,house,house,for-sale,5,180,1,0,0,,65,179,,0,To renovate
-11089049,laeken,1020,529000,house,villa,for-sale,3,240,1,0,0,,75,317,,0,Good
-10917565,brussel,1020,835000,house,mixed-use-building,for-sale,,425,1,0,0,120,,,,0,To be done up
-11074520,bruxelles,1020,720000,house,house,for-sale,4,370,1,0,0,60,120,290,,0,As new
-10960553,laeken,1020,375000,house,mixed-use-building,for-sale,2,100,1,0,0,,,52,,0,To be done up
-10687336,laeken,1020,900000,house,mansion,for-sale,9,285,1,0,0,18,105,723,,0,As new
-11058037,laeken,1020,490000,house,house,for-sale,7,300,1,0,0,10,50,185,,0,To be done up
-10464091,brussels-city,1020,570000,house,house,for-sale,7,220,1,0,0,24,37,13,,0,Good
-11129204,bruxelles,1000,229000,appartment,apartment,for-sale,2,82,1,0,0,,,,,0,Good
-10955337,laeken,1020,599000,house,apartment-block,for-sale,4,220,1,0,0,2,50,190,,0,Good
-10984941,zwijndrecht,2070,298000,appartment,apartment,for-sale,2,103,1,0,0,12,,,,0,Good
-11129208,kortessem,3720,1450000,house,mixed-use-building,for-sale,,930,1,0,0,,,2313,,0,
-11129205,woluwe-saint-lambert,1200,210000,appartment,apartment,for-sale,1,55,1,0,0,4,,,,0,
-11129207,hasselt,3500,690000,house,mixed-use-building,for-sale,4,240,1,0,0,,,112,,0,To renovate
-10576930,laeken,1020,730000,house,apartment-block,for-sale,6,300,1,0,0,10,320,506,,0,To be done up
-11129223,heist-op-den-berg,2220,248000,appartment,apartment,for-sale,2,105,1,0,0,,,,,0,
-11129215,gent,9000,1325000,appartment,penthouse,for-sale,3,180,1,0,0,58,,,,0,As new
-11129217,mons,7020,246000,appartment,apartment,for-sale,1,85,1,0,0,16,,,,0,
-11129216,gent,9000,495000,appartment,ground-floor,for-sale,1,81,1,0,0,14,5,,,0,As new
-11053135,bruxelles,1000,999000,house,apartment-block,for-sale,5,300,1,0,0,20,,120,,0,Good
-11128974,knokke-heist,8301,1345000,appartment,apartment,for-sale,3,121,1,0,0,,,,,0,Good
-11129211,wavre,1300,269000,appartment,apartment,for-sale,2,100,1,0,0,6,,,,0,Good
-11128979,menen,8930,169000,house,house,for-sale,2,110,1,0,0,,33,70,,0,Good
-11128980,ronse,9600,120000,house,house,for-sale,3,128,1,0,0,,,320,,0,To be done up
-11128975,oostkamp,8020,195000,house,house,for-sale,2,116,1,0,0,,,452,,0,Good
-11128976,mons,7000,180000,house,house,for-sale,2,80,1,0,0,30,,,,0,Good
-11128977,herstal,4040,285000,house,house,for-sale,4,142,1,0,0,15,12,137,,0,Good
-11128978,harelbeke,8530,269000,house,house,for-sale,2,165,1,0,0,,162,267,,0,Good
-11128983,beringen,3580,310000,appartment,apartment,for-sale,3,156,1,0,0,,,,,0,Good
-11129225,heist-op-den-berg,2220,360000,house,house,for-sale,3,156,1,0,0,,,2020,,0,Good
-11129226,ramsel,2230,215000,house,house,for-sale,2,112,1,0,0,,,1817,,0,To renovate
-11128987,koksijde,8670,469000,appartment,apartment,for-sale,3,92,1,1,0,,,,,0,As new
-11128985,ternat,1740,349000,house,house,for-sale,3,134,1,0,0,,,206,,0,Good
-11128984,uccle,1180,950000,house,house,for-sale,5,328,1,0,0,,85,200,,0,To be done up
-11129227,blankenberge,8370,460000,house,manor-house,for-sale,5,494,1,1,0,37,,140,,0,
-10340869,laeken,1020,549000,house,house,for-sale,4,205,1,0,0,6,75,210,,0,To renovate
-11129239,sint-niklaas,9100,386950,appartment,duplex,for-sale,3,156,1,0,0,,,,,0,
-11129229,waterloo,1410,750000,house,villa,for-sale,5,275,1,0,0,,750,1374,,0,
-11129231,schoten,2900,264000,appartment,apartment,for-sale,2,89,1,0,0,6,,,,0,Just renovated
-11129237,bilzen,3740,250000,house,mixed-use-building,for-sale,3,187,1,0,0,17,,173,,0,
-11129241,sint-gillis-waas,9170,538000,house,house,for-sale,3,187,1,0,0,,182,598,,0,Good
-11129251,brussel,1000,325000,appartment,apartment,for-sale,3,200,0,0,0,,,,,0,To renovate
-11129246,assebroek,8310,435000,house,house,for-sale,3,153,1,0,0,25,112,324,,0,Just renovated
-11129238,sint-niklaas,9100,386950,appartment,duplex,for-sale,3,152,1,0,0,,,,,0,
-11129240,sint-niklaas,9100,372250,appartment,duplex,for-sale,3,146,1,0,0,,,,,0,
-11129254,mechelen,2800,329000,house,house,for-sale,4,131,1,0,0,,,317,,0,Just renovated
-11129258,jabbeke,8490,450000,house,house,for-sale,4,,1,0,0,,,898,,0,Good
-11129260,herentals,2200,384000,house,town-house,for-sale,4,267,1,0,0,,,300,,0,
-11104788,torhout,8820,249000,house,house,for-sale,5,186,1,0,0,,,630,,0,Good
-11129261,torhout,8820,249000,house,house,for-sale,5,186,1,0,0,,,630,,0,Good
-10972726,poperinge,8970,215000,house,house,for-sale,3,,1,0,0,,,120,,0,Good
-11129257,varsenare,8490,549000,house,villa,for-sale,3,150,1,0,0,30,,643,,0,Good
-10289295,bruxelles,1020,499000,house,house,for-sale,4,155,1,0,0,28,75,210,,0,Good
-11129262,holsbeek,3220,1480000,house,villa,for-sale,5,431,1,0,0,,,11,,0,
-11020820,bruxelles,1020,339000,house,house,for-sale,4,135,1,0,0,25,,120,,0,To be done up
-11077825,brussels,1000,915000,appartment,other-property,for-sale,60,,1,0,0,,,,,0,Good
-10864056,bruxelles,1000,1100000,house,apartment-block,for-sale,10,,1,0,0,,,,,0,As new
-10945637,bruxelles,1000,2250000,house,apartment-block,for-sale,7,420,1,0,0,,,420,,0,As new
-11077810,bruxelles,1000,22500000,house,mixed-use-building,for-sale,,,1,0,0,,,,,0,As new
-10685042,bruxelles-1,1000,1220000,house,house,for-sale,5,325,1,0,0,20,,120,,0,
-11077832,brussels,1000,4200000,house,apartment-block,for-sale,22,632,1,0,0,,,632,,0,Just renovated
-11121174,bruxelles-1,1000,549000,house,apartment-block,for-sale,6,255,1,0,0,,,,,0,
-11076169,bruxelles,1000,3600000,house,mixed-use-building,for-sale,,600,1,0,0,,,,,0,As new
-11077806,bruxelles,1000,990000,house,apartment-block,for-sale,,1000,1,0,0,,,,,0,To renovate
-11094895,bruxelles,1000,2000000,house,apartment-block,for-sale,9,750,1,0,0,,,,,0,
-11077798,brussels,1000,700000,house,apartment-block,for-sale,,,1,0,0,,,,,0,Good
-10924751,bruxelles,1000,1090000,house,mixed-use-building,for-sale,7,500,1,0,0,,,,,0,Good
-10105032,bruxelles,1000,1299000,house,house,for-sale,5,526,1,0,0,,,105,,0,
-10785401,bruxelles-1,1000,349500,house,house,for-sale,5,195,1,0,0,13,,65,,0,
-10253175,bruxelles,1000,1290000,house,house,for-sale,5,526,1,0,0,,,105,,0,
-10804733,bruxelles-1,1000,620000,house,apartment-block,for-sale,6,250,1,0,0,45,,117,,0,
-11097788,brussels-city,1000,595000,house,house,for-sale,3,150,0,0,0,,230,297,,0,Just renovated
-10465400,brussels-city,1000,350000,house,apartment-block,for-sale,8,396,0,0,0,,,,,0,
-10823522,bruxelles,1000,1180000,house,apartment-block,for-sale,6,440,1,0,0,30,,106,,0,Good
-11053203,bruxelles,1000,750000,house,mixed-use-building,for-sale,,160,1,0,0,,,,,0,
-10943284,bruxelles-1,1000,925000,house,apartment-block,for-sale,10,470,1,0,0,6,,133,,0,
-10352820,bruxelles,1000,190000,house,mixed-use-building,for-sale,,,0,0,0,,,,,0,To be done up
-10770078,bruxelles,1000,650000,house,apartment-block,for-sale,5,209,1,0,0,,,,,0,To renovate
-11032014,bruxelles,1000,299000,house,house,for-sale,2,98,1,0,0,,,48,,0,Good
-11059636,bruxelles,1000,160000,house,apartment-block,for-sale,,32,1,0,0,,,300,,0,To be done up
-9961817,bruxelles,1000,1300000,house,apartment-block,for-sale,8,500,1,0,0,,70,184,,0,To renovate
-11129326,vilvoorde,1800,369000,house,house,for-sale,3,145,1,0,0,14,33,110,,0,Good
-11129334,lummen,3560,300000,appartment,apartment,for-sale,2,94,1,0,0,9,,,,0,
-11129322,sint-amandsberg,9040,365000,house,house,for-sale,1,123,1,0,0,17,,107,,0,As new
-11129337,hamme,9220,195000,house,house,for-sale,2,104,1,0,0,,,230,,0,To be done up
-9961818,bruxelles,1000,1300000,house,mansion,for-sale,8,500,1,0,0,,70,184,,0,To renovate
-11129335,lummen,3560,295500,appartment,apartment,for-sale,2,88,1,0,0,10,,,,0,
-11011510,eghez%C3%A9e,5310,345000,house,house,for-sale,4,170,1,0,0,,,750,,0,Good
-11129327,strombeek-bever,1853,324000,appartment,apartment,for-sale,3,102,1,0,0,15,,,,0,Good
-11129333,lummen,3560,289500,appartment,apartment,for-sale,2,96,1,0,0,7,,,,0,
-11011553,ramillies,1367,345000,house,house,for-sale,4,170,1,0,0,,,750,,0,Good
-11072359,jemeppe-sur-meuse,4101,140000,appartment,apartment,for-sale,2,81,1,0,0,3,,,,0,
-11129431,libramont-chevigny,6800,250000,appartment,apartment,for-sale,5,125,1,0,0,,,,,0,Good
-11128992,izegem,8870,249000,house,house,for-sale,3,150,1,0,0,,,390,,0,Good
-11129348,blankenberge,8370,295000,house,exceptional-property,for-sale,4,,1,0,0,,,,,0,Just renovated
-11128995,dendermonde,9200,229900,appartment,ground-floor,for-sale,1,63,1,0,0,,,,,0,Good
-11129014,halle,1500,249000,appartment,ground-floor,for-sale,1,55,1,0,0,13,50,,,0,Just renovated
-11129347,fl%C3%A9ron,4621,299000,house,house,for-sale,3,133,1,0,0,,,831,,0,Good
-11129349,fl%C3%A9ron,4621,299000,house,bungalow,for-sale,3,133,1,0,0,,,831,,0,Good
-11128991,gent,9000,289000,appartment,apartment,for-sale,2,88,1,0,0,,,,,0,Good
-11129021,forest,1190,370000,appartment,apartment,for-sale,2,114,1,0,0,5,,,,0,To be done up
-11129008,nivelles,1400,149000,appartment,apartment,for-sale,1,50,1,0,0,,,,,0,As new
-11129023,kortrijk,8500,285000,appartment,apartment,for-sale,3,105,1,0,0,,,,,0,
-11129024,kortrijk,8500,268000,appartment,apartment,for-sale,3,105,1,0,0,,,,,0,
-11129026,kapelle-op-den-bos,1880,500000,house,house,for-sale,3,259,1,0,0,31,175,671,,0,Good
-11098274,schaerbeek,1030,180000,appartment,apartment,for-sale,2,60,1,0,0,,,,,0,Good
-11128999,wavre,1300,65000,appartment,other-property,for-sale,1,30,1,0,0,30,,125,,0,To renovate
-11129007,nivelles,1400,149000,appartment,flat-studio,for-sale,1,50,1,0,0,,,,,0,As new
-11129040,waregem,8790,783000,house,villa,for-sale,3,,1,0,0,,,1454,,0,
-11129031,ekeren,2180,295000,house,house,for-sale,3,,1,0,0,,,,,0,
-11129041,schaerbeek,1030,300000,appartment,apartment,for-sale,3,111,0,0,0,7,,,,0,
-11129044,beveren-%20leie,8791,480000,house,villa,for-sale,3,,1,0,0,,,953,,0,
-10963459,mechelen,2800,398000,house,house,for-sale,2,364,1,0,0,,,,,0,Good
-11129030,essen,2910,315000,house,house,for-sale,3,181,1,0,0,27,185,367,,0,Good
-11129039,wielsbeke,8710,329000,house,house,for-sale,3,200,1,0,0,,,511,,0,Good
-11127566,bruxelles,1020,475000,house,house,for-sale,4,268,1,0,0,,,121,,0,Good
-10916991,laeken,1020,529000,house,house,for-sale,5,187,1,0,0,19,170,260,,0,To renovate
-10940507,laeken,1020,589000,house,house,for-sale,5,214,1,0,0,,109,207,,0,Good
-11040657,bruxelles,1020,290000,house,house,for-sale,4,170,1,0,0,15,,76,,0,To renovate
-11087920,bruxelles,1020,445000,house,apartment-block,for-sale,3,190,1,0,0,14,,72,,0,Good
-11124060,brussels-city,1020,369000,house,house,for-sale,5,150,1,0,0,30,,90,,0,To renovate
-11102049,ixelles,1020,720000,house,apartment-block,for-sale,,,1,0,0,,,,,0,
-10961983,brussel,1020,599000,house,mansion,for-sale,5,314,1,0,0,,90,204,,0,Good
-10913241,bruxelles,1020,Starting price : 150000,house,house,for-sale,1,,1,0,0,,,95,,0,
-9649118,bruxelles-2,1020,1375000,house,apartment-block,for-sale,4,1743,1,0,0,15,,,,0,
-11062144,bruxelles,1020,Starting price : 220000,house,house,for-sale,3,,1,0,0,,,233,,0,
-10638083,laeken,1020,285000,house,house,for-sale,4,177,1,0,0,,,87,,0,To renovate
-11075692,bruxelles,1020,395000,house,town-house,for-sale,4,,1,0,0,15,,,,0,To be done up
-9638315,bruxelles-2,1020,729000,house,apartment-block,for-sale,3,253,0,0,0,185,,470,,0,
-11079932,laken,1020,375000,house,house,for-sale,3,259,1,0,0,,,172,,0,
-11005242,laeken,1020,695000,house,apartment-block,for-sale,6,300,1,0,0,3,145,247,,0,
-11106233,brussels-city,1020,720000,house,apartment-block,for-sale,5,,1,0,0,31,,140,,0,Good
-10655466,laeken,1020,650000,house,town-house,for-sale,6,390,1,0,0,15,210,365,,0,
-11010304,laeken,1020,550000,house,house,for-sale,8,213,1,0,0,,,65,,0,Good
-11106230,brussels-city,1020,720000,house,house,for-sale,5,,1,0,0,31,,140,,0,Good
-11035494,bruxelles,1020,Starting price : 199000,house,house,for-sale,3,180,1,0,0,,,,,0,Good
-11066003,bruxelles,1020,1100000,house,exceptional-property,for-sale,4,327,1,0,0,,,,,0,Good
-11077471,bruxelles,1020,720000,house,house,for-sale,5,326,1,0,0,,,,,0,As new
-10987157,laken,1020,375000,house,house,for-sale,2,,1,0,0,,,250,,0,To renovate
-11034833,laeken,1020,795000,house,apartment-block,for-sale,6,342,1,0,0,,,340,,0,Good
-11122678,brussels-city,1020,725000,house,apartment-block,for-sale,6,251,1,0,0,20,,,,0,Good
-9897322,bruxelles,1000,1520000,house,apartment-block,for-sale,10,654,1,0,0,,,175,,0,Good
-10179327,laeken,1020,795000,house,house,for-sale,6,366,1,0,1,23,327,503,,0,
-11129359,machelen,1830,389000,house,house,for-sale,3,248,1,0,0,,,198,,0,Good
-11129363,wevelgem,8560,389000,house,house,for-sale,2,150,1,0,0,,,784,,0,Good
-11129353,brasschaat,2930,639000,house,house,for-sale,4,234,1,0,0,18,400,580,,0,
-11129358,charleroi,6000,18000,house,house,for-sale,,18,1,0,0,,,,,0,
-11129360,mazee,5670,39000,house,house,for-sale,1,81,0,0,0,,,51,,0,
-11129362,charleroi,6000,120000,house,house,for-sale,2,200,1,0,0,,,150,,0,
-11129352,brasschaat,2930,639000,house,house,for-sale,4,234,1,0,0,18,400,580,,0,
-11129369,tamines,5060,189000,house,house,for-sale,3,183,1,0,0,,,383,,0,
-11129378,saint-servais,5002,474000,house,house,for-sale,5,267,1,0,0,41,,3845,,0,
-11129382,fosses-la-ville,5070,179000,appartment,apartment,for-sale,2,106,1,0,0,,,,,0,
-11129370,saint-denis-bovesse,5081,279000,house,house,for-sale,3,92,1,0,0,,,607,,0,
-10948515,tienen,3300,169000,appartment,apartment,for-sale,1,65,1,0,0,10,,,,0,Good
-11129381,fosses-la-ville,5070,145000,appartment,apartment,for-sale,2,85,1,0,0,,,,,0,
-11129371,wijnegem,2110,325000,house,house,for-sale,2,108,1,0,0,,100,167,,0,As new
-10855418,dilbeek,1700,730000,house,villa,for-sale,4,260,1,0,0,40,,696,,0,Good
-11129390,antwerp,2140,155000,appartment,ground-floor,for-sale,1,53,1,0,0,,,,,0,Good
-10915432,bruxelles,1000,650000,house,mixed-use-building,for-sale,7,,1,0,0,,,,,0,To be done up
-11129391,anderlecht,1070,295000,house,house,for-sale,2,94,1,0,0,6,,67,,0,
-10971329,brussels-city,1000,545000,house,apartment-block,for-sale,3,,1,0,0,,,,,0,To renovate
-10545693,bruxelles,1000,285000,house,exceptional-property,for-sale,2,100,1,0,0,10,,40,,0,To restore
-10962524,bruxelles,1000,330000,house,house,for-sale,4,223,1,0,0,,,50,,0,To renovate
-11062763,bruxelles1,1000,380000,house,apartment-block,for-sale,5,160,1,0,0,,,,,0,
-11078393,bruxelles1,1000,380000,house,apartment-block,for-sale,5,160,1,0,0,,,,,0,
-11098997,bruxelles,1000,465000,house,house,for-sale,4,130,1,0,0,,,,,0,To be done up
-10963443,bruxelles,1000,300000,house,house,for-sale,2,130,1,0,0,,,35,,0,
-11057159,bruxelles,1000,675000,house,house,for-sale,3,170,1,1,0,,,,,0,Just renovated
-10958072,brussels-city,1000,349999,house,house,for-sale,2,90,1,0,0,5,,,,0,Good
-10817807,bruxelles,1000,749000,house,mansion,for-sale,5,288,1,0,0,21,75,,,0,As new
-11125574,bruxelles,1000,685000,house,apartment-block,for-sale,8,860,1,0,0,,,,,0,
-10470523,bruxelles,1000,650000,house,mixed-use-building,for-sale,3,206,1,0,0,,,,,0,To renovate
-11099008,bruxelles,1000,1850000,house,apartment-block,for-sale,,1200,1,0,0,,,,,0,To renovate
-10962147,brussels-city,1000,469000,house,apartment-block,for-sale,3,180,1,0,0,,,65,,0,Good
-11020183,brussel,1000,999000,house,apartment-block,for-sale,7,280,1,1,0,,,86,,0,Good
-10823525,bruxelles,1000,1750000,house,mixed-use-building,for-sale,15,882,1,0,0,10,,172,,0,Good
-11073490,bruxelles,1000,1750000,house,mixed-use-building,for-sale,10,536,1,0,0,,,140,,0,Good
-10785531,bruxelles,1000,750000,house,apartment-block,for-sale,5,240,1,0,0,,,83,,0,
-10918637,brussels-city,1000,389000,house,house,for-sale,3,171,1,0,0,,,140,,0,To renovate
-11083799,brussels-city,1000,599000,house,apartment-block,for-sale,6,160,1,0,0,,,45,,0,Just renovated
-11016702,brussel,1000,750000,house,mansion,for-sale,4,300,0,0,0,,60,160,,0,To be done up
-11121704,brussel,1000,455000,house,house,for-sale,2,140,1,0,1,,,54,,0,As new
-10780666,bruxelles,1000,1400000,house,house,for-sale,,,1,0,0,,,,,0,To be done up
-10701232,brussels-city,1000,409000,house,mixed-use-building,for-sale,2,170,0,0,0,,,,,0,To renovate
-10902966,bruxelles,1000,555000,house,mixed-use-building,for-sale,,,1,0,0,,,,,0,Good
-10979713,bruxelles,1000,1695000,house,apartment-block,for-sale,,480,1,0,0,,,,,0,Good
-10867991,bruxelles,1000,Starting price : 200000,house,house,for-sale,5,,1,0,0,,,,,0,
-11129272,houthalen-helchteren,3530,379000,appartment,ground-floor,for-sale,3,176,1,0,0,,125,,,0,Good
-11055099,brussels,1000,535000,house,house,for-sale,3,130,1,0,0,,,,,0,Just renovated
-11129268,lede,9340,550000,house,house,for-sale,3,206,1,0,0,,78,226,,0,
-11062855,hannut,4280,375000,house,apartment-block,for-sale,4,213,1,0,0,,,840,,0,Good
-11129270,hingeon,5380,239000,appartment,apartment,for-sale,2,,1,0,0,,274,,,0,As new
-11129271,mechelen,2800,398000,appartment,apartment,for-sale,2,97,1,0,0,7,,,,0,Good
-11129274,leopoldsburg,3970,245000,house,house,for-sale,2,110,1,0,0,14,,106,,0,Just renovated
-11129273,eksel,3941,329000,house,bungalow,for-sale,3,135,1,0,0,,,1195,,0,Good
-11129281,herentals,2200,429500,house,house,for-sale,3,,1,0,0,,,200,,0,As new
-11129282,hofstade,9308,249000,appartment,duplex,for-sale,2,86,1,0,0,,,,,0,
-11129275,hamont-achel,3930,399000,house,house,for-sale,3,180,1,0,0,,1500,1945,,0,Just renovated
-11129283,schoten,2900,375000,house,house,for-sale,3,182,1,0,0,,48,135,,0,Just renovated
-11129285,kalmthout,2920,445000,house,house,for-sale,3,160,1,0,0,,488,960,,0,Good
-11129287,rendeux,6987,219000,house,house,for-sale,3,137,1,0,0,10,3307,3307,,0,Just renovated
-11129289,mellet,6211,275000,house,villa,for-sale,3,186,1,0,0,,,1070,,0,To be done up
-9299048,blankenberge,8370,75000,appartment,apartment,for-sale,1,26,1,0,0,,,,,0,Good
-11129292,middelkerke,8430,335000,appartment,apartment,for-sale,2,86,1,0,0,,,,,0,Good
-10999029,brussels-city,1000,Starting price : 700000,house,house,for-sale,8,,1,0,0,,,195,,0,
-11050806,brussels-city,1020,449000,house,house,for-sale,3,205,1,0,0,12,18,75,,0,Good
-11129301,blankenberge,8370,119500,appartment,apartment,for-sale,2,72,1,0,0,,20,,,0,Good
-11129303,de%20haan,8420,119000,appartment,apartment,for-sale,2,48,1,0,0,,,,,0,Good
-11129306,wemmel,1780,925000,house,house,for-sale,5,453,1,0,0,,600,1066,,0,Good
-10650818,zwevegem,8550,235000,appartment,service-flat,for-sale,1,86,1,0,0,25,,,,0,
-11129307,anderlecht,1070,175000,appartment,apartment,for-sale,1,62,1,0,0,8,,,,0,
-11129320,sint-amandsberg,9040,384500,house,exceptional-property,for-sale,3,153,1,0,0,,,330,,0,
-11129311,ieper,8900,199000,house,house,for-sale,3,,1,0,0,,25,125,,0,
-11129315,grimbergen,1850,225000,house,house,for-sale,,95,1,0,0,,,358,,0,Good
-11129318,hogne,5377,185000,appartment,country-cottage,for-sale,2,60,1,0,0,14,,1446,,0,Good
-11129321,gent,9040,394000,house,house,for-sale,4,,1,0,0,12,,196,,0,Good
-11129309,antwerp,2018,179000,appartment,flat-studio,for-sale,1,48,1,0,0,,,,,0,Good
-10822302,bruxelles,1000,1250000,house,apartment-block,for-sale,10,654,1,0,0,,,175,,0,Good
-11129314,mechelen,2811,385000,house,house,for-sale,3,,1,0,0,,,1400,,0,Good
-10435396,bruxelles,1000,1290000,house,mixed-use-building,for-sale,8,587,1,0,0,16,,129,,0,Good
-10811376,brussel,1000,750000,house,mixed-use-building,for-sale,2,,1,0,0,,,116,,0,Good
-10819758,bruxelles,1000,2560000,house,apartment-block,for-sale,10,656,1,0,0,11,,222,,0,Good
-10811725,bruxelles-ville,1000,670000,house,apartment-block,for-sale,7,300,1,0,0,,,100,,0,Good
-11122981,bruxelles,1000,1100000,house,mixed-use-building,for-sale,6,,1,0,0,,,93,,0,Good
-10893891,brussels-city,1000,2400000,appartment,other-property,for-sale,10,680,1,1,0,15,,230,,0,As new
-10938334,brussels-city,1000,545000,house,mixed-use-building,for-sale,2,284,1,0,0,,,142,,0,Good
-11002024,bruxelles,1000,675000,house,house,for-sale,4,200,1,0,0,1,1,165,,0,Good
-10793520,brussels-city,1000,589000,house,house,for-sale,4,180,1,0,0,,,80,,0,Good
-10955776,bruxelles,1000,295000,house,house,for-sale,6,150,1,0,0,,,35,,0,To renovate
-11010121,bruxelles,1000,1990000,house,apartment-block,for-sale,,872,1,0,0,,,323,,0,To be done up
-11115576,bruxelles,1000,525000,house,apartment-block,for-sale,,300,1,0,0,,,155,,0,To be done up
-10514317,bruxelles,1000,850000,house,mixed-use-building,for-sale,,320,1,0,0,14,,150,,0,To be done up
-10652551,bruxelles,1000,549000,house,house,for-sale,6,248,1,0,1,7,14,80,,0,Just renovated
-10466107,brussels-city,1000,990000,appartment,other-property,for-sale,5,243,1,0,0,15,,178,,0,As new
-10938063,bruxelles,1000,960000,house,house,for-sale,6,293,1,0,1,,45,130,,0,As new
-11089282,bruxelles,1000,1150000,house,mixed-use-building,for-sale,19,959,1,1,0,10,,39,,0,To be done up
-11104719,bruxelles,1000,675000,house,house,for-sale,5,276,1,1,0,4,,65,,0,Good
-10892129,bruxelles,1000,675000,house,apartment-block,for-sale,4,265,1,0,0,10,,,,0,To be done up
-11089283,bruxelles,1000,1150000,house,house,for-sale,19,959,1,1,0,10,,39,,0,To be done up
-10960618,bruxelles,1000,1200000,house,apartment-block,for-sale,3,274,1,0,0,,,90,,0,To renovate
-10983843,bruxelles,1000,695000,house,house,for-sale,6,279,1,0,1,14,,98,,0,Good
-10908737,bruxelles,1000,1500000,house,apartment-block,for-sale,6,380,1,0,0,15,,92,,0,Just renovated
-10774385,bruxelles-ville,1000,535000,house,house,for-sale,3,120,1,0,0,,30,80,,0,As new
-10934351,bruxelles,1000,240000,house,house,for-sale,3,140,1,0,0,10,,,,0,
-10322130,bruxelles,1000,1800000,house,apartment-block,for-sale,8,1000,1,0,0,,,,,0,As new
-11128679,folx-les-caves,1350,100000 + 750 per month,house,house,for-sale,3,129,1,0,0,50,2213,2306,,0,Good
-10934334,bruxelles,1000,490000,house,house,for-sale,3,,1,0,0,1,,,,0,
-11128760,uccle,1180,290000,appartment,apartment,for-sale,2,,1,0,0,3,,,,0,Good
-11083647,bruxelles,1000,2950000,house,apartment-block,for-sale,16,1027,1,0,0,,,,,0,
-10922226,bruxelles,1000,1100000,house,apartment-block,for-sale,,,1,0,0,,,,,0,
-11038031,etterbeek,1040,Starting price : 450000,house,house,for-sale,6,,1,0,0,,,105,,0,Good
-10356861,etterbeek,1040,1250000,house,mansion,for-sale,8,500,1,0,0,30,45,170,,0,Good
-11128411,zeebrugge,8380,249000,appartment,apartment,for-sale,1,68,1,0,0,6,,,,0,Good
-11102000,etterbeek,1040,1850000,house,mansion,for-sale,8,783,1,0,0,,,330,,0,To renovate
-10975848,etterbeek,1040,Starting price : 495000,house,house,for-sale,8,,1,0,0,,,235,,0,
-11097449,etterbeek,1040,475000,house,house,for-sale,5,,1,0,0,,62,247,,0,To renovate
-10624658,etterbeek,1040,2900000,house,house,for-sale,,957,1,0,0,,,750,,0,
-10990961,etterbeek,1040,735000,house,mansion,for-sale,5,190,1,0,0,17,,75,,0,Good
-10913888,etterbeek,1040,850000,house,mixed-use-building,for-sale,2,330,1,0,0,10,,,,0,To be done up
-10902804,etterbeek,1040,1990000,house,mansion,for-sale,5,610,1,0,0,20,,220,,0,
-11128372,evere,1140,695000,house,apartment-block,for-sale,4,310,1,0,0,20,,,,0,Good
-10913889,etterbeek,1040,850000,house,mixed-use-building,for-sale,1,330,1,0,0,10,,,,0,To be done up
-10619608,etterbeek,1040,2490000,house,house,for-sale,4,400,1,0,0,,,150,,0,As new
-11123017,etterbeek,1040,750000,house,apartment-block,for-sale,6,270,1,0,0,,,80,,0,To be done up
-11128363,leuven,3000,569000,house,house,for-sale,3,155,1,0,0,16,,,,0,Good
-11109555,etterbeek,1040,999000,house,apartment-block,for-sale,9,485,1,0,0,25,45,,,0,To be done up
-10866516,etterbeek,1040,649000,house,house,for-sale,4,176,1,0,0,37,,75,,0,To be done up
-11128299,wetteren,9230,522116,house,villa,for-sale,3,165,1,0,0,23,718,838,,0,As new
-11128289,lommel,3920,195000,house,house,for-sale,1,,1,0,0,,,430,,0,To be done up
-11128252,uccle,1180,1750000,house,house,for-sale,6,340,1,0,0,66,650,1343,,0,To be done up
-10777631,etterbeek,1040,1300000,house,house,for-sale,6,455,1,0,0,13,150,330,,0,To be done up
-11128292,gent,9000,309000,house,house,for-sale,3,116,1,0,0,12,,87,,0,Good
-11128288,as,3665,359000,house,house,for-sale,3,220,1,0,0,,,1423,,0,Good
-11128291,uccle,1180,650000,house,house,for-sale,4,174,1,0,0,10,40,110,,0,As new
-11128309,gent,9000,1047510,appartment,apartment,for-sale,2,134,1,0,0,15,,,,0,As new
-11128316,gent,9000,666410,appartment,apartment,for-sale,2,92,1,0,0,9,,,,0,As new
-11128322,gent,9000,787950,appartment,apartment,for-sale,2,101,1,0,0,11,,,,0,As new
-11128312,gent,9000,644393,appartment,apartment,for-sale,1,77,1,0,0,9,,,,0,As new
-11128314,gent,9000,634947,appartment,apartment,for-sale,1,77,1,0,0,9,,,,0,As new
-11128324,gent,9000,653049,appartment,apartment,for-sale,1,77,1,0,0,10,,,,0,As new
-11128330,deinze,9800,250000,house,house,for-sale,3,230,1,0,0,,500,,,0,
-11128319,gent,9000,954810,appartment,apartment,for-sale,2,119,1,0,0,24,,,,0,As new
-11128321,gent,9000,639669,appartment,apartment,for-sale,1,77,1,0,0,9,,,,0,As new
-11128337,gent,9000,599000,house,apartment-block,for-sale,3,104,1,0,0,,,48,,0,As new
-11128343,ninove,9400,170000,appartment,apartment,for-sale,2,74,1,0,0,,,,,0,Good
-11128347,gent%20gentbrugge,9050,560000,house,house,for-sale,3,153,1,0,0,19,136,286,,0,
-11128349,gent%20gentbrugge,9050,640000,house,house,for-sale,3,153,1,0,0,18,258,402,,0,
-11128333,gavere,9890,420000,house,house,for-sale,6,360,1,0,0,,120,330,,0,
-11128334,gent,9000,299000,house,house,for-sale,3,120,1,0,0,11,,,,0,
-11128331,gavere,9890,365000,house,house,for-sale,5,185,1,0,0,,60,235,,0,
-11128348,gent%20gentbrugge,9050,566800,house,house,for-sale,3,153,1,0,0,19,160,304,,0,
-11128355,gent%20mariakerke,9030,474002,house,house,for-sale,3,173,1,0,0,20,147,,,0,As new
-11128356,gent%20mariakerke,9030,468532,house,house,for-sale,3,178,1,0,0,26,166,,,0,As new
-11100100,etterbeek,1040,749000,house,house,for-sale,5,225,1,0,0,9,71,150,,0,To renovate
-11128358,mortsel,2640,699000,house,house,for-sale,4,186,1,0,0,53,,231,,0,Just renovated
-11128359,geraardsbergen%20viane,9500,441500,house,house,for-sale,3,209,1,0,0,23,556,673,,0,As new
-11128361,gent,9000,1170000,house,apartment-block,for-sale,7,418,1,1,0,,45,210,,0,Good
-11019014,etterbeek,1040,599000,house,house,for-sale,6,271,1,0,0,10,,,,0,To be done up
-11094978,etterbeek,1040,995000,house,mixed-use-building,for-sale,,855,0,0,0,,,475,,0,To renovate
-10920095,etterbeek,1040,495000,house,mixed-use-building,for-sale,3,180,1,0,0,,,180,,0,To renovate
-10963860,etterbeek,1040,595000,house,house,for-sale,3,145,1,0,0,20,13,78,,0,As new
-11015857,etterbeek,1040,890000,house,apartment-block,for-sale,8,485,1,0,0,40,,200,,0,To renovate
-10933122,etterbeek,1040,750000,house,house,for-sale,6,335,1,0,0,10,71,210,,0,Good
-11055930,etterbeek,1040,499000,house,house,for-sale,3,215,1,0,0,3,,60,,0,Good
-11055939,etterbeek,1040,499000,house,house,for-sale,,236,0,0,0,,,60,,0,Good
-10562194,etterbeek,1040,2900000,house,apartment-block,for-sale,,,1,0,0,45,450,700,,0,Good
-11126302,etterbeek,1040,599000,house,house,for-sale,6,257,0,0,0,,15,84,,0,To renovate
-11126307,etterbeek,1040,599000,house,apartment-block,for-sale,,257,0,0,0,,15,84,,0,To renovate
-11007479,etterbeek,1040,625000,house,house,for-sale,6,,1,0,0,,,,,0,Good
-10646679,etterbeek,1040,1799000,house,apartment-block,for-sale,7,400,1,0,1,60,752,,,0,Good
-10606018,etterbeek,1040,920000,house,mixed-use-building,for-sale,,580,1,0,0,,,260,,0,
-10609748,bruxelles,1040,1195000,house,apartment-block,for-sale,,,1,0,0,,,,,0,
-10876934,etterbeek,1040,595000,house,apartment-block,for-sale,4,160,1,0,0,,,,,0,
-11098651,etterbeek,1040,1355000,house,apartment-block,for-sale,10,320,1,0,0,,,,,0,
-11125026,etterbeek,1040,1400000,house,mixed-use-building,for-sale,3,700,1,0,0,3,,,,0,
-10894916,etterbeek,1040,475000,house,house,for-sale,3,182,1,0,0,,,,,0,To renovate
-10556343,etterbeek,1040,3850000,house,mansion,for-sale,5,850,1,0,1,20,1,450,,0,As new
-10816295,etterbeek,1040,749000,house,mansion,for-sale,5,288,1,0,0,21,75,,,0,As new
-11086301,etterbeek,1040,1795000,house,mansion,for-sale,6,706,1,0,0,,,210,,0,Good
-10058543,etterbeek,1040,1120000,house,mansion,for-sale,5,316,1,0,0,,80,165,,0,As new
-11070610,etterbeek,1040,720000,house,house,for-sale,3,180,1,0,0,20,,,,0,As new
-10714174,etterbeek,1040,750000,house,mixed-use-building,for-sale,2,200,1,0,0,1,,55,,0,As new
-11061366,etterbeek,1040,930000,house,apartment-block,for-sale,5,340,1,0,0,80,200,330,,0,To be done up
-10979574,etterbeek,1040,1795000,house,house,for-sale,,706,1,0,1,1,73,210,,0,As new
-11128237,herselt,2230,307365,appartment,apartment,for-sale,2,101,1,0,0,20,,,,0,As new
-11128236,houthalen-helchteren,3530,319000,house,house,for-sale,3,,1,0,0,,,1160,,0,
-11128240,antwerpen%20merksem,2170,665000,house,house,for-sale,3,250,1,0,0,,70,202,,0,As new
-11018343,etterbeek,1040,795000,house,house,for-sale,4,280,1,0,0,15,35,,,0,To be done up
-11128238,bree%20opitter,3960,371500,house,house,for-sale,3,174,1,0,0,,,384,,0,
-11128239,bree%20opitter,3960,369000,house,house,for-sale,3,174,1,0,0,,,375,,0,
-11128235,genk,3600,245000,appartment,apartment,for-sale,2,125,1,0,0,10,,,,0,
-11128242,gent,9000,589000,house,house,for-sale,4,165,1,0,0,,,121,,0,As new
-11128243,sint-martens-latem,9831,795000,house,house,for-sale,3,,1,0,0,,,740,,0,As new
-11128249,evere,1140,310000,appartment,apartment,for-sale,1,62,1,1,0,5,,,,0,As new
-11128250,uccle,1180,1090000,appartment,apartment,for-sale,3,199,1,0,0,,,,,0,Good
-11128251,ixelles,1050,290000,appartment,flat-studio,for-sale,1,46,1,1,0,5,,,,0,Good
-11128241,antwerp,2000,665000,house,house,for-sale,3,250,1,0,0,,70,202,,0,As new
-11128253,ronse,9600,795000,house,mansion,for-sale,5,428,1,0,0,,,1919,,0,As new
-11128244,zaventem%20sint-stevens-woluwe,1932,400000,house,house,for-sale,3,112,1,0,0,19,475,560,,0,To be done up
-11128255,la%20louvi%C3%A8re,7100,180000,appartment,apartment,for-sale,2,124,1,0,0,,,,,0,Good
-11128276,mortsel,2640,995000,house,apartment-block,for-sale,6,545,1,0,0,,,121,,0,Good
-11128277,berendrecht,2040,309000,house,house,for-sale,4,202,1,0,0,,,200,,0,Good
-11128274,antwerp,2610,495000,appartment,apartment,for-sale,4,160,0,0,0,,,,,0,To be done up
-11038614,antwerpen%20hoboken,2660,373000,house,house,for-sale,4,190,1,0,0,,47,130,,0,Good
-11128278,aalst,9300,547000,house,house,for-sale,2,385,1,0,0,,,,,0,
-11128275,antwerpen%20merksem,2170,429900,house,mixed-use-building,for-sale,3,210,1,0,0,,,65,,0,Good
-11128268,brussels%20city,1000,550000,appartment,ground-floor,for-sale,3,113,1,1,0,,,,,0,As new
-11128257,farciennes,6240,199000,house,mixed-use-building,for-sale,4,208,1,1,0,,,180,,0,Good
-11055815,aalst,9300,149000,appartment,apartment,for-sale,2,,1,0,0,,,,,0,Good
-11128286,muizen,2812,485000,house,house,for-sale,4,216,1,0,0,,265,684,,0,To be done up
-11001619,ixelles,1050,775000,house,apartment-block,for-sale,3,195,1,0,0,4,40,,,0,Good
-10898511,ixelles,1050,895000,house,house,for-sale,4,240,1,0,0,8,30,100,,0,Good
-10810869,ixelles,1050,995000,house,house,for-sale,5,380,1,0,0,36,185,310,,0,Good
-11128287,duffel,2570,349000,house,house,for-sale,3,108,1,0,0,,51,146,,0,
-11128283,tongeren,3700,185000,house,house,for-sale,3,149,1,0,0,10,300,381,,0,To renovate
-11128284,tongeren,3700,165000,appartment,apartment,for-sale,1,63,1,0,0,13,,,,0,Good
-10921878,ixelles,1050,1395000,house,mansion,for-sale,5,330,1,0,0,,,167,,0,
-11093915,ixelles,1050,645000,house,apartment-block,for-sale,5,230,1,0,0,9,,131,,0,To renovate
-11127281,elsene,1050,630000,house,apartment-block,for-sale,,180,1,0,1,,,,,0,Just renovated
-11055190,ixelles,1050,630000,house,house,for-sale,2,110,1,0,0,4,,,,0,As new
-11112036,ixelles,1050,1500000,house,house,for-sale,4,275,1,0,0,20,45,150,,0,Just renovated
-10774852,ixelles,1050,1150000,house,apartment-block,for-sale,6,394,1,0,0,14,74,240,,0,As new
-11119799,ixelles,1050,699000,house,house,for-sale,6,,1,0,0,,,130,,0,To be done up
-10965478,ixelles,1050,1100000,house,house,for-sale,6,350,1,0,0,,50,155,,0,
-11013615,ixelles,1050,650000,house,apartment-block,for-sale,4,190,1,0,0,22,77,140,,0,Good
-10817859,ixelles,1050,1030000,house,house,for-sale,4,327,1,0,0,,250,366,,0,To be done up
-10757464,ixelles,1050,1550000,house,apartment-block,for-sale,8,501,1,0,0,,,182,,0,To be done up
-11042173,ixelles,1050,799000,house,apartment-block,for-sale,7,429,1,0,0,20,100,210,,0,To renovate
-11009167,ixelles,1050,725000,house,house,for-sale,8,232,1,0,0,30,178,260,,0,To renovate
-11043349,ixelles,1050,675000,house,house,for-sale,5,253,1,0,0,20,20,106,,0,Good
-10865549,ixelles,1050,949000,house,mansion,for-sale,5,314,1,0,0,1,34,105,,0,Just renovated
-10644403,ixelles,1050,845000,house,mansion,for-sale,5,490,1,0,0,19,273,415,,0,Good
-10755325,etterbeek,1040,785000,house,mixed-use-building,for-sale,2,200,1,0,0,,,60,,0,As new
-11091396,etterbeek,1040,780000,house,house,for-sale,4,230,1,0,0,,63,,,0,To be done up
-11081251,etterbeek,1040,700000,house,apartment-block,for-sale,,,1,0,0,,60,,,0,
-11026482,etterbeek,1040,325000,house,house,for-sale,4,140,1,0,0,,,225,,0,As new
-11075842,ixelles,1050,595000,house,house,for-sale,4,243,1,0,0,,,110,,0,To renovate
-11034863,ixelles,1050,1550000,house,mansion,for-sale,8,580,1,0,0,50,326,575,,0,Good
-11085487,etterbeek,1040,795000,house,house,for-sale,8,300,1,0,0,32,,,,0,Good
-11128376,deinze,9800,270000,appartment,apartment,for-sale,1,61,1,0,0,10,,,,0,As new
-10812913,etterbeek,1040,795000,house,house,for-sale,4,280,1,0,0,15,35,,,0,To be done up
-10934170,denderhoutem,9450,359000,house,house,for-sale,4,180,1,0,0,,,211,,0,Good
-11128374,berchem-sainte-agathe,1082,185000,appartment,apartment,for-sale,1,88,1,0,0,6,,,,0,To renovate
-11128377,manage%20la%20hestre,7170,285000,house,house,for-sale,2,175,1,0,0,,,2130,,0,Good
-11128379,charleroi%20jumet,6040,139000,house,house,for-sale,3,108,1,0,0,6,100,100,,0,Good
-11128378,la%20louvi%C3%A8re,7100,249000,house,house,for-sale,3,198,1,0,0,,,,,0,Good
-11128381,ninove,9400,410000,house,house,for-sale,3,142,1,0,0,,,514,,0,As new
-11128382,ninove,9400,385000,house,house,for-sale,3,128,1,0,0,,,322,,0,As new
-10965329,brakel,9660,295000,house,house,for-sale,6,,1,0,0,,,1080,,0,
-11128384,kasterlee,2460,320000,house,house,for-sale,3,179,1,0,0,,,1270,,0,To renovate
-11128385,gochenee,5680,135000,house,house,for-sale,2,133,1,0,0,,,,,0,Good
-11128387,erembodegem,9320,375000,house,house,for-sale,2,141,1,0,0,,187,304,,0,Good
-11128383,herstal,4040,199000,house,house,for-sale,3,156,1,0,0,26,458,626,,0,Good
-11128389,outer,9406,495000,house,house,for-sale,4,216,1,0,0,,,2069,,0,As new
-11128393,leval-trahegnies,7134,219000,house,house,for-sale,4,244,1,0,0,115,657,800,,0,To be done up
-11128398,ans,4432,265000,house,house,for-sale,3,200,1,0,0,26,155,357,,0,Good
-11128402,keerbergen,3140,535000,house,house,for-sale,3,230,1,0,0,,,1800,,0,To renovate
-11128406,deurne,2100,299000,house,house,for-sale,2,120,1,0,0,,,,,0,To renovate
-11128400,braine-l%27alleud,1420,549000,house,bungalow,for-sale,3,152,1,0,0,20,,1028,,0,Good
-11128394,sambreville,5060,289000,house,villa,for-sale,5,175,1,0,0,20,700,1194,,0,To be done up
-11128403,ronse,9600,245000,house,house,for-sale,3,112,1,0,0,10,25,83,,0,As new
-11128407,ekeren,2180,310000,house,town-house,for-sale,3,144,1,0,0,,135,213,,0,
-11128410,huldenberg%20ottenburg,3040,525000,house,villa,for-sale,4,280,1,0,0,,,1002,,0,
-10353926,etterbeek,1040,590000,house,house,for-sale,5,225,1,0,0,9,55,140,,0,To be done up
-11085591,etterbeek,1040,550000,house,house,for-sale,2,100,1,0,0,4,10,,,0,Just renovated
-10005135,etterbeek,1040,550000,house,house,for-sale,3,189,1,0,0,30,,110,,0,As new
-11086877,etterbeek,1040,2100000,house,house,for-sale,5,650,1,0,0,,200,200,,0,Good
-10952405,etterbeek,1040,1150000,house,mansion,for-sale,5,297,1,0,0,,26,120,,0,Just renovated
-10876680,etterbeek,1040,1800000,house,mixed-use-building,for-sale,9,720,1,0,0,,,,,0,To renovate
-10773672,etterbeek,1040,1795000,house,mixed-use-building,for-sale,3,535,1,0,0,,400,365,,0,As new
-10993436,etterbeek,1040,735000,house,house,for-sale,5,209,1,0,0,,19,,,0,As new
-10615250,etterbeek,1040,2490000,house,house,for-sale,4,353,1,0,0,20,500,693,,0,As new
-10616437,etterbeek,1040,2490000,house,house,for-sale,4,353,1,0,0,20,500,693,,0,As new
-11008512,etterbeek,1040,650000,house,house,for-sale,4,215,1,0,0,53,,130,,0,
-11088116,etterbeek,1040,990000,house,apartment-block,for-sale,8,290,1,0,0,10,120,227,,0,Good
-10904250,etterbeek,1040,650000,house,town-house,for-sale,3,280,1,0,1,40,,150,,0,To be done up
-10910893,etterbeek,1040,780000,house,house,for-sale,4,310,1,0,0,,,310,,0,
-10955165,etterbeek,1040,1795000,house,apartment-block,for-sale,3,535,1,0,0,30,250,365,,0,As new
-11076674,etterbeek,1040,1195000,house,mixed-use-building,for-sale,5,430,1,0,0,15,200,,,0,Good
-11047506,etterbeek,1040,749000,house,house,for-sale,8,220,1,0,0,20,,90,,0,Just renovated
+Property ID,Locality name,Postal code,Price,Type of property,Subtype of property,Type of sale,Bedrooms,Living area,Kitchen type,Furnished,How many fireplaces?,Terrace surface,Garden surface,Surface of the plot,Number of facades,Swimming pool,Building condition,Construction year,Floor,Number of floors,Number of frontages,Covered parking spaces,Living room surface,Kitchen surface,Bedroom 1 surface,Bedroom 2 surface,Bathrooms,Professional space,Armored door,Primary energy consumption,Energy class,Reference number of the EPC report,CO₂ emission,Yearly theoretical total energy consumption,E-level (overall energy performance),Heating type,Heat pump,Photovoltaic solar panels,Thermic solar panels,Common water heater,Double glazing,Planning permission obtained,Subdivision permit,Possible priority purchase right,Proceedings for breach of planning regulations,Flood zone type,Tenement building,Address,External reference
+11129481,nijlen,2560,238000,appartment,apartment,for-sale,2,82,1,0,0,,,,,0,,1991,2,2,3,1,30,11,11,8,1,0,0,254,C,3087204-RES-1,,,254,Gas,0,0,0,0,1,1,0,0,0,Non flood zone,0,Fraikinstraat 7,a0iTt000000Bs57IAC
+11129485,ciney%20ach%C3%AAne,5590,495000,house,house,for-sale,3,180,1,0,0,200,850,1140,,0,As new,2017,,,4,,22,14,14,13,1,,,83,A,20220217500733,,,,,,,,,1,,,,,Non flood zone,0,Rue Emile Cuvelier 8,5839594
+11129482,neufch%C3%A2teau,6840,115000,house,house,for-sale,3,174,1,0,0,,,298,,0,,1850,,,3,1,,,,,2,0,0,529,G,20240207017358,131 kg CO₂/m²,91994 kWh/year,529,Fuel oil,0,0,0,0,1,,0,0,0,Non flood zone,0,Avenue de la Gare 171,a0iTt000000BrnNIAS
+10982886,brugge,8200,210000,house,house,for-sale,3,89,1,0,0,,,405,,0,To restore,,,,2,,17,6,11,15,,,,706,F,,,,,,,,,,,1,0,0,0,Non flood zone,0,Dorpsstraat 165,
+11129496,ingelmunster,8770,189000,house,house,for-sale,3,,1,0,0,,,270,,0,,1930,,,,1,31,10,12,10,1,,,428,E,20240206-0003128605-RES-2,,,,,0,0,0,,1,,0,0,,,0,Stationstraat 4/1,INGE/MEUL45/K
+11129489,berchem-sainte-agathe,1082,349000,appartment,apartment,for-sale,3,102,1,0,0,,112,,,0,,,1,2,2,1,,9,15,8,,,,306,F,F,80 kg CO₂/m²,,,Gas,0,0,0,,0,,,,,,0,Chaussée de Helmet  239,2607
+11129490,bruxelles%20%201,1000,139000,appartment,flat-studio,for-sale,,45,1,0,0,,,,,0,,,2,,2,,36,,,,,,,,,,,,,Gas,0,0,0,,0,,,,,,0,"Boulevard Louis Mettewie 262, Bte 18",5269
+11129504,knokke,8300,475000,appartment,duplex,for-sale,2,,1,0,0,,,,,0,,1995,5,,,,,,,,,,,181,B,2829529-RES-11,,,,,0,0,0,,,,0,0,0,Non flood zone,0,Lippenslaan 187,1908
+11129503,brasschaat,2930,1650000,house,house,for-sale,8,366,1,0,0,,100,230,,0,,2024,,,2,,,,,,5,,,20,A,,,,20,,,,,,,1,0,0,,Non flood zone,0,"Bredabaan, 896",22955 - SIN/23/124-p
+11129509,herbeumont,6887,425000,house,manor-house,for-sale,14,,1,0,0,,,590,,0,To renovate,,,,,,,,,,,,,501,F,20150828013254,,,,,0,0,0,,,,0,0,0,Non flood zone,0,Lippenslaan 187,1901
+11129505,knokke,8300,1795000,appartment,apartment,for-sale,3,,1,0,0,,,,,0,,1948,3,,,,,,,,3,,,302,D,2745846,,,,,0,0,0,,,,0,0,0,Non flood zone,0,Lippenslaan 187,1895
+11129507,herbeumont,6887,425000,house,manor-house,for-sale,14,,1,0,0,,,590,,0,To renovate,,,,,,,,,,,,,501,F,20150828013254,,,,,0,0,0,,,,0,0,0,Non flood zone,0,Lippenslaan 187,1842
+11129492,woluwe-saint-pierre,1150,1090000,appartment,triplex,for-sale,4,296,1,0,0,18,287,,,0,Good,2006,,2,3,1,53,,16,13,1,,0,146,C,20221123-0000623499-01-7,29 kg CO₂/m²,,44407,,,,,,1,,0,0,,Non flood zone,0,Rue de Tervaete 35,4676
+11129508,knokke,8300,545000,appartment,apartment,for-sale,2,74,1,0,0,,,,,0,,2018,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,0,Lippenslaan 187,1837
+11129497,ingelmunster,8770,198500,house,house,for-sale,3,,1,0,0,,,343,,0,To renovate,1850,,,,1,32,15,11,12,1,,,908,F,20240206-0003133288-Res-1,,,,,0,0,0,,1,,0,0,0,Non flood zone,0,Stationstraat 4/1,INGE/LAMM31/K
+11122487,berchem,2600,239000,appartment,other-property,for-sale,1,57,1,0,0,,32,114,,0,,,,,2,,32,,,,1,,,118,B,0003034453-RES-1,,,,Gas,,,,,1,,,,,Non flood zone,0,Britselei 42,13430 - 3597165
+11129510,knokke,8300,635000,appartment,apartment,for-sale,2,,1,0,0,,,,,0,,,3,,,,,,,,1,,,164,B,2584762,,,,,0,0,0,,,,0,0,0,Non flood zone,0,Lippenslaan 187,1853
+10666016,pentagone-bruxelles,1000,1290000,house,apartment-block,for-sale,5,526,1,0,0,16,,105,,0,,1850,,,3,,,36,13,13,2,0,0,24554,G,,45 kg CO₂/m²,,24554,Gas,0,0,0,0,1,,0,0,0,Non flood zone,1,Rue Archimède 17,a0i0800000CDnoSAAT
+10825352,bruxelles,1000,799000,house,house,for-sale,6,430,1,0,0,,,10,,0,,1930,,,2,,,,,,3,0,0,255,E,202212080000628013013,49 kg CO₂/m²,,255,Gas,0,0,0,0,0,,0,0,0,Non flood zone,0,Rue Archimède 17,a0i0800000CwXajAAF
+11061689,bruxelles,1000,565000,house,house,for-sale,5,265,1,0,0,,,110,,0,To be done up,1930,,,2,,,,14,14,4,,,237,E,,47 kg CO₂/m²,,,Gas,,,,,1,,,,,Circumscribed zone,0,av. de la Floride 77,5720304
+10923264,bruxelles,1000,379000,house,house,for-sale,6,200,1,0,0,,,75,,0,To be done up,,,,2,,,,19,17,2,,,452,G,,119 kg CO₂/m²,,,Fuel oil,,,,,,,,,,Non flood zone,0,Bld. Brand Whitlock 108,5594494
+11129800,ingelmunster,8770,179000,house,house,for-sale,3,408,1,0,0,,80,386,,0,Good,1930,,,2,,,,,,1,,0,693,F,20220525-0002610125-RES-1,,,,Gas,,0,0,0,1,1,0,0,0,Non flood zone,0,Tieltstraat 5,2023/207/ND
+11129801,kortrijk,8500,149000,house,house,for-sale,4,127,1,0,0,,,80,,0,To be done up,,,,2,,,,,,1,,0,494,E,20230914-0002884154-RES-1,,,,Gas,,0,0,0,1,,0,1,0,Non flood zone,0,Gasthuisstraat 1,TK/1513
+11129803,honnelles%20angre,7387,175000,house,house,for-sale,3,126,1,0,0,20,215,280,,0,Just renovated,1960,,,4,,30,10,25,12,1,,,,,,,,,Gas,,,,,1,,0,0,0,Non flood zone,0,"Rue Maréchal Joffre, 26",5846186
+11129818,bierset,4460,236000,house,house,for-sale,4,278,1,0,0,,,334,,0,,,,,4,1,52,,,,,,,,,RWPEB-092383,,,,,0,0,0,,0,,,,,,0,Avenue Franklin Roosevelt 22A,W5326
+11129804,menen,8930,75000,house,house,for-sale,3,,1,0,0,,,70,,0,Good,1899,,,4,,,,,,1,,0,640,F,20230926-0002999816-RES-1,,,,Gas,,0,0,0,0,,0,0,0,Non flood zone,0,Torenstraat 2,2439
+11129809,destelbergen,9070,549000,appartment,apartment,for-sale,3,120,1,0,0,,16,,,0,Good,2020,1,,4,1,,,,,2,,0,,A,,,,37,,,,,,1,1,0,0,0,Non flood zone,0,Begijnhofdries 31,
+11129813,nord-est%20%28bruxelles%29,1000,775000,house,house,for-sale,5,255,1,0,0,15,,1,,0,,1930,,,2,1,,11,17,17,2,0,0,,,test,,,,Gas,0,0,0,0,1,,0,0,0,Non flood zone,0,Rue Archimède 17,a0iTt000000BvMLIA0
+11129805,mouscron,7700,229000,appartment,apartment,for-sale,2,81,1,0,0,,,,,0,As new,,2,4,2,,40,6,14,12,1,,,190,C,20140730008871,35 kg CO₂/m²,16029 kWh/year,,Gas,,,,,1,,,,,Non flood zone,0,Rue de Menin 400,5846233
+11129814,sint-kruis,8310,159000,appartment,apartment,for-sale,,,1,0,0,30,,,,0,Good,,4,4,,,,,,,1,,0,364,D,,,,,Gas,,,,,0,,0,0,0,,0,"Moerkerkesteenweg, 157",
+11071991,auvelais,5060,175000,appartment,apartment,for-sale,2,140,1,0,0,,,,,0,,,1,,,,,,,,1,,0,201,C,57,,32648 kWh/year,,,,,,,0,,,,,,0,Rue de la Samaritaine 40,1548
+11129822,ransart,6043,260000,house,house,for-sale,4,132,1,0,0,,,138,,0,,,,,2,,20,,,,1,,,311,D,20231227011281,,53080 kWh/year,53080,Fuel oil,,,,0,1,,,,,,0,Chaussee de Marche 488,
+11129807,herentals,2200,469000,house,house,for-sale,4,226,1,0,0,,,704,,0,Good,,,,4,2,60,24,20,10,2,,0,166,B,,,,,Gas,,0,0,0,1,,0,0,0,,0,Statiestraat 47,TK2024-50
+11129823,watermael-boitsfort,1170,545000,house,house,for-sale,2,115,1,0,0,,180,233,,0,Good,1960,,,3,,38,,16,16,1,,,728,G,202310160000658656017,146 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,0,Avenue Baron Albert d'Huart 130,5827561
+11129827,li%C3%A8ge,4020,595000,house,house,for-sale,7,352,1,0,1,28,120,275,,0,,,,,2,1,64,16,20,20,2,,,398,E,20230916004280,73 kg CO₂/m²,140103 kWh/year,,Fuel oil,,,,,1,1,,,,Non flood zone,0,Avenue Rogier 32,2578 - 5592NP
+11129828,li%C3%A8ge,4000,595000,house,house,for-sale,7,352,1,0,1,28,120,275,,0,,,,,2,1,64,16,20,20,2,,,398,E,20230916004280,73 kg CO₂/m²,140103 kWh/year,,Fuel oil,,,,,1,1,,,,Non flood zone,0,Avenue Rogier 32,2579 - 5592LNP
+11129810,lochristi,9080,449000,house,house,for-sale,5,211,1,0,0,,,570,,0,To renovate,,,,4,1,,,,,2,,0,,,,,,,Gas,,0,0,0,1,,0,0,0,Non flood zone,1,Durmelaan 24,24/013
+11129842,li%C3%A8ge,4000,229000,house,house,for-sale,3,200,1,0,0,63,,87,,0,,,,,2,,,,,,1,,,417,E,20221010006194,,67278 kWh/year,,Gas,,,,,,,,,,,0,Chaussée de Tongres 325,762 - 1892
+10954417,li%C3%A8ge,4020,265000,house,town-house,for-sale,5,300,1,0,0,,100,800,,0,Good,,,,3,1,30,,,,1,,,500,F,20220706029244,,101936 kWh/year,,Gas,,,,,,,,,,,0,"rue Nysten, 38",9624 - 23/10/07
+11129833,roeselare,8800,175000,appartment,apartment,for-sale,3,140,1,0,0,,,,,0,Good,1974,3,,3,,,,,,1,,,129,B,20221015-0002697948-res-2,,,,,,,,,,1,,0,0,,0,Grote Markt 13,D8800-23045
+11129876,schaerbeek,1030,229000,appartment,apartment,for-sale,2,78,1,0,0,3,,,,0,To renovate,,2,3,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,Chaussée d' Haecht 43,5843158
+11129834,wetteren,9230,649000,house,house,for-sale,7,405,1,0,0,,,5168,,0,To renovate,1975,,,4,,,,,,2,,,467,E,2801960,,,,Electric,,,,,,1,0,0,0,,0,Kouter 98,D9000-23399
+11129835,sint-amandsberg,9040,395000,house,house,for-sale,4,189,1,0,0,4,230,331,,0,To be done up,1974,,,3,,,,,,2,,,271,C,3090768,,,,Gas,,,,,,,0,0,0,,0,Kouter 98/0003/0003,DIY-24038
+11042253,cuesmes,7033,268000,house,town-house,for-sale,2,279,1,0,0,,,394,,0,Just renovated,,,,2,1,58,,,,1,,,255,C,20220222015415,47 kg CO₂/m²,71039 kWh/year,,Gas,,,,,1,,,,,,0,Rue de Blaugies 31,365 - 1525
+11129889,ixelles,1050,459000,appartment,apartment,for-sale,3,102,1,0,0,,,,,0,Good,1982,4,5,2,,,,16,12,2,,,139,C,,27 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,0,Rue Defacqz 40,5838774
+11094009,brussels,1000,845000,house,mixed-use-building,for-sale,7,800,1,0,0,40,,266,,0,To renovate,1956,,,2,1,,,,,,,,,,,,,,Fuel oil,,,,,,,,,,Non flood zone,1,Bld. Brand Whitlock 108,5824285
+11129891,antwerp,2060,359000,house,house,for-sale,5,207,1,0,0,7,,,,0,Good,,,,2,,,,,,2,,,315,D,0003120863-res-1,,,,Gas,,,,,1,,,,,,0,Britselei 42,13499 - 3597268
+11129885,ixelles,1050,1500000,house,mansion,for-sale,5,424,1,0,0,20,100,230,,0,As new,1920,,,2,,23,13,26,21,5,,,188,D,20230321-0000638032-01-1,38 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,0,Place Brugmann 10B,5846023
+11129890,antwerp,2000,265000,appartment,duplex,for-sale,2,92,1,0,0,,,,,0,Good,,1,3,2,,34,,,,1,,,792,F,20220816-0002633680-RES-3,,,,Electric,,,,,1,,,,,,0,Britselei 42,12663 - 3596889
+11027694,bruxelles,1000,1395000,house,apartment-block,for-sale,6,320,1,0,0,,,100,,0,,1930,,,2,,,,,,,0,0,110,C,202305190000644824012,21 kg CO₂/m²,,110,Gas,0,0,0,0,1,,0,0,0,Non flood zone,1,Rue Archimède 17,a0iTt0000006D4DIAU
+10941385,bruxelles,1000,1390000,house,house,for-sale,5,322,1,0,1,,,,,0,As new,1900,,,2,,62,,35,20,5,0,0,213,E,20231031-test,44 kg CO₂/m²,,,Gas,1,1,0,0,1,1,,,,,0,Avenue Louise 404a,83473766
+11129879,schelle,2627,585000,house,house,for-sale,6,244,1,0,0,,119,280,,0,As new,2005,,,2,1,40,15,33,20,1,,,88,A,20240206-0003133472-RES-1,1000 kg CO₂/m²,,,,,,,,1,,,0,0,Non flood zone,0,Prins Boudewijnlaan 122,7854 - TK2401-12
+11116474,bruxelles,1000,1150000,house,mixed-use-building,for-sale,6,400,1,0,0,15,,233,,0,Good,1880,,,2,1,,,30,19,2,,,,,,,,,Gas,,,,,,,,,,Non flood zone,1,Rue Franklin  90,5703449
+11127207,bruxelles,1000,445000,house,house,for-sale,4,162,1,0,0,8,,60,,0,Just renovated,,,,2,,31,,,,2,,,144,C,,28 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,Place des chasseurs Ardennais 24-26,9752 - 654659172
+10492935,bruxelles,1000,410000,house,house,for-sale,2,100,1,0,0,10,,109,,0,As new,2017,,,2,,28,6,15,14,2,,1,100,C,,50 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,Avenue de Tervueren 446,5305605
+10979848,bruxelles-ville,1000,950000,house,apartment-block,for-sale,7,495,1,0,0,,,195,,0,As new,,,,2,,,,,,5,,,229,E,20131205-0000-201067-01-8,49 kg CO₂/m²,,,Gas,,,,,,,,,,,1,Avenue Louise 523,
+10378811,brussels,1000,695000,house,apartment-block,for-sale,5,290,1,1,0,12,,,,0,Good,1920,,,2,,,,5,18,5,,,426,G,20170617-00000506598-01-3,85 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,1,"Av. de Tervueren, 37",5246084
+11045095,bruxelles,1000,965000,house,apartment-block,for-sale,8,663,1,0,0,12,,251,,0,As new,1917,,,2,1,,,15,15,4,,1,210,D,20230319-0000637848-01-5,41 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Rue Franklin  90,5709235
+10540761,brussel,1000,1290000,house,house,for-sale,4,700,1,0,0,,,339,,0,Good,1947,,,4,,40,30,,,4,,0,256,E,202304160000641014012,51 kg CO₂/m²,,,Gas,,0,0,0,1,1,0,0,0,Possible flood zone,0,Brusselsesteenweg 9-11,TK/HA/GV/0105
+11122899,bruxelles,1000,1200000,house,apartment-block,for-sale,4,270,1,1,0,,,,,0,As new,,,,2,,,,,,4,,,309,F,F,49 kg CO₂/m²,,,Electric,,,,,1,,,,,,1,Avenue Louise 231,5841307
+11121228,bruxelles,1000,1400000,house,apartment-block,for-sale,,448,1,0,0,15,,152,,0,To renovate,1890,,,2,,,,,,,,,312,F,T20201113.008,63 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,1,Rue des Sablons 19,5841297
+11091504,brussels,1000,495000,house,house,for-sale,3,246,1,0,0,44,15,155,,0,To renovate,1930,,,2,,64,14,20,20,3,,,617,G,202309050000654359017,124 kg CO₂/m²,,,,,,,,,,,1,,Non flood zone,0,Fonteinstraat 11 bus 001,5823796
+10800986,bruxelles,1000,945000,house,apartment-block,for-sale,4,300,1,0,0,36,36,156,,0,To be done up,1902,,,2,2,,,,,2,,,384,G,201405270000230566015,82 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Av G.Dossin de st Georges 5 bte 6,8980 - 1501
+10676542,brussels-city,1000,320000,house,apartment-block,for-sale,4,180,1,0,0,,,45,,0,Good,,,,2,,45,45,45,45,4,,,343,F,20230628-0000648859-01-3,68 kg CO₂/m²,,,Gas,,,,,1,1,0,1,,Recognized flood zone,1,Parklaan 59/1,5415537
+10817855,bruxelles,1000,1030000,house,house,for-sale,4,327,1,0,0,,250,366,,0,To be done up,1960,,,3,1,33,14,18,16,2,,,423,G,20230402­0000639431­01­2,84 kg CO₂/m²,,,,,,,,1,,,,,Non flood zone,0,Avenue Baron Albert d'Huart 130,5522422
+11115382,bruxelles,1000,895000,house,exceptional-property,for-sale,4,277,1,0,0,14,52,,,0,Good,1897,,,2,,20,11,22,18,3,,,230,E,,46 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,0,Rue Franklin  90,5838555
+10990259,brussels,1000,1300000,house,mixed-use-building,for-sale,6,518,1,0,0,100,200,330,,0,To renovate,1890,,,2,,,,20,19,3,,,335,F,,67 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,1,Rue Abbé Cuypers (étage 1) 3 3,5626893
+10694104,bruxelles-ville,1000,2495000,house,apartment-block,for-sale,12,818,0,0,0,,,190,,0,Just renovated,1834,,,2,,,,23,21,10,,,94,B,,,,,Gas,,,,,,,,,,,1,Place du Grand Sablon 35,
+10965913,brussels,1000,450000,house,house,for-sale,4,210,1,0,0,,,225,,0,Good,1913,,,2,,17,13,25,17,3,,,209,D,20210902-0000594931-01-7,42 kg CO₂/m²,,,,,,,,,,,,,Non flood zone,0,Chaussée d'Alsemberg 528,5613362
+9402335,bruxelles,1000,1400000,house,mixed-use-building,for-sale,3,568,1,0,0,,,196,,0,Just renovated,1899,,,2,,,,,,3,,,450,G,,96 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Avenue du Pesage 10,1900 - 1883
+10815556,bruxelles,1000,360000,house,house,for-sale,4,135,1,0,0,,,45,,0,Good,1920,,,3,,21,12,21,21,2,,,318,F,,64 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,"Avenue des Cerisiers, 212",5515197
+10994408,bruxelles,1000,515000,house,mixed-use-building,for-sale,3,134,1,0,0,,,43,,0,As new,1890,,,2,,,,14,10,,0,0,275,F,20160712-0000347528-01-7,59 kg CO₂/m²,,,Gas,0,0,0,0,1,,0,0,0,Non flood zone,1,,
+10653822,bruxelles,1000,1950000,house,mansion,for-sale,6,497,1,0,0,24,40,242,,0,Good,1894,,,2,1,,,,,3,1,,400,G,20220831-0000619732-01-9,80 kg CO₂/m²,,,Gas,,,,,,,,,,,0,Avenue de Tervuren 113,5414586
+11129512,knokke,8300,415000,appartment,apartment,for-sale,2,85,1,0,0,,,,,0,,,1,,,,,,,,1,,,144,B,,,,,,0,0,0,,1,,0,,0,Non flood zone,0,Lippenslaan 187,2127
+11124185,bruxelles,1000,925000,house,apartment-block,for-sale,6,550,1,0,0,40,,200,,0,Good,1950,,,2,,,,15,24,5,,,323,F,,64 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,1,.,5842939
+11129514,knokke,8300,295000,appartment,apartment,for-sale,2,65,1,0,0,,,,,0,To be done up,1980,,,,,,,,,1,,,205,C,2910438,,,,Gas,0,0,0,,1,,0,0,0,Non flood zone,0,Lippenslaan 187,2128
+11129516,knokke,8300,1350000,appartment,apartment,for-sale,2,75,1,0,0,,,,,0,,1967,7,,,,,,,,2,,,224,C,2593843,,,,,0,0,0,,,,0,0,0,Non flood zone,0,Lippenslaan 187,1904
+11127427,bruxelles,1000,995000,house,apartment-block,for-sale,10,630,1,0,0,30,,200,,0,Good,1950,,,2,,,,20,20,5,,,158,D,,31 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,1,.,5843006
+11129511,bertrix,6880,260000,house,villa,for-sale,5,,1,0,0,,,1500,,0,,,,,,,,,,,,,,585,G,20210323004474,,,,,0,0,0,,,,0,0,0,Non flood zone,0,Lippenslaan 187,1916
+11129517,knokke,8300,395000,appartment,apartment,for-sale,1,58,1,0,0,,,,,0,,1995,4,,,,,,,,,,,146,B,2829485-RES-11,,,,,0,0,0,,,,0,0,0,Non flood zone,0,Lippenslaan 187,1907
+11129513,knokke,8300,765000,appartment,apartment,for-sale,3,90,1,0,0,,,,,0,As new,2003,3,,,,,,,,2,,,130,B,2668703,,,,Gas,0,0,0,,1,,0,0,0,Non flood zone,0,Lippenslaan 187,2091
+11129742,ingooigem,8570,644778,house,house,for-sale,3,206,1,0,0,,,1076,,0,,,,,4,,,,,,,,,,,,,,,,,,,,,,1,0,0,,0,Kortrijkseweg 154 A,YH_LA_NTB_20240215_lot1
+11129743,ingooigem,8570,594684,house,house,for-sale,4,259,1,0,0,,,845,,0,,,,,4,,,,,,,,,,,,,,,,,,,,,,1,0,0,,0,Kortrijkseweg 154 A,YH_LA_NTB_20240215_lot4
+11129744,roeselare,8800,567616,house,house,for-sale,3,167,1,0,0,,,841,,0,,,,,4,,,,,,,,,,,,,,,,,,,,,,1,0,0,,0,Kortrijkseweg 154 A,YH_KA_NTB_20240216
+11129730,sars-la-bruyere,7080,250000,house,villa,for-sale,3,135,1,0,1,,,881,,0,,,,,4,2,,,,,2,,,,,,,,,Gas,0,0,0,,1,,,,,,0,Rue Hankar 6,hon h r l niogret 2D-1
+11129732,woluwe-saint-pierre,1150,435000,appartment,duplex,for-sale,2,144,1,0,0,,,,,0,To renovate,1950,,3,3,1,28,,16,16,1,,,480,G,20230427-TEST,94 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,0,Chaussée de Waterloo 1382,5841961
+11129745,zonnebeke,8980,297500,house,house,for-sale,3,175,1,0,0,,,540,,0,Good,1954,,,2,3,,,,,,,,399,D,2935940,,,,Gas,,,,,,,0,0,0,,0,Izegemstraat 355,15681
+11129737,lambermont,4800,225000,house,house,for-sale,4,150,1,0,0,16,131,194,,0,Good,,,,2,,16,14,14,12,1,,,195,C,20230809011557,,29307 kWh/year,,Fuel oil,,,1,,1,,,,,,0,Route de la Ferme Modèle 98,5840780
+11129740,antwerp,2000,445000,appartment,apartment,for-sale,2,86,1,0,0,70,,,,0,,2016,3,7,2,1,35,,,,1,,,82,A,,,,60,Gas,,,,,1,,0,0,0,Non flood zone,0,"Bredabaan, 896",22960 - SIA/23/118
+11129751,malle,2390,339900,appartment,apartment,for-sale,3,150,1,0,0,,,,,0,Good,1982,2,,2,,,,,,1,,,167,B,Certificaat-20240125-0003121530-RES-1,,,,,,,,,1,1,0,0,0,Non flood zone,0,Lierselei 13/1,133895 - MAL-24-JSM-
+11129759,assenede,9961,215500,appartment,apartment,for-sale,2,70,1,0,0,6,,,,0,Good,2023,2,,3,,,,,,1,0,0,,,,,,,Gas,0,0,0,0,1,1,0,0,0,,0,Markt 22,a0iTt000000Bv7pIAC
+11129749,wenduine,8420,169000,appartment,apartment,for-sale,2,71,1,1,0,,,,,0,,1918,1,,2,,,,,,1,0,0,513,F,3126612,,,513,Gas,0,0,0,0,0,,0,0,0,Non flood zone,0,Zeelaan 276,a0iTt000000ButJIAS
+11129747,soignies,7060,249000,appartment,apartment,for-sale,2,101,1,0,0,12,,,,0,,2026,,4,4,1,38,,14,11,1,,,80,A,,,,,Gas,,,,,1,1,1,0,,Non flood zone,0,Rue du fond Cattelain 1 bt1,5074 - 1581
+11129750,beerse,2340,365000,house,house,for-sale,3,185,1,0,0,,,1754,,0,To renovate,1965,,,4,1,,,,,1,,,583,F,2886125,,,,Gas,,,,,1,1,0,0,0,Non flood zone,0,Lierselei 13/1,133900 - MAL-23-LSA-
+10855696,yvoir,5530,360000,house,apartment-block,for-sale,6,,1,0,0,20,270,270,,0,,,,,3,1,,,15,12,3,,,298,D,20200220018146,75 kg CO₂/m²,26716 kWh/year,,,,,,,1,,,,,,1,Rue Grande 2,19516 - 04302/156
+11129765,saint-gilles,1060,650000,house,apartment-block,for-sale,8,300,1,0,0,1,1,115,,0,,,,,2,,,,,,,,,,,,,,,Gas,0,0,0,,0,,,,,,1,Rue Faider 11,6576
+11129766,saint-gilles,1060,650000,house,house,for-sale,8,300,1,0,0,1,1,115,,0,,,,,2,,,,,,,,,,,,,,,Gas,0,0,0,,0,,,,,,0,Rue Faider 11,6575
+10744078,koksijde,8670,149000,appartment,apartment,for-sale,1,48,1,0,0,,,,,0,Good,1966,1,,,,,,,,,,0,163,B,202212222-0002760508-RES-1,1279 kg CO₂/m²,,,Fuel oil,,0,0,0,1,1,0,0,0,Non flood zone,0,Zeedijk 249,SOLARIA B0102
+11129777,hasselt,3510,436584,house,house,for-sale,3,212,1,0,0,,,636,,0,Good,2024,,,3,,,,,,1,1,0,,,,,,,Gas,,0,0,0,1,1,0,0,0,Non flood zone,0,Diestersteenweg 196,TK/24/0723-1
+11129783,assenede,9961,242500,appartment,apartment,for-sale,2,81,1,0,0,6,,,,0,Good,2023,2,,3,,,,,,1,0,0,,,,,,,Gas,0,0,0,0,1,1,0,0,0,,0,Markt 22,a0iTt000000BvB3IAK
+11129774,braine-le-chateau,1440,445000,house,house,for-sale,4,161,1,0,0,68,600,1740,,0,Good,1973,,,4,2,41,13,15,25,1,,,533,G,20231226003193,152 kg CO₂/m²,169472 kWh/year,,Electric,,,,,,1,,,,Possible flood zone,0,Avenue Louise 433,5092196
+11129778,hasselt,3510,220000,appartment,apartment,for-sale,1,66,1,0,0,10,,,,0,Good,2024,1,,2,,26,5,,,1,,0,31,A+,71022-G-OMV_2023062720/EP12782/SV/A001/D01,,,23,,1,1,0,0,1,,0,0,0,Non flood zone,0,Diestersteenweg 196,TK/24/0709-1
+11129772,deurne,2100,219000,appartment,apartment,for-sale,2,106,1,0,0,4,,,,0,Just renovated,1989,1,5,2,,39,6,18,12,1,,,220,C,20230926-0002999566-RES-1,1000 kg CO₂/m²,,,Electric,,,,,1,,,,,Non flood zone,0,Strijdersstraat 8,2842 - 24-20009
+11060007,schaerbeek,1030,390000,house,house,for-sale,4,244,1,0,0,,,120,,0,Good,1927,,,2,,33,17,15,16,2,,,402,G,,86 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,0,Place Colignon 47,5720126
+11129782,maaseik,3680,499000,house,house,for-sale,5,,1,0,0,,1157,1413,,0,Good,1979,,,4,1,1,1,,,1,,0,312,D,20240202-0003129717-RES-1,,,,Gas,,0,0,0,1,1,0,0,0,Non flood zone,0,Thonissenlaan 82,10/1564
+11129795,woluw%C3%A9-saint-lambert,1200,745000,house,apartment-block,for-sale,5,300,1,0,0,,,138,,0,,1966,,,2,1,,,,,3,,,145,C,20190315-0000545742-01-7,29 kg CO₂/m²,,,Gas,0,0,0,,1,,,,,,1,Av. L. Wiener 82,3767
+11129789,lichtaart,2460,635000,house,villa,for-sale,3,281,1,0,0,,,1170,,0,As new,1974,,,4,2,,,,,2,,,395,D,20231129-0003053242-RES-1,,,,Fuel oil,,,,,1,1,1,0,0,Non flood zone,0,Grote Markt 10,133880 - HER-24-CVH-
+11129609,namur,5000,262500,appartment,apartment,for-sale,2,110,1,0,0,9,100,,,0,As new,2023,,2,3,1,30,10,11,10,1,,,87,B,,,,,Gas,,,,,,1,1,,0,,0,Rue du Blanc Ry 167,
+11129793,knokke-heist,8300,695000,appartment,apartment,for-sale,2,72,1,0,0,,,,,0,Good,1956,3,4,,,,,,,2,,0,196,B,20210909-0002462013-RES-1,,,,,,,,,0,,0,0,0,,0,Dumortierlaan 89,TERMTK
+11129790,aarschot,3202,750000,house,house,for-sale,2,433,1,0,0,,,5910,,0,To be done up,1906,,,4,,,,,,1,,0,219,C,20231211-0003066447-RES-1,20624 kg CO₂/m²,,219,Fuel oil,,1,0,0,1,,0,1,0,Possible flood zone,0,Aarschotsesteenweg 201,IF-4055
+11129605,waterloo,1410,325000,house,house,for-sale,3,150,1,0,0,,,279,,0,,,,,3,,,9,12,10,1,0,0,327,D,20220413005595,,66371 kWh/year,327,Gas,0,0,0,0,1,1,0,0,0,Non flood zone,0,Avenue Alphonse Allard 288,a0iTt000000BsgDIAS
+11078670,meerhout,2450,275000,appartment,apartment,for-sale,2,,1,0,0,75,,,,0,Good,2004,3,,,1,43,27,,,1,,0,220,C,,,,,,,,,,1,1,0,0,0,,0,Statiestraat 47,I_1237
+11129792,sint-martens-latem,9830,485000,house,house,for-sale,4,158,1,0,0,,182,380,,0,To be done up,1976,,,3,1,35,11,,,1,,0,743,F,3042954,,,,Electric,,0,0,0,1,1,0,0,0,Non flood zone,0,Kortrijksesteenweg 19,1108V2
+11129620,eeklo,9900,244000,appartment,apartment,for-sale,2,85,1,0,0,,,,,0,,1977,3,4,2,,,,,,1,0,1,148,B,20210916-0002464803-RES-1,,,148,Gas,0,0,0,0,1,,0,0,0,Non flood zone,0,Boelare 67,a0iTt000000Bt2nIAC
+11129628,lo,8647,228000,house,house,for-sale,3,176,1,0,0,,,808,,0,Just renovated,,,,4,2,,,,,,,,569,F,3023173,,,,,,,,,,,,,,,,Leopold 2 laan 83a,
+11129630,mariembourg,5660,249000,house,house,for-sale,4,226,1,0,1,40,,720,,0,,,,,4,1,79,,,,2,,,311,D,20240110020368,,102126 kWh/year,,Gas,0,0,0,,1,,,,,,0,"Rue de l'hôtel ville, 13",WA 2312/DV/04-1
+11129636,ixelles,1050,345000,appartment,apartment,for-sale,2,120,1,0,0,,,,,0,,,2,4,2,,50,,,,1,,,,,,39 kg CO₂/m²,,,,,,,,,,,,,Non flood zone,0,Rue Washington 128b,10693 -
+11129621,eeklo,9900,279000,house,house,for-sale,3,150,1,0,0,,,140,,0,,1931,,,2,,,,,,1,0,0,563,F,20240208-0003136965-RES-1,,,563,Gas,0,0,0,0,1,,0,0,0,Non flood zone,0,Boelare 67,a0iTt000000BaTCIA0
+11129623,nieuwpoort,8620,179000,appartment,apartment,for-sale,1,,1,0,0,,,,,0,Just renovated,,2,,,,20,5,13,,1,,,399,D,20201006-0002324103-RES-1,,,,Electric,,,,,1,1,,0,0,Non flood zone,0,Kinderlaan 17,
+11129626,gistel,8470,399000,house,house,for-sale,3,155,1,0,1,,,572,,0,Just renovated,,,,,1,,,14,16,1,,,316,D,20240123-0003117703-RES-1,,,,Gas,,,,1,1,1,0,0,0,Non flood zone,0,Koningsstraat 23,
+11129611,balen,2490,275000,house,house,for-sale,3,150,1,0,0,,,365,,0,Good,1963,,,3,2,30,12,25,14,1,,,254,C,20231024-0003020379-RES-1,,,,Gas,,,,,1,1,0,0,,Non flood zone,0,Markt 20,133896 - GEE-23-IWE-
+11129638,uccle,1180,345000,appartment,apartment,for-sale,2,120,1,0,0,,,,,0,,,2,4,2,,50,,,,1,,,,,,59 kg CO₂/m²,,,,,,,,,,,,,Non flood zone,0,Rue Washington 128b,10694 -
+11129674,antwerpen,2180,199000,appartment,duplex,for-sale,5,166,1,0,0,,,,,0,Good,,1,2,,,23,14,12,,1,,,337,D,,,,,Gas,,,,,1,1,0,0,0,Non flood zone,0,Kapelsesteenweg 348,
+11129654,antwerpen,2180,349000,house,house,for-sale,1,,1,0,0,,,,,0,Good,,,,,,,,,,1,,,337,D,,,,,,,,,,,,0,,,Non flood zone,1,Kapelsesteenweg 348,
+11129677,blankenberge,8370,295000,appartment,apartment,for-sale,2,76,1,1,0,,,,,0,Good,2009,2,10,,,,,,,1,,,60,A,3120124,,,,Gas,,,,,1,1,0,0,0,Non flood zone,0,Franchommelaan 82-86,19491 - BS743
+11129637,kortemark,8610,342500,house,house,for-sale,3,123,1,0,0,,,265,,0,,2019,,,3,1,,,,,1,0,0,81,A,32011-G-874/1/14/2905/EP12733/A001/D01/SD001,,,81,Gas,0,0,1,0,1,1,0,0,0,Non flood zone,0,Houtmarkt 9,a0iTt000000BtIvIAK
+11129679,wenduine,8420,309000,appartment,apartment,for-sale,2,91,1,1,0,,,,,0,As new,1989,,6,2,,,,,,2,,,336,D,,,,,Electric,,,,,1,1,0,0,,Non flood zone,0,De Bruynehelling 6,
+11011001,lo-reninge,8647,179000,house,house,for-sale,4,132,1,0,0,,,340,,0,Good,,,,,1,,,,,1,,,720,F,20210223-0002377222-RES-1,,,,,,,,,,,0,0,0,Non flood zone,0,Vanackerestraat 2,
+11129688,charleroi%20marcinelle,6001,410000,house,villa,for-sale,4,315,1,0,0,,,6417,,0,As new,2002,,,4,3,16,23,18,16,2,,,230,C,20150202019424,57 kg CO₂/m²,72392 kWh/year,,Fuel oil,,,,,1,1,,0,,Non flood zone,0,rue de Montigny 88.,5826707
+11129646,bruxelles,1000,189000,appartment,apartment,for-sale,1,60,1,0,0,,,,,0,Just renovated,1970,1,2,2,,,5,15,,1,,,299,F,20230714-0000650722-01-6,60 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,Rue Washington 128b,10696 - 9996
+11129700,wevelgem,8560,299000,house,house,for-sale,3,210,1,0,0,,,300,,0,Good,,,,,1,,,,,1,,,198,B,,,,,Gas,,1,,1,1,,,,,,0,Vanackerestraat 2,
+11129702,sint-niklaas,9100,99900,appartment,apartment,for-sale,1,45,1,0,0,8,,,,0,,1972,9,15,2,,16,5,5,,1,0,0,138,B,20231213-0003071484-RES-1,,,138,Fuel oil,0,0,0,1,1,,0,0,0,Non flood zone,0,Gentse Baan 45A,a0iTt000000BtyrIAC
+11129701,sint-niklaas,9100,119000,appartment,apartment,for-sale,1,62,1,0,0,9,,,,0,,1970,6,16,2,,,7,12,,1,0,0,168,B,20220309-0002560207-RES-1,,,168,Gas,0,0,0,1,1,1,0,0,0,Non flood zone,0,Gentse Baan 45A,a0iTt000000BtcHIAS
+11129693,chaudfontaine,4050,120000,house,house,for-sale,3,112,1,0,0,,,,,0,To renovate,,,,2,,15,10,16,9,1,,,441,F,20220414013444,,,,Gas,,,,,,,,,,,0,Rue du Parc 10,5846083
+11129714,amay,4540,375000,house,house,for-sale,3,135,1,0,0,30,2125,2634,,0,Good,1994,,,4,3,,16,18,14,1,,,507,F,20240112021060,126 kg CO₂/m²,74094 kWh/year,,Fuel oil,,,,,1,,,,,,0,Grand’Route 548,3062 - 1732
+11129729,hon%20hergies,59570,250000,house,villa,for-sale,3,135,1,0,1,,,881,,0,,,,,4,2,,,,,2,,,,,,,,,Gas,0,0,0,,1,,,,,,0,Rue Hankar 6,hon h r l niogret 2D
+11129717,assenede,9961,251500,appartment,apartment,for-sale,2,87,1,0,0,8,,,,0,Good,2023,1,,3,,,,,,1,0,0,,,,,,,Gas,0,0,0,0,1,1,0,0,0,,0,Markt 22,a0iTt000000BtIwIAK
+11001180,bruxelles-ville,1000,2400000,house,mansion,for-sale,3,748,1,0,0,,,100,,0,As new,,,,2,,,,16,14,2,1,,147,C,,,,,Gas,,,,,1,1,,,,,,Avenue Capouillet 58 A,
+11129715,soignies,7060,345000,appartment,apartment,for-sale,3,132,1,0,0,12,,,,0,,2026,2,4,4,1,43,,14,11,1,,,80,A,,,,,Gas,,,,,1,1,1,0,,Non flood zone,0,Rue du fond Cattelain 1 bt1,5073 - 1581
+11129718,halanzy,6792,356000,house,house,for-sale,5,265,1,0,0,,,777,,0,,,,,,1,,,18,16,1,1,0,420,E,20231027017756,,111096 kWh/year,,Fuel oil,0,0,0,0,1,,,,,,0,Grand Place 5,84131069
+11129722,deurne,2100,159000,appartment,apartment,for-sale,1,67,1,0,0,2,,,,0,Just renovated,1990,2,5,2,,22,,25,,1,,,207,C,20230926-0002999406-RES-1,1000 kg CO₂/m²,,,Electric,,,,,1,,,,,Non flood zone,0,Strijdersstraat 8,2841 - 24-20021
+11026344,koekelberg,1000,2150000,house,house,for-sale,10,1200,1,1,1,,,1114,,0,Good,,,,,,,,,,2,,,593,G,,,,,,,,,1,,,,0,0,Non flood zone,0,Parklaan 23,
+11103946,bruxelles,1000,479000,house,house,for-sale,4,150,1,0,0,,,,,0,To renovate,,,,2,,,,,,4,,,287,F,,67 kg CO₂/m²,,,,,,,,,,,,,,0,"77 , rue Dodonée",5830275
+11076436,bruxelles,1000,650000,house,house,for-sale,,300,1,0,0,,,,,0,To renovate,,,,,,,,,,,0,0,,,,,,,,0,0,0,0,0,,,,,,0,Avenue des Genêts 16,84002757
+11103500,bruxelles,1000,4250000,house,mixed-use-building,for-sale,34,2295,1,1,0,,,,,0,Good,1881,,,2,,,,,,29,,,,,,,,,,,,,,1,,,,,,1,Chaussée de Charleroi 259,5823825
+11102209,bruxelles,1000,1190000,house,exceptional-property,for-sale,1,120,1,0,0,,,,,0,Just renovated,1950,,,1,,12,8,12,,1,1,0,,C,0,,,,Electric,1,0,0,1,0,1,1,0,0,Non flood zone,0,,
+11129427,brussels-city,1000,5500000,house,manor-house,for-sale,6,880,1,1,1,,,3113,,0,,2020,,,4,4,,36,58,26,5,,1,81,B,20221114-0000625496-01-3,130 kg CO₂/m²,,,,1,,,,1,1,1,0,,,0,Boekvijverstraat 20,2319 - 407
+10985971,bruxelles-ville,1000,1275000,house,house,for-sale,8,608,1,0,0,,,240,,0,,,,,2,,,,,,,,,384,G,20190617-0000551520-01-7,76 kg CO₂/m²,,,,,,,,,,,,,,,"RUE TASSON SNEL, 22-24",
+10583561,brussels-city,1000,4500000,house,exceptional-property,for-sale,5,450,1,0,0,,,1961,,0,To be done up,1957,,,4,2,,,,,4,,,465,G,20160302-0000328692-01-0,131 kg CO₂/m²,,,Fuel oil,,,,,,,,,,,0,Avenue Capouillet 58 A,
+10871841,bruxelles,1000,3900000,house,apartment-block,for-sale,,750,1,0,0,,,,,0,Good,,,,,,,,,,,0,0,783,G,20221219,157 kg CO₂/m²,,,,0,0,0,0,0,,,,,,1,Rue Darwin 49A,83417336
+11003494,bruxelles,1000,1100000,house,apartment-block,for-sale,11,506,1,0,0,65,62,270,,0,To restore,1931,,,2,,33,258,18,15,6,,,,,,,,,,,,,,,,,,,Non flood zone,1,Avenue Baron Albert d'Huart 130,5614432
+11081746,brussels-city,1000,589000,house,house,for-sale,4,195,1,0,0,,,,,0,Good,,,,2,,,,,,4,,,520,G,,,,,Gas,,,,,1,1,,,,,0,"Square Ambiorix, 32/11B",1710206 - 345346029
+11052421,brussel,1000,2000000,house,house,for-sale,11,500,1,0,0,,,100,,0,Good,,,,2,,,,,,5,0,0,,D,,,,,Gas,0,0,0,0,0,1,,,,,1,,
+10954554,bruxelles-1,1000,470000,house,apartment-block,for-sale,3,425,0,0,0,,,,,0,,1900,,,2,,100,,,,4,,,440,G,,87 kg CO₂/m²,,,Gas,0,0,0,,1,,,,,,1,"Rue Pierre Timmermans, 23",3676
+11117215,bruxelles,1000,890000,house,mixed-use-building,for-sale,,,1,0,0,2,,,,0,Good,,,,2,,,,,,,0,0,,D,201711300000517070013,,,,Gas,0,0,0,0,1,1,,0,0,,1,,
+10764072,bruxelles,1000,550000,house,house,for-sale,2,108,1,0,0,23,,,,0,As new,2023,,,2,1,,,17,13,,,1,,,,,,,Gas,,,,,,,,,,,0,"Av. de Tervueren, 37",5284451
+10828600,bruxelles,1000,499000,house,house,for-sale,3,123,1,0,0,,,40,,0,As new,,,,2,,30,10,20,20,1,,,450,G,,,,,Gas,,,,,,,0,0,,Non flood zone,0,Chaussée de Gand 331,5531018
+11059995,bruxelles-1,1000,350000,house,house,for-sale,7,180,1,0,0,75,45,150,,0,,1962,,,2,,25,,,,1,,,426,G,,111 kg CO₂/m²,,,Fuel oil,0,0,0,,1,,,,,,0,"Rue Pierre Timmermans, 23",3721
+11057461,bruxelles,1000,799000,house,apartment-block,for-sale,5,220,1,0,0,6,,50,,0,,,,,2,,,,,,4,,,184,D,,36 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Avenue Broqueville 1,270021 - 5100941
+11129526,mechelen,2800,316813,appartment,service-flat,for-sale,1,71,1,0,0,6,,,,0,,2019,1,4,2,,,,,,1,,,,,,,,60,,,,,,1,1,1,0,1,Non flood zone,0,Oscar Van Kesbeeckstraat 7,131837 - MEC-24-BQU-
+10397275,bruxelles,1000,1300000,house,house,for-sale,5,380,1,0,0,,102,232,,0,To be done up,1900,,,2,,45,10,32,25,3,1,,,,,,,,,,,,,,,,,,Non flood zone,0,Avenue de Tervuren 113,5255556
+11129527,mechelen,2800,310000,appartment,service-flat,for-sale,1,72,1,0,0,7,,,,0,,2019,2,4,2,,,,,,1,,,,,,,,60,Gas,,,,,1,1,1,0,0,Non flood zone,0,Oscar Van Kesbeeckstraat 7,131839 - MEC-24-BQU-
+11129550,de%20haan,8420,99000,appartment,apartment,for-sale,2,48,1,0,0,,,,,0,Good,1974,3,,,,,,,,1,,0,417,E,20230620-0002920995-RES-1,,,,Electric,,0,0,0,1,1,0,0,0,Non flood zone,0,Franchommelaan 90,AB1073
+11129556,namur,5000,250000,appartment,apartment,for-sale,2,104,1,0,0,17,,,,0,As new,2023,2,2,2,1,20,10,15,10,1,,,87,B,,,,,Gas,,,,,,1,1,,0,,0,Rue du Blanc Ry 167,
+11129545,bilzen,3740,295000,house,farmhouse,for-sale,3,212,1,0,0,,1600,2751,,0,Good,1967,,,3,,32,10,11,12,1,,0,746,F,20231105-0003032178-RES-1,,,,Fuel oil,,0,0,0,1,,0,0,0,,0,Dorpsstraat 30 bus1,cuvelierstraat 41
+11129531,evergem,9940,399000,house,house,for-sale,3,235,1,0,0,,,604,,0,Good,1986,,,3,,,,,,1,,0,379,D,20230420-0002865406-RES-1,,,,,,,,,1,1,0,0,0,Non flood zone,0,Kortrijksesteenweg 74,LRC-5530
+11129544,oostende,8400,335000,appartment,apartment,for-sale,2,107,1,0,0,,,,,0,Good,2011,4,6,,,22,10,,,,,1,120,B,20220311-0002562091-RES-1,,,,Gas,,0,0,0,1,1,0,0,0,,0,Ezelstraat 31,
+11129519,knokke,8300,330000,appartment,flat-studio,for-sale,,,1,0,0,,,,,0,,,3,,,,,,,,,,,150,B,2381494,,,,,0,0,0,,,,0,0,1,Non flood zone,0,Lippenslaan 187,1927
+11129552,kortemark,8610,559000,house,house,for-sale,4,336,1,0,0,,,904,,0,Good,1872,,,4,4,,,30,16,,,0,263,C,202402020003130689,,,,,,1,1,0,1,1,0,0,0,Non flood zone,0,Baron Ruzettelaan 411/01,20241682
+11129558,stekene,9190,534000,house,house,for-sale,4,224,1,0,0,,578,823,,0,Good,1930,,,3,2,56,18,21,12,2,,0,159,B,20230418-0002867336-RES-2,,,,,,,,,1,1,0,0,0,Non flood zone,0,Houtbriel 8,23KM
+10811725,bruxelles-ville,1000,670000,house,apartment-block,for-sale,7,300,1,0,0,,,100,,0,Good,,,,2,,,,,,4,,,344,F,,68 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Rue Général Capiaumont 2,
+11129524,mechelen,2800,321935,appartment,service-flat,for-sale,1,72,1,0,0,9,,,,0,,2019,,4,3,,,,,,1,,,,,,,,60,,,,,,1,1,1,0,0,Non flood zone,0,Oscar Van Kesbeeckstraat 7,131018 - MEC-24-BQU-
+11129520,nieuwpoort,8620,320000,appartment,apartment,for-sale,2,65,1,1,0,5,,,,0,To be done up,1976,3,6,2,,,,,,1,,,191,B,20240208-0003136766-RES-1,,,,Electric,,,,,,1,0,0,,Non flood zone,0,Lombardsijdestraat 10b,4172 - 2024/013/1067
+10811376,brussel,1000,750000,house,mixed-use-building,for-sale,2,,1,0,0,,,116,,0,Good,1920,,,2,,,,,,,,,928,G,,,,,Electric,,,,,,,,,,,1,Baron Romain Moyersoenpark 30B,
+11129522,westerlo,2260,1150000,house,house,for-sale,5,267,1,0,1,,,2445,,0,As new,1989,,,4,4,,,,,2,,,279,C,20240125-0003105247-RES-1,,,,Gas,,,,,1,1,0,0,0,Non flood zone,0,Bredabaan 260,71583 - HER-24-PME-0
+10893891,brussels-city,1000,2400000,appartment,other-property,for-sale,10,680,1,1,0,15,,230,,0,As new,2010,,,3,2,,,,,9,,,144,C,20200522-0000568447-01-4,,,,Gas,,,1,,1,1,0,0,0,,1,Koning Albert 1 - laan 207,5572397
+11129525,mechelen,2800,281606,appartment,service-flat,for-sale,1,60,1,0,0,5,,,,0,,2019,,4,2,,,,,,1,,,,,,,,60,,,,,,1,1,1,0,0,Non flood zone,0,Oscar Van Kesbeeckstraat 7,131824 - MEC-24-BQU-
+10822302,bruxelles,1000,1250000,house,apartment-block,for-sale,10,654,1,0,0,,,175,,0,Good,,,,2,,15,6,13,13,9,,,277,F,20120907-0000112973-01-8,59 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,1,Pikdorenveld 8,5529925
+10938334,brussels-city,1000,545000,house,mixed-use-building,for-sale,2,284,1,0,0,,,142,,0,Good,1958,,,2,,,6,,,,,,,,,,,,Gas,,,,,1,1,0,0,0,Possible flood zone,1,Steenweg 299,5601343
+11002024,bruxelles,1000,675000,house,house,for-sale,4,200,1,0,0,1,1,165,,0,Good,,,,2,,,,12,15,1,0,0,361,G,201907150000553214017,72 kg CO₂/m²,,,Gas,0,0,0,0,1,,,,,,0,"Av. W. Churchill, 246 bte7 246 246 246",Quint
+10819758,bruxelles,1000,2560000,house,apartment-block,for-sale,10,656,1,0,0,11,,222,,0,Good,,,,2,1,36,17,18,38,6,,,292,F,20150609-0000290388-01-1,63 kg CO₂/m²,,,,,,,,1,,,,,,1,Pikdorenveld 8,5528891
+10435396,bruxelles,1000,1290000,house,mixed-use-building,for-sale,8,587,1,0,0,16,,129,,0,Good,1930,,,2,,20,7,13,13,8,,,592,G,20141216-0000263114-01-2,128 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,1,Pikdorenveld 8,5275691
+11010121,bruxelles,1000,1990000,house,apartment-block,for-sale,,872,1,0,0,,,323,,0,To be done up,1948,,,2,,,,,,12,,,,,,,,,Gas,,,,,1,,,,,,1,rue Edison 37,5639880
+11122981,bruxelles,1000,1100000,house,mixed-use-building,for-sale,6,,1,0,0,,,93,,0,Good,1900,,,2,,,,,,6,,,,,,,,,Gas,,,,,1,,,,,,1,rue Edison 37,5842280
+10955776,bruxelles,1000,295000,house,house,for-sale,6,150,1,0,0,,,35,,0,To renovate,1935,,,2,,,,,,,,,,,,,,,Gas,,,,,1,,,,,,0,rue Edison 37,5610135
+10466107,brussels-city,1000,990000,appartment,other-property,for-sale,5,243,1,0,0,15,,178,,0,As new,,,,2,,,,,,5,,,157,D,20200522-0000568444-01-1,31 kg CO₂/m²,,,Gas,,,,,1,,0,0,0,,1,Koning Albert 1 - laan 207,5290206
+10652551,bruxelles,1000,549000,house,house,for-sale,6,248,1,0,1,7,14,80,,0,Just renovated,,,,,,32,8,15,14,1,,,302,F,20230306-0000636383-01-1,60 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,Av. Henri Conscience 74,
+10514317,bruxelles,1000,850000,house,mixed-use-building,for-sale,,320,1,0,0,14,,150,,0,To be done up,1900,,,2,1,,,,,4,,,214,E,20220901-0000619861-01-7,42 kg CO₂/m²,,,Gas,,,,,,,,,,,1,rue Edison 37,5317433
+10793520,brussels-city,1000,589000,house,house,for-sale,4,180,1,0,0,,,80,,0,Good,1912,,,2,,20,,16,14,4,,,298,F,,89 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,Rue Archimède 41,
+11115576,bruxelles,1000,525000,house,apartment-block,for-sale,,300,1,0,0,,,155,,0,To be done up,1910,,,2,,,,,,,,,,,,,,,Gas,,,,,1,,,,,,1,rue Edison 37,5837549
+10892129,bruxelles,1000,675000,house,apartment-block,for-sale,4,265,1,0,0,10,,,,0,To be done up,,,,2,,27,5,9,9,4,,,233,E,20161027-0000359875-01-2,61 kg CO₂/m²,,,Fuel oil,,,,,1,,,,,,1,Rue Franklin  90,5571030
+10938063,bruxelles,1000,960000,house,house,for-sale,6,293,1,0,1,,45,130,,0,As new,,,,2,1,,12,20,16,2,0,0,256,E,,67 kg CO₂/m²,,,Gas,0,0,0,0,1,,,0,0,,0,Rue Archimède 41,Maison 6 ch - EU
+10908737,bruxelles,1000,1500000,house,apartment-block,for-sale,6,380,1,0,0,15,,92,,0,Just renovated,1850,,,2,,,,,,5,,1,128,C,20160316-0000330220-01-1,27 kg CO₂/m²,,,,,,,,1,,,,,,1,Boulevard Général Jacques,5584484
+11104719,bruxelles,1000,675000,house,house,for-sale,5,276,1,1,0,4,,65,,0,Good,1901,,,2,,25,6,15,15,,0,0,362,G,,3 kg CO₂/m²,,362,,0,0,0,0,1,1,1,0,0,Non flood zone,0,,
+11089282,bruxelles,1000,1150000,house,mixed-use-building,for-sale,19,959,1,1,0,10,,39,,0,To be done up,1979,,,2,1,40,,15,15,7,,,,,,,,,Gas,,,,,1,,,,,Recognized flood zone,1,"Parc Industriel de la Vallée de Hain, 21 A",5821914
+11089283,bruxelles,1000,1150000,house,house,for-sale,19,959,1,1,0,10,,39,,0,To be done up,1979,,,2,1,40,,15,15,7,,,,,,,,,Gas,,,,,1,,,,,Recognized flood zone,1,"Parc Industriel de la Vallée de Hain, 21 A",5821915
+10960618,bruxelles,1000,1200000,house,apartment-block,for-sale,3,274,1,0,0,,,90,,0,To renovate,1894,,,2,,15,10,18,18,2,,1,572,G,,113 kg CO₂/m²,,,Gas,,,,,1,,0,0,0,Non flood zone,1,Avenue Louise 409,5608026
+10774385,bruxelles-ville,1000,535000,house,house,for-sale,3,120,1,0,0,,30,80,,0,As new,2007,,,2,,,,14,12,2,,,146,C,20130221-0000147991-01-3,31 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,Rue Abbé Cuypers 3,
+10922226,bruxelles,1000,1100000,house,apartment-block,for-sale,,,1,0,0,,,,,0,,,,,1,,,,,,,,,,,,,,,,0,0,0,0,0,,,,,,1,,
+10983843,bruxelles,1000,695000,house,house,for-sale,6,279,1,0,1,14,,98,,0,Good,1957,,,2,2,28,11,15,12,2,0,0,342,F,202305030000643230017,68 kg CO₂/m²,,,Gas,0,0,0,0,1,1,,,0,,0,"rue du Duc, 22",Patriotes FOAP
+10934351,bruxelles,1000,240000,house,house,for-sale,3,140,1,0,0,10,,,,0,,,,,1,,,,,,,1,0,,,,,,,,0,0,0,0,1,1,,,,,0,,
+10322130,bruxelles,1000,1800000,house,apartment-block,for-sale,8,1000,1,0,0,,,,,0,As new,,,,3,1,,,,,12,,,160,D,20201027­0000577266­01­6,,,,,,,,,,,,,,,1,Rue de Mons 63,5208035
+10934334,bruxelles,1000,490000,house,house,for-sale,3,,1,0,0,1,,,,0,,,,,1,,,,,,,0,0,,,,,,,,0,0,0,0,1,1,,,,,0,,
+11129798,wachtebeke,9185,415000,house,house,for-sale,3,186,1,0,0,,,985,,0,Good,2008,,,4,1,,,,,,,0,192,B,,,,,Gas,,0,0,0,1,1,0,0,0,Non flood zone,0,Lindenlaan 16 /a/a,TKpeene3a
+10959876,bruxelles,1000,560000,house,house,for-sale,2,135,1,0,1,,,,,0,Good,,,,1,,23,,26,14,1,1,0,466,G,20230105-0000630474-01-0,91 kg CO₂/m²,,466,Gas,0,0,0,0,0,1,,,,,0,Rue Darwin 49A,83616901
+10452091,bruxelles,1000,8000000,house,apartment-block,for-sale,,1950,1,0,1,,,900,,0,Good,1910,,,2,,,,,,,1,1,,,,,,,Gas,0,0,0,0,0,,,,,,1,Avenue Louise 404a,4476912
+11054497,bruxelles,1000,1297000,house,mixed-use-building,for-sale,5,397,1,1,0,12,,69,,0,As new,,,,2,,15,15,28,28,5,0,0,81,G,20200711­0000571571­01­5,403 kg CO₂/m²,,,Gas,0,0,0,1,1,1,0,,0,Non flood zone,1,,
+11064959,bruxelles,1000,3800000,house,house,for-sale,4,450,1,0,0,20,70,,,0,As new,1930,,,2,,,,20,15,3,,,205,D,,41 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,0,Rue des Sablons 19,5723974
+10252033,bruxelles,1000,1850000,house,apartment-block,for-sale,4,468,1,0,0,,,,,0,Good,1930,,,2,,,,,,4,,,166,D,,35 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Rue des Sablons 19,5135128
+11128877,bruxelles,1000,1920000,house,apartment-block,for-sale,15,1200,1,0,0,60,,400,,0,Good,1950,,,2,,,,20,20,10,,,158,D,,31 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,1,.,5844953
+10775660,bruxelles,1000,1890000,house,mansion,for-sale,6,400,1,0,0,30,40,,,0,Just renovated,1925,,,2,1,35,40,30,18,3,,1,215,E,20220526-0000613523-01-4,43 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,0,Avenue Louise 251,5504405
+11013179,brussels,1000,1450000,house,exceptional-property,for-sale,5,550,0,0,0,35,233,366,,0,To renovate,1898,,,2,,,,35,26,2,,,314,F,,62 kg CO₂/m²,,,Gas,,,,,,,,,,,0,Rue Defacqz 40,5641175
+11028941,bruxelles,1000,1190000,house,villa,for-sale,5,350,1,0,0,40,300,734,,0,Good,1974,,,4,5,54,14,19,16,3,,,223,E,202311080000661100016,44 kg CO₂/m²,,,,,,,,1,,,,,Non flood zone,0,Avenue de L'amarante 39,5701675
+10498546,bruxelles,1000,850000,house,apartment-block,for-sale,5,250,1,0,0,,,65,,0,Good,,,,2,,30,,40,21,5,,,,,,,,,Gas,,,,,,,,,,,1,"Rue du Lac 27,",5309181
+10974516,bruxelles,1000,1200000,house,apartment-block,for-sale,3,274,1,0,0,,,,,0,Good,1894,,,2,,,,18,18,1,,,572,G,,113 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,1,Rue des Sablons 19,5619261
+10269586,bruxelles,1000,1995000,house,house,for-sale,5,550,1,0,0,15,,,,0,Just renovated,,,,2,4,,,,,,,,,,20120423-0000080963-01-4,31 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,0,"Av. de Tervueren, 37",5141922
+10984241,bruxelles,1000,495000,house,house,for-sale,9,260,1,0,0,,,110,,0,To be done up,,,,2,,48,,,,,,,440,G,,83 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,Place des chasseurs Ardennais 24-26,9636 - 654659004
+10984242,bruxelles,1000,495000,house,mixed-use-building,for-sale,9,260,1,0,0,,,110,,0,To be done up,,,,2,,48,,,,,,,440,G,,83 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Place des chasseurs Ardennais 24-26,9637 - 654659004
+11055922,brussels-city,1000,635000,house,apartment-block,for-sale,8,268,1,0,0,,,,,0,To renovate,,,,2,,,,,,5,,,245,E,,,,,Gas,,,,,1,1,0,0,,,1,"Square Ambiorix, 32/11B",1710141 - 345353759
+11045094,bruxelles,1000,580000,house,house,for-sale,4,179,1,0,0,,,80,,0,To be done up,,,,2,,,,,,4,,,248,E,20230124-0000632149-01-7,49 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,0,Rue Franklin  90,5618351
+11091579,brussels,1000,550000,house,apartment-block,for-sale,4,220,1,0,0,,,,,0,To be done up,1911,,,2,,15,,13,13,4,,,200,D,20230607-0000646680-01-9,40 kg CO₂/m²,,,Gas,,,,,,,,,,Recognized flood zone,1,Avenue Louise 367,5822919
+11037414,bruxelles,1000,6400000,house,apartment-block,for-sale,27,1350,1,1,0,495,40,560,,0,As new,1986,,,4,,60,,16,14,27,,1,342,F,F,54 kg CO₂/m²,,,Electric,,,,,1,,,,,Non flood zone,1,Rue Defacqz 40,5706207
+10971627,bruxelles,1000,395000,house,house,for-sale,3,125,1,0,0,,,,,0,As new,,,,2,,,5,17,9,2,,,58.88,B,,7 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,Avenue Louise 251 (6ième étage),5617436
+10885727,brussels,1000,1345000,house,mixed-use-building,for-sale,,1000,1,0,0,,,1000,,0,To renovate,1930,,,3,,,,,,1,,,,,,,,,,,,,,,,,,,Non flood zone,1,Bld. Brand Whitlock 108,5568157
+11063416,pentagone-bruxelles,1000,599000,house,apartment-block,for-sale,4,160,1,0,0,,,50,,0,,1918,,,2,,,,,,,0,1,267,E,656932-01-9,,,267,Gas,0,0,0,0,0,,0,0,0,Non flood zone,1,Rue Archimède 17,a0iTt0000007ZdlIAE
+10919998,bruxelles,1000,850000,house,mixed-use-building,for-sale,3,280,1,0,0,,,86,,0,As new,,,,2,,43,,22,18,1,,,155,D,20190206-0000543429-01-4,30 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,1,Rue Belliard 200,5588690
+10802621,bruxelles,1000,1270000,house,apartment-block,for-sale,,205,1,0,0,,,205,,0,As new,2006,,,2,,,,,,3,,,193,D,,41 kg CO₂/m²,,,Gas,,,,,,,,,,,1,Rue des Sablons 19,5518202
+11092349,brussels-city,1000,889000,house,mixed-use-building,for-sale,7,400,1,0,0,,,,,0,To be done up,,,,2,1,,,,,5,,,190,D,20220301-0000606791-01-4,38 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,av. Charles-quint 124,270141 - 4978337
+10220315,bruxelles,1000,815000,house,house,for-sale,5,214,1,0,0,,50,103,,0,To renovate,1905,,,2,,15,11,21,21,2,,,518,G,20220809-0000618562-01-07,103 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,Rue des Sablons 19,5092537
+11093861,bruxelles,1000,1750000,house,apartment-block,for-sale,10,500,1,0,0,,,120,,0,,1918,,,2,,,,,,10,0,0,159,D,20230412-0000640455-01-7,31 kg CO₂/m²,,159,Gas,0,0,0,0,0,,0,0,0,,1,Rue Archimède 17,a0iTt0000009gHlIAI
+9776162,bruxelles,1000,1420000,house,mixed-use-building,for-sale,8,587,1,0,0,16,,129,,0,Good,1930,,,2,,20,7,13,13,8,,,592,G,20141216-0000263114-01-2,128 kg CO₂/m²,,,Gas,,,,,,,,,,Non flood zone,1,Pikdorenveld 8,4676078
+10859034,bruxelles,1000,325000,house,house,for-sale,4,,0,0,0,,,,,0,Good,,,,2,,,,,,4,,,733,G,20231012-0000658307-01-6,116 kg CO₂/m²,,45,Electric,,,,,,,,,,Non flood zone,1,rue de Flandre 197,5552432
+10954063,bruxelles,1000,340000,house,mixed-use-building,for-sale,1,94,1,0,0,,,110,,0,As new,1960,,,2,,,3,29,,,,,,,,,,,,,,,,1,1,1,,,,1,Rue Louis Van Beethoven 25 25,5609654
+11041027,pentagone-bruxelles,1000,1300000,house,mixed-use-building,for-sale,8,399,1,0,0,,,100,,0,,,,,2,,,,,,,0,0,,,20220124-0000604095-01-8,84 kg CO₂/m²,,,Gas,0,0,0,0,1,,0,0,0,Non flood zone,1,Rue Archimède 17,a0iTt0000006zLlIAI
+10897300,bruxelles,1000,695000,house,house,for-sale,4,155,1,0,0,32,,,,0,Good,1919,,,2,1,25,13,25,16,2,,,209,D,20230811-0000652709-01-5,41 kg CO₂/m²,,,,,,,,,,,,,,0,Rue des Sablons 19,5574125
+10994733,bruxelles,1000,980000,house,exceptional-property,for-sale,4,247,1,1,0,40,40,,,0,Good,,,,2,1,,,44,26,4,,,251,E,,50 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,0,9 rue Berckmans,5621620
+10835842,bruxelles,1000,1185000,house,apartment-block,for-sale,7,320,1,0,0,50,,,,0,As new,,,,2,,,,18,18,5,,,163,D,,32 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Rue des Sablons 19,5535013
+11129813,nord-est-bruxelles,1000,775000,house,house,for-sale,5,255,1,0,0,15,,1,,0,,1930,,,2,1,,11,17,17,2,0,0,,,test,,,,Gas,0,0,0,0,1,,0,0,0,Non flood zone,0,Rue Archimède 17,a0iTt000000BvMLIA0
+11101727,brussels-city,1000,649000,house,house,for-sale,4,180,1,0,0,,10,,,0,Good,,,,,,30,,18,14,2,,,,,,,,,Gas,,,,,1,1,0,,,,0,"Square Ambiorix, 32/11B",1710127 - 345353761
+11129559,sint-niklaas,9100,259000,house,house,for-sale,4,172,1,0,0,,26,110,,0,Good,1935,,,4,,,,,,1,,0,381,D,20240123-0003118178-RES-1,,,,Gas,,0,0,0,1,,0,1,0,Non flood zone,0,Houtbriel 8,24-LP
+11129564,lier,2500,279000,house,house,for-sale,3,125,1,0,0,,25,102,,0,Good,1935,,,2,,32,12,,,1,,0,143,B,20240105-0003009584-RES-3,,,,,,,,,0,,0,0,0,Non flood zone,0,"Vanderpoortenlaan, 15",TK/0968
+10965775,bruxelles,1000,3800000,house,house,for-sale,4,513,1,0,0,20,84,200,,0,As new,1906,,,2,,57,15,40,23,3,,1,205,D,,,,,Gas,,,,,1,,,,,,0,Avenue Louise 251,5571612
+11053576,bruxelles,1000,1650000,house,exceptional-property,for-sale,5,635,1,0,0,23,,,,0,Just renovated,,,,2,,40,18,32,20,3,,1,143,C,,31 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,0,Chaussée de Waterloo 1382,5713886
+11129560,de%20klinge,9170,534000,house,house,for-sale,4,224,1,0,0,,578,823,,0,Good,,,,3,2,56,18,21,12,2,,0,159,B,20230418-0002867336-RES-2,,,,,,,,,1,1,0,0,0,Non flood zone,0,Houtbriel 8,23KM
+11129563,lier,2500,319000,house,house,for-sale,3,125,1,0,0,,25,102,,0,Good,1935,,,2,,32,12,,,1,,0,198,B,20240105-0003099415-RES-2,,,,,,,,,1,,0,0,0,Non flood zone,0,"Vanderpoortenlaan, 15",TK/0967
+10582453,bruxelles,1000,3950000,house,mansion,for-sale,5,530,1,0,0,,,213,,0,As new,1920,,,2,2,,,18,18,5,,,156,D,20211022-0000598042-01-5,31 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,0,"Avenue Delleur, 8",4949483
+11129573,gent,9050,300000,house,house,for-sale,,102,1,0,0,,14,62,,0,,,,,4,,29,9,,,,,0,451,E,20211203-0002503893-RES-1,,,,,,,,,0,,0,0,0,Non flood zone,0,Ajuinlei 12 12 12,002-24-TA01
+11129567,de%20panne,8660,140000,appartment,apartment,for-sale,1,42,1,0,0,,,,,0,To be done up,1963,1,6,1,,,,,,1,,0,288,C,20221010-0002693093-RES-1,2439 kg CO₂/m²,,,Gas,,0,0,0,1,1,0,1,0,Non flood zone,0,Duinkerkelaan 50,Fabiola 0103 + K31
+11129574,knokke-heist,8300,1099000,appartment,apartment,for-sale,2,118,1,0,0,,,,,0,,,,5,,,,,,,2,,0,188,B,9876453,,,,Gas,,0,0,0,1,1,0,0,0,Non flood zone,0,Dumortierlaan 89,diksmutk
+10520222,koksijde,8670,205000,appartment,ground-floor,for-sale,2,93,1,0,0,,,,,0,To be done up,1968,,,,,30,4,,,1,,0,300,C,20221221-0002760522-RES-1,,,,Gas,,0,0,0,1,1,0,0,0,Non flood zone,0,Langestraat 62,NI23354
+11129568,oostende,8400,117000,appartment,duplex,for-sale,3,,1,0,0,,,,,0,To renovate,,,,,,,,,,,,0,342,D,2870065,,,,Gas,,0,0,0,1,1,0,1,0,Non flood zone,0,Groentemarkt 1,TK/1215
+11129566,wevelgem,8560,249000,house,house,for-sale,3,195,1,0,0,,,410,,0,Good,,,,,1,,,,,1,,,455,E,,,,,Gas,,1,,1,1,,,,,Non flood zone,0,Vanackerestraat 2,
+11129583,molenbeek-saint-jean,1080,180000,appartment,apartment,for-sale,1,50,1,0,0,,,,,0,Good,,1,4,,,,,,,1,,,209,D,20231114-0000661695-01-3,,,,Gas,,,,,1,1,1,0,,,0,Sint-Gisleinsstraat 53,917 - 2038
+11129571,blankenberge,8370,289000,appartment,apartment,for-sale,2,78,1,0,0,8,,,,0,Good,2012,2,6,,,,,,,1,,0,73,A,,,,,Gas,,0,0,0,1,1,0,0,0,Non flood zone,0,"Leopold II Laan, 6",VK 2403
+11129584,molenbeek-saint-jean,1080,260000,appartment,apartment,for-sale,3,110,1,0,0,,,,,0,Good,,3,5,,,,,,,1,,,429,G,20230014-0000661696-01-1,,,,Gas,,,,,1,1,1,0,,,0,Sint-Gisleinsstraat 53,916 - 2038
+11129604,oostende,8400,225000,appartment,apartment,for-sale,2,78,1,0,0,8,,,,0,Good,1961,7,8,3,,26,5,,,1,,1,,,,,,,,,,,,1,1,0,0,0,Non flood zone,0,Zeedijk 115,319/VK/VN/2024
+11129602,wierde,5100,470000,house,house,for-sale,4,175,1,0,0,30,,832,,0,,2001,,,4,4,,,,,1,,,304,D,,1000 kg CO₂/m²,66973 kWh/year,,Fuel oil,,,,,1,,,,,,0,Rue Notre Dame 130,19813 - 04348/205
+11129585,honnelles%20angre,7387,97500,house,house,for-sale,3,126,1,0,0,15,215,280,,0,To renovate,1960,,,4,,30,10,16,12,1,,,631,G,20220918008396,50 kg CO₂/m²,84005 kWh/year,,Gas,,,,,1,,0,0,0,Non flood zone,0,"Rue Maréchal Joffre, 26",5845967
+11129586,beringen,3582,199000,house,house,for-sale,3,165,1,0,0,,200,401,,0,To renovate,1932,,,3,1,20,5,15,9,1,,0,914,F,20231104-0003031698-RES-1,,,,,,,,,1,,0,0,0,,0,Hoogstraat 8,BE1605
+11129601,namur,5000,470000,house,house,for-sale,4,175,1,0,0,30,,832,,0,,2001,,,4,4,,,,,1,,,304,D,,1000 kg CO₂/m²,66973 kWh/year,,Fuel oil,,,,,1,,,,,,0,Rue Notre Dame 130,19814 - 04348/205
+11129598,seraing%20jemeppesur-meuse,4101,285000,house,house,for-sale,2,105,1,0,0,30,,430,,0,As new,,,,2,,,17,15,15,1,,,163,B,20240129023447,,,,,,,,,1,,,,,,0,Rue de la Station 3,5840648
+10915432,bruxelles,1000,650000,house,mixed-use-building,for-sale,7,,1,0,0,,,,,0,To be done up,,,,2,,,,,,1,0,0,,,,,,,Gas,0,0,0,0,0,,,,,,1,,
+10962524,bruxelles,1000,330000,house,house,for-sale,4,223,1,0,0,,,50,,0,To renovate,,,,1,,20,12,20,20,1,0,0,,,,,,,Fuel oil,0,0,0,0,1,,,,,,0,,
+11083647,bruxelles,1000,2950000,house,apartment-block,for-sale,16,1027,1,0,0,,,,,0,,,,,2,,,,,,,,,,,,,,,Gas,0,0,0,,1,,,,,,1,Av. L. Wiener 82,3771-1
+10545693,bruxelles,1000,285000,house,exceptional-property,for-sale,2,100,1,0,0,10,,40,,0,To restore,1753,,,2,,20,25,15,15,1,0,0,,,,,,,,0,0,0,0,0,1,1,,,,0,,
+10843081,evergem,9940,279000,house,house,for-sale,3,250,1,0,0,,,898,,0,,1952,,,3,1,,,,,1,0,0,1214,F,20230518-000894699-RES-1,,,1214,Electric,0,0,0,0,0,,0,0,0,Non flood zone,0,Boelare 67,a0i0800000CwdHTAAZ
+11053135,bruxelles,1000,999000,house,apartment-block,for-sale,5,300,1,0,0,20,,120,,0,Good,,,,2,,40,,,,5,,,316,F,,68 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Avenue Broqueville 1,270017 - 5100980
+11120011,bruxelles,1000,1250000,house,house,for-sale,6,435,1,0,0,,,253,,0,As new,1932,,,2,1,30,30,40,20,2,,,172,D,20240116-0000667435-01-2,34 kg CO₂/m²,,,Gas,,,,,1,,,,,,0,16 rue Bois Lionnet,5840657
+10971329,brussels-city,1000,545000,house,apartment-block,for-sale,3,,1,0,0,,,,,0,To renovate,,,,2,,22,3,11,19,3,,,,,20231115-0000661748-01-7,,,,Gas,,,,,,1,,0,,,1,"Rue Picard (Gare Maritime), 7",5617062
+11098997,bruxelles,1000,465000,house,house,for-sale,4,130,1,0,0,,,,,0,To be done up,,,,2,,23,7,16,16,2,,,,,,,,,,,,,,1,,,,,,0,Rue de Laeken 91,48676 - 290
+11057159,bruxelles,1000,675000,house,house,for-sale,3,170,1,1,0,,,,,0,Just renovated,1900,,,,,30,,,,,,,,,,,,,Gas,,,,,1,,,,,,0,Rue Camille Lemonnier  68,6021 - 1981394
+10963443,bruxelles,1000,300000,house,house,for-sale,2,130,1,0,0,,,35,,0,,,,,,,25,,,,,,,,,,,,,,,,,,,,,,,,0,Rue Victor Hugo 81,2098 - 2023
+11062763,bruxelles1,1000,380000,house,apartment-block,for-sale,5,160,1,0,0,,,,,0,,1899,,,2,,27,,,,1,,,561,G,,147 kg CO₂/m²,,,Gas,0,0,0,,1,,,,,,1,Rue de Wand 25,camusel de wand
+10823525,bruxelles,1000,1750000,house,mixed-use-building,for-sale,15,882,1,0,0,10,,172,,0,Good,,,,3,,25,5,13,14,15,,,196,D,20120912-0000114140-01-8,42 kg CO₂/m²,,,,,,,,1,,,,,,1,Pikdorenveld 8,5530001
+11078393,bruxelles1,1000,380000,house,apartment-block,for-sale,5,160,1,0,0,,,,,0,,1899,,,2,,27,,,,1,,,561,G,,147 kg CO₂/m²,,,Gas,0,0,0,,1,,,,,,1,Av. Houba de Strooper 618,camusel de wand
+10958072,brussels-city,1000,349999,house,house,for-sale,2,90,1,0,0,5,,,,0,Good,,,,2,,30,,,,1,,,776,G,,167 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,0,RUE FRANZ MERJAY 148 C,269642 - 5078674
+11099008,bruxelles,1000,1850000,house,apartment-block,for-sale,,1200,1,0,0,,,,,0,To renovate,1968,,,3,,,,,,,,,270,E,,54 kg CO₂/m²,,,,,,,,1,,,,,,1,Rue de Laeken 91,48710 - 335
+11125574,bruxelles,1000,685000,house,apartment-block,for-sale,8,860,1,0,0,,,,,0,,,,,2,4,,,,,4,,,,,,,,,,,,,,,,,,,,1,rue Willy Van der Meeren 23,671 - 93364094
+10470523,bruxelles,1000,650000,house,mixed-use-building,for-sale,3,206,1,0,0,,,,,0,To renovate,1924,,,2,,,,,,3,,,640,G,G,125 kg CO₂/m²,,,Gas,,,,,,,,,,,1,Chaussée de Waterloo 1421 bte 1,5290358
+10817807,bruxelles,1000,749000,house,mansion,for-sale,5,288,1,0,0,21,75,,,0,As new,1920,,,2,,54,12,19,25,2,,,259,E,20230612-0000647189-01-0,,,,Gas,,,,,1,,,,,,0,Avenue François Sebrechts 26,5524469
+10962147,brussels-city,1000,469000,house,apartment-block,for-sale,3,180,1,0,0,,,65,,0,Good,1899,,,2,,,,,,3,,,220,E,,,,,Gas,,,,,,,0,1,0,Non flood zone,1,Nieuwstraat 32b1,5612769
+11020183,brussel,1000,999000,house,apartment-block,for-sale,7,280,1,1,0,,,86,,0,Good,,,,,,,,,,,0,0,,F,,,,,Gas,0,0,0,1,0,,,,,,1,,
+11016702,brussel,1000,750000,house,mansion,for-sale,4,300,0,0,0,,60,160,,0,To be done up,1890,,,2,1,,,,,2,,,316,F,20231018-0000658861-01-9,63 kg CO₂/m²,,,Gas,,,,,,,,,,,,Rue Marché au Charbon 77,
+10918637,brussels-city,1000,389000,house,house,for-sale,3,171,1,0,0,,,140,,0,To renovate,1899,,,2,,,,,,,,,481,G,20230724-0000651370-01-2,96 kg CO₂/m²,,,Gas,,,,,1,,,,,Non flood zone,0,av. Charles-quint 124,269500 - 5076688
+11073490,bruxelles,1000,1750000,house,mixed-use-building,for-sale,10,536,1,0,0,,,140,,0,Good,1933,,,2,,,,,,5,,,222,E,20231129-0000663299-01-0,45 kg CO₂/m²,,,Gas,,,,,1,,,,,,1,Keizerlaan 1,5725086
+11083799,brussels-city,1000,599000,house,apartment-block,for-sale,6,160,1,0,0,,,45,,0,Just renovated,1899,,,2,,,,,,3,,,319,F,667751,,,,Gas,,,,,,,,,,,1,Tour & Taxis - Havenlaan 86c 106c,D1000-23161-1
+10701232,brussels-city,1000,409000,house,mixed-use-building,for-sale,2,170,0,0,0,,,,,0,To renovate,,,,2,,26,9,21,10,1,,,1032,G,,163 kg CO₂/m²,,,Gas,,,,,1,1,0,0,0,Possible flood zone,1,Molenstraat 93,5343969
+10902966,bruxelles,1000,555000,house,mixed-use-building,for-sale,,,1,0,0,,,,,0,Good,,,,1,,,,,,,,,,F,,,,,,0,0,0,0,0,1,,,,,1,,
+10867991,bruxelles,1000,Starting price : 200000,house,house,for-sale,5,,1,0,0,,,,,0,,,,,,,,,,,,,,,,,,,,,,,0,,0,,,,,,1,"Rue Joseph Stevens, 7 / 24cme ét.",
+11055099,brussels,1000,535000,house,house,for-sale,3,130,1,0,0,,,,,0,Just renovated,,,,2,,,,22,22,,0,0,,F,,,,,Gas,0,0,0,1,1,,,,,,0,,
+10780666,bruxelles,1000,1400000,house,house,for-sale,,,1,0,0,,,,,0,To be done up,1890,,,2,,,,,,,,,,,,,,,,0,0,0,0,0,,,,,,1,,
+10785531,bruxelles,1000,750000,house,apartment-block,for-sale,5,240,1,0,0,,,83,,0,,,,,,1,,,,,5,,,306,F,20220223-0000606361-01-2,61 kg CO₂/m²,,,,,,,,,,,,,,1,Rue de Stalle 288C,14982 - 4138613
+10979713,bruxelles,1000,1695000,house,apartment-block,for-sale,,480,1,0,0,,,,,0,Good,1888,,,2,,,,,,,0,0,202,D,,37 kg CO₂/m²,,,Gas,0,0,0,1,1,,1,,1,,1,Rue de Wynants 9,00722cla
+11121704,brussel,1000,455000,house,house,for-sale,2,140,1,0,1,,,54,,0,As new,1830,,,2,1,19,15,19,11,1,1,0,209,D,20240131-0000668892-01-2,42 kg CO₂/m²,,,Gas,0,0,0,0,1,1,,,,Non flood zone,0,,
+10999029,brussels-city,1000,Starting price : 700000,house,house,for-sale,8,,1,0,0,,,195,,0,,,,,,,,,,,,,,481,G,20230905-0000654308-01-4,,,,,,,,,,,,,,,0,"Paradijsvogelslaan, 24",

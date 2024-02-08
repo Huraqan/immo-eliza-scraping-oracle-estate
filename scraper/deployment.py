@@ -1,20 +1,18 @@
 from scrapy.crawler import CrawlerProcess
-from scraper.scraping import ImmoSpider
-# from scraper.data_processing import process_data
+from scraper.immo_spider import ImmoSpider
 
 
 def deploy_crawler():
-
     # Specify the output file and format
     output_settings = {
         "FEEDS": {
-            "output_data/output.csv": {
+            "data/raw/output.csv": {
                 "format": "csv",
                 "overwrite": True,
                 "fields_to_export": None,  # Export all fields
                 "export_empty_fields": True,  # Include null values for missing fields
             },
-            "output_data/output.json": {
+            "data/raw/output.json": {
                 "format": "json",
                 "overwrite": True,
             }
