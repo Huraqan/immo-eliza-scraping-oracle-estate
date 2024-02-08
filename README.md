@@ -2,9 +2,8 @@
 
 ## Description
 
-This is a regular paragraph.
+We're building a web scraper to extract property listings from real estate websites. Initially, we used Requests and BeautifulSoup for prototyping but later switched to Scrapy due to its speed and ease of use. We resolved duplicate link issues with Scrapy's built-in dupefilter. We're still addressing special character encoding issues in the dataset and implementing value mapping for data cleaning.
 
-This is another regular paragraph.
 
 ## Installation
 
@@ -70,7 +69,9 @@ This is another regular paragraph.
 ### Duplicates
 
 <img src="duplicates.png" align="left" width="200px"/>
+<p>
 The presence of duplicates may be attributed to the occurrence of identical listings across different pages of search results, often marked as "new" (as illustrated in the image on the left). To resolve this issue, we can simply add URLs to a set, ensuring the elimination of duplicates.
+</p>
 <br clear="left"/>
 
 ```python
@@ -89,8 +90,9 @@ The presence of duplicates may be attributed to the occurrence of identical list
 
 ## Unveiling the Matrix
 
+Prepare to journey into the heart of the data as we decode the patterns, uncover hidden insights, and unlock the potential within. Our quest will involve harnessing the power of pandas and numpy, matplotlib or possibly ggplot2 and any other libraries that might be relevant. Get ready to witness the transformation as we reveal the matrix's secrets.
 
 
 ## What's next?
 
-
+Our trajectory continues with optimization, machine learning exploration, and scalability enhancements. Stay tuned for our next tech leap.
