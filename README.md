@@ -90,41 +90,35 @@ Data is stored as `output_json.json` and `output_csv.scv`.
 ### Day 1 - Project Understanding:
 - Clarification of our objectives.
 - Git repository creation.
-- Discussion on tool selection: Scrapy, BeautifulSoup, Python, etc.
-- Discussion on program structure and expected features.
-- Discussion on who wants to do what:
- "Everyone does everything, we put everything together and see how each person did it
-  to discuss it for the purpose of improvement and learning."
+- Discussion on program structure and expected features, tool selection: Scrapy, BeautifulSoup, Python, etc.
+- who wants to do what:
+    "Everyone does everything, we put everything together and see how each person did it
+     to discuss it for the purpose of improvement and learning."
 
 ### Day 2 - Program Development:
-- Development of the main structure.
-- Each person develops independently to discover the problems that arise and the questions that arise.
+- Each person develops independently to discover the problems and the questions that arise.
 - A few more hours of development, and we hope to reach the First Working Prototype.
 
 
 ### Day 3 - Program Development:
-- Sharing ideas, decision made to use Scrapy to efficiently handle HTTP requests.
+- Decision made to use Scrapy to efficiently handle HTTP requests.
 - Everyone switches to reading mode to discover Scrapy and its functionalities.
-- Implementation of the web crawler with Scrapy to collect property URLs.
+- Implementation of the web crawler (Scrapy to collect property URLs).
 - Error and exception handling.
 - Integration of BeautifulSoup for extracting property details.
 - The prototype works with Scrapy.
-- Scrapy for HTTP requests and BeautifulSoup for HTML data extraction.
 
 ### Day 4 - Program Development:
 - Bug fixes and identified issues addressed.
-- Improvements in the structure of extracted data.
-- Challenges encountered in finding certain fields.
+- (Improvements in the structure of extracted data.)
+- Challenges encountered in finding certain fields.(adress)
 - Reflections on data usage and data cleaning.
-- Discovery of cleaning algorithms.
-- Consideration of implementing the "Jaccard algorithm."
+  - cleaning algorithms, Consideration of implementing the "Jaccard algorithm."
 
 ### Day 5 - Documentation and Finalization:
-- Addressing remaining minor bugs and making final improvements.
-- Speed testing to validate performance.
+- Code review
 - Writing the README file.
-- Code review to enhance readability and maintainability.
-- Discussion on adding comments in the code to explain complex sections or critical parts.
+- adding comments in the code or .
 - Preparation of the final project presentation.
 <br>
 <br>
