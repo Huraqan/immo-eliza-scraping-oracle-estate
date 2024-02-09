@@ -2,7 +2,50 @@
 
 ## Description
 
-We're building a web scraper to extract property listings from real estate websites. Initially using Requests and BeautifulSoup for prototyping, we are now harnassing the power of Scrapy.
+
+
+Oracle Estate is the robust and reliable real estate scraping program you've been waiting for to assist you with market analysis, competitive intelligence, or other real estate-related applications.
+
+Designed to extract, structure, and save real estate data from the immoweb.be website.
+
+Program Workflow:
+*****************
+
+* It traverses search pages on the site, collecting URLs of properties for sale (using the Scrapy library).
+* It extracts details of each property, such as URL, identifier, property type, price, etc. (using the BeautifulSoup library).
+* It structures the extracted data, adhering to a predefined list of authorized fields, ensuring consistency in data structure.
+* It saves the structured data in JSON and CSV files for later use.
+* It displays the total execution time of the process.
+
+
+Strengths:
+**********
+
+* Scalability and Flexibility: By using Scrapy and BeautifulSoup, the developer has chosen powerful and flexible tools for scraping. Scrapy efficiently manages HTTP requests and website navigation, while BeautifulSoup offers great flexibility in analyzing and extracting data from HTML.
+
+* Data Structuring: By structuring the extracted data according to a predefined list of authorized fields, the program ensures data consistency and homogeneity, facilitating their manipulation and later use.
+
+* Data Backup: Saving extracted data in JSON and CSV files offers great portability and allows them to be used in different contexts and with different data analysis and processing tools.
+
+* Error Handling and Execution Time: The program handles connection errors and displays the total execution time of the process, allowing the developer to monitor and optimize scraping performance.
+* Scalabilité et Flexibilité : En utilisant Scrapy et BeautifulSoup, le développeur a choisi des outils puissants et flexibles pour effectuer le scraping. Scrapy permet de gérer efficacement les requêtes HTTP et la navigation sur le site web, tandis que BeautifulSoup offre une grande souplesse dans l'analyse et l'extraction des données du HTML.
+
+
+Upcoming Improvement:
+*********************
+
+* Regarding data cleaning: 
+
+The use of Jaccard similarity to compare textual fields, such as address or price, between two real estate properties.
+(comparing the number of common elements divided by the total number of unique elements in the sets).
+
+We would use it with its notion of weighted similarity:
+(it assigns weights to each field, reflecting their relative importance in comparing duplicates.
+
+	=> fields considered more relevant, like address or price, can have higher weights.
+		=> more precise and customizable comparison of properties)
+
+
 
 ## Setup
 
@@ -14,12 +57,11 @@ We're building a web scraper to extract property listings from real estate websi
 Double click the `main.py` file to launch the script.
 Alternatively you an execute from an open terminal, from the project directory: `python main.py`
 
-You can pick a country from a list provided by the api.
-
 Data is stored as `output_json.json` and `output_csv.scv`.
 
-## Sources
 
+
+## Sources
 #### Learning resources
 - https://gist.github.com/Alinaprotsyuk/3d58f8cd52eb03a11283d64beb0e083e
 - https://docs.scrapy.org/en/latest/intro/tutorial.html#intro-tutorial
@@ -45,28 +87,50 @@ Data is stored as `output_json.json` and `output_csv.scv`.
 
 ## Timeline
 
-### Day 1: 
-- thing done
-- another thing done
-- yet some more
-- yetsum mipsum?
-- lorem ipsum...
-- lorem ipsum!
-+ nailed it.
+### Jour 1 - Compréhension du Projet :
 
-### Day 2:
-- first working prototype
+- Clarifications de nos objectifs.
+- Création du dépôt Git
+- Discussion sur le choix des outils : Scrapy, BeautifulSoup, Python, etc.
+- Discussion sur la structure du programme et les fonctionnalités attendues.
+- Discussion sur qui veut faire quoi : 
+	"tout le monde fait tout, nous mettons tout en commun 
+	et voyons comment chacun a fait pour en discuter	 
+	dans un but de d'amélioration et d'apprentissage."
 
-### Day 3:
-- shift in strategy
 
-### Day 4:
-- going back to some missing info
-- cleaning up and refactoring
+### Jour 2 - Développement du Programme :
+- Développement de la structure du main.
+- Chacun développe de son côté pour découvrir les problèmes qui surviennent et les questions qui se posent.
+- Encore quelques heures de développement et nous espérons arriver au First Working Prototype. 
 
-### Day 5:
-- finishing up the readme
-- presentation
+### Jour 3 - Développement du Programme :
+- Mise en commun, décision prise d'utiliser Scrapy pour permettre de gérer efficacement les requêtes HTTP.
+- Tout le monde se met en mode lecture pour découvrir Scrapy et ses fonctionalités.
+- Implémentation du web crawler avec Scrapy pour collecter les URL des propriétés.
+- Gestion des erreurs et des exceptions.
+- Intégration de BeautifulSoup pour l'extraction des détails des propriétés.
+- Le prototype fonctionne avec Scrapy
+- Scrapy pour les requêtes HTTP et BeautifulSoup pour l'extraction des données du HTML.
+
+### Jour 4 - Développement du Programme :
+- Correction des bugs et des problèmes identifiés.
+- Améliorations dans la structures des données extraites
+- Problèmes pour trouver certains champs.
+- Réflections sur les données à utiliser et le nettoyage des données.
+
+- Découverte des algorythmes de nettoyage.
+- Nous pensons mettre en place le "jaccard algortithm"
+
+### Jour 5 - Documentation et Finalisation :
+- Encore queques petits bugs et améliorations à s'occuper...
+- Tests de vitesse
+  Tests pour valider le bon fonctionnement.
+- Rédaction du README file.
+- Révision du code pour améliorer sa lisibilité et sa maintenabilité.
+- Discussion sur l'Ajout de commentaires dans le code pour expliquer les sections complexes ou les parties critiques.
+
+- Préparation de la présentation finale du projet.
 
 <br>
 <br>
