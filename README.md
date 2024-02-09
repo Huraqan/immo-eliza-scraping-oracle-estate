@@ -87,17 +87,6 @@ Data is stored as `output_json.json` and `output_csv.scv`.
 
 ## Timeline
 
-### Jour 1 - Compréhension du Projet :
-
-- Clarifications de nos objectifs.
-- Création du dépôt Git
-- Discussion sur le choix des outils : Scrapy, BeautifulSoup, Python, etc.
-- Discussion sur la structure du programme et les fonctionnalités attendues.
-- Discussion sur qui veut faire quoi : 
-	"tout le monde fait tout, nous mettons tout en commun 
-	et voyons comment chacun a fait pour en discuter	 
-	dans un but de d'amélioration et d'apprentissage."
-
 ### Day 1 - Project Understanding:
 - Clarification of our objectives.
 - Git repository creation.
@@ -107,13 +96,13 @@ Data is stored as `output_json.json` and `output_csv.scv`.
  "Everyone does everything, we put everything together and see how each person did it
   to discuss it for the purpose of improvement and learning."
 
-###Day 2 - Program Development:
+### Day 2 - Program Development:
 - Development of the main structure.
 - Each person develops independently to discover the problems that arise and the questions that arise.
 - A few more hours of development, and we hope to reach the First Working Prototype.
 
 
-###Day 3 - Program Development:
+### Day 3 - Program Development:
 - Sharing ideas, decision made to use Scrapy to efficiently handle HTTP requests.
 - Everyone switches to reading mode to discover Scrapy and its functionalities.
 - Implementation of the web crawler with Scrapy to collect property URLs.
