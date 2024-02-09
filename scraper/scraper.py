@@ -1,7 +1,6 @@
 from csv import DictWriter
 from bs4 import BeautifulSoup
 
-# from pandas import DataFrame
 from requests import Session
 
 
