@@ -1,8 +1,29 @@
+
 # ORACLE ● ESTATE
 
 ## Description
 
-We're building a web scraper to extract property listings from real estate websites. Initially using Requests and BeautifulSoup for prototyping, we are now harnassing the power of Scrapy.
+Oracle Estate is a robust and reliable real estate scraping program ready to assist you with market analysis, competitive intelligence, or other real estate-related applications.
+
+Designed to extract, structure, and save real estate data from the immoweb.be website.
+
+#### Program Workflow
+
+* It traverses search pages on the site, collecting URLs of properties for sale
+* It extracts details of each property, such as id, address, price, etc.
+* It extracts and stores all field names that it found
+* It structures the extracted data, adhering to a predefined list of authorized fields.
+* It saves the structured data in JSON and CSV files for later use.
+* It displays the total execution time of the process.
+
+#### Strengths
+* Scalability and Flexibility: Initially using Requests and BeautifulSoup for prototyping, we are now harnassing the power of Scrapy. Scrapy efficiently manages HTTP requests and CSS parsing. It additionally deals with requests asynchronously and handles concurrency very nicely.
+
+* Data Structuring: By structuring the extracted data according to a predefined list of authorized fields and remapping certain values, the program ensures data consistency, facilitating their manipulation.
+
+* Data Backup: Saving extracted data in JSON and CSV files offers great portability and allows them to be used in different contexts and with different data analysis and processing tools.
+
+* Error Handling: Since Scrapy handles all connection errors by itself, we can focus on other issues.
 
 ## Setup
 
@@ -14,9 +35,7 @@ We're building a web scraper to extract property listings from real estate websi
 Double click the `main.py` file to launch the script.
 Alternatively you an execute from an open terminal, from the project directory: `python main.py`
 
-You can pick a country from a list provided by the api.
-
-Data is stored as `output_json.json` and `output_csv.scv`.
+Data is stored as `output.json` and `output.csv`.
 
 ## Sources
 
@@ -144,3 +163,14 @@ We might need to delve into `scrapy-selenium` or `scrapy-splash` to deal with dy
 Our trajectory continues with some enhancements:
 - Loading config from files
 - Enhanced interaction from user
+- Exploring the Jaccard algorithm 
+
+The use of Jaccard similarity to compare two listings may be of use. We might look into it further.
+
+Comparing the number of common elements divided by the total number of unique elements in the sets.
+
+We would use it with its notion of weighted similarity:
+it assigns weights to each field, reflecting their relative importance in comparing duplicates.
+
+	=> fields considered more relevant, like address or price, can have higher weights.
+		=> more precise and customizable comparison of properties
