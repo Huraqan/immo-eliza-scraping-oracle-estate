@@ -98,40 +98,45 @@ Data is stored as `output_json.json` and `output_csv.scv`.
 	et voyons comment chacun a fait pour en discuter	 
 	dans un but de d'amélioration et d'apprentissage."
 
+### Day 1 - Project Understanding:
+- Clarification of our objectives.
+- Git repository creation.
+- Discussion on tool selection: Scrapy, BeautifulSoup, Python, etc.
+- Discussion on program structure and expected features.
+- Discussion on who wants to do what:
+ "Everyone does everything, we put everything together and see how each person did it
+  to discuss it for the purpose of improvement and learning."
 
-### Jour 2 - Développement du Programme :
-- Développement de la structure du main.
-- Chacun développe de son côté pour découvrir les problèmes qui surviennent et les questions qui se posent.
-- Encore quelques heures de développement et nous espérons arriver au First Working Prototype. 
+###Day 2 - Program Development:
+- Development of the main structure.
+- Each person develops independently to discover the problems that arise and the questions that arise.
+- A few more hours of development, and we hope to reach the First Working Prototype.
 
-### Jour 3 - Développement du Programme :
-- Mise en commun, décision prise d'utiliser Scrapy pour permettre de gérer efficacement les requêtes HTTP.
-- Tout le monde se met en mode lecture pour découvrir Scrapy et ses fonctionalités.
-- Implémentation du web crawler avec Scrapy pour collecter les URL des propriétés.
-- Gestion des erreurs et des exceptions.
-- Intégration de BeautifulSoup pour l'extraction des détails des propriétés.
-- Le prototype fonctionne avec Scrapy
-- Scrapy pour les requêtes HTTP et BeautifulSoup pour l'extraction des données du HTML.
 
-### Jour 4 - Développement du Programme :
-- Correction des bugs et des problèmes identifiés.
-- Améliorations dans la structures des données extraites
-- Problèmes pour trouver certains champs.
-- Réflections sur les données à utiliser et le nettoyage des données.
+###Day 3 - Program Development:
+- Sharing ideas, decision made to use Scrapy to efficiently handle HTTP requests.
+- Everyone switches to reading mode to discover Scrapy and its functionalities.
+- Implementation of the web crawler with Scrapy to collect property URLs.
+- Error and exception handling.
+- Integration of BeautifulSoup for extracting property details.
+- The prototype works with Scrapy.
+- Scrapy for HTTP requests and BeautifulSoup for HTML data extraction.
 
-- Découverte des algorythmes de nettoyage.
-- Nous pensons mettre en place le "jaccard algortithm"
+### Day 4 - Program Development:
+- Bug fixes and identified issues addressed.
+- Improvements in the structure of extracted data.
+- Challenges encountered in finding certain fields.
+- Reflections on data usage and data cleaning.
+- Discovery of cleaning algorithms.
+- Consideration of implementing the "Jaccard algorithm."
 
-### Jour 5 - Documentation et Finalisation :
-- Encore queques petits bugs et améliorations à s'occuper...
-- Tests de vitesse
-  Tests pour valider le bon fonctionnement.
-- Rédaction du README file.
-- Révision du code pour améliorer sa lisibilité et sa maintenabilité.
-- Discussion sur l'Ajout de commentaires dans le code pour expliquer les sections complexes ou les parties critiques.
-
-- Préparation de la présentation finale du projet.
-
+### Day 5 - Documentation and Finalization:
+- Addressing remaining minor bugs and making final improvements.
+- Speed testing to validate performance.
+- Writing the README file.
+- Code review to enhance readability and maintainability.
+- Discussion on adding comments in the code to explain complex sections or critical parts.
+- Preparation of the final project presentation.
 <br>
 <br>
 
