@@ -1,7 +1,4 @@
 .DS_Strore
-scraper/scrapy_mark.py
-scraper/scraping.py
-scraper/scraper.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
