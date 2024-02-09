@@ -118,7 +118,6 @@ Data is stored as `output_json.json` and `output_csv.scv`.
 ### Day 5 - Documentation and Finalization:
 - Code review
 - Writing the README file.
-- adding comments in the code or .
 - Preparation of the final project presentation.
 <br>
 <br>
