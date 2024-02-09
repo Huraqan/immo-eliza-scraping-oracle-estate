@@ -2,21 +2,28 @@
 
 ## Description
 
-We're building a web scraper to extract property listings from real estate websites. Initially using Requests and BeautifulSoup for prototyping, we are now harnassing the power of Scrapy.
+Oracle Estate is a robust and reliable real estate scraping program ready to assist you with market analysis, competitive intelligence, or other real estate-related applications.
 
-## Setup
+Designed to extract, structure, and save real estate data from the immoweb.be website.
 
-- Python interpreter is needed: install python from https://www.python.org/downloads/
-- Make sure to install the required packages by executing the following command: `pip install -r requirements.txt`
+#### Program Workflow
 
-## Usage
+* It traverses search pages on the site, collecting URLs of properties for sale
+* It extracts details of each property, such as id, address, price, etc.
+* It extracts and stores all field names that it found
+* It structures the extracted data, adhering to a predefined list of authorized fields.
+* It saves the structured data in JSON and CSV files for later use.
+* It displays the total execution time of the process.
 
-Double click the `main.py` file to launch the script.
-Alternatively you an execute from an open terminal, from the project directory: `python main.py`
+#### Strengths
+* Scalability and Flexibility: Initially using Requests and BeautifulSoup for prototyping, we are now harnassing the power of Scrapy. Scrapy efficiently manages HTTP requests and CSS parsing. It additionally deals with requests asynchronously and handles concurrency very nicely.
 
-You can pick a country from a list provided by the api.
+* Data Structuring: By structuring the extracted data according to a predefined list of authorized fields and remapping certain values, the program ensures data consistency, facilitating their manipulation.
 
-Data is stored as `output_json.json` and `output_csv.scv`.
+* Data Backup: Saving extracted data in JSON and CSV files offers great portability and allows them to be used in different contexts and with different data analysis and processing tools.
+
+* Error Handling: Since Scrapy handles all connection errors by itself, we can focus on other issues.
+
 
 ## Sources
 
@@ -45,28 +52,37 @@ Data is stored as `output_json.json` and `output_csv.scv`.
 
 ## Timeline
 
-### Day 1: 
-- thing done
-- another thing done
-- yet some more
-- yetsum mipsum?
-- lorem ipsum...
-- lorem ipsum!
-+ nailed it.
+### Day 1 - Project Understanding:
+- Clarification of our objectives.
+- Git repository creation.
+- Discussion on program structure and expected features, tool selection: Scrapy, BeautifulSoup, Python, etc.
+- Wdho wants to do what:
+    "Everyone does everything, we put everything together and see how each person did it
+     to discuss it for the purpose of improvement and learning."
 
-### Day 2:
-- first working prototype
+### Day 2 - Program Development:
+- Each person develops independently to discover the problems and the questions that arise.
+- A few more hours of development, and we hope to reach the First Working Prototype.
 
-### Day 3:
-- shift in strategy
+### Day 3 - Program Development:
+- Decision made to use Scrapy to efficiently handle HTTP requests.
+- Everyone switches to reading mode to discover Scrapy and its functionalities.
+- Implementation of the web crawler (Scrapy to collect property URLs).
+- Error and exception handling.
+- Integration of BeautifulSoup for extracting property details.
+- The prototype works with Scrapy.
 
-### Day 4:
-- going back to some missing info
-- cleaning up and refactoring
+### Day 4 - Program Development:
+- Bug fixes and identified issues addressed.
+- (Improvements in the structure of extracted data.)
+- Challenges encountered in finding certain fields.(adress)
+- Reflections on data usage and data cleaning.
+  - cleaning algorithms, Consideration of implementing the "Jaccard algorithm."
 
-### Day 5:
-- finishing up the readme
-- presentation
+### Day 5 - Documentation and Finalization:
+- Code review
+- Writing the README file.
+- Preparation of the final project presentation.
 
 <br>
 <br>
