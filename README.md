@@ -96,7 +96,7 @@ Data is stored as `output_json.json` and `output_csv.scv`.
 ### Duplicate URLS
 <img src="duplicates.png" align="right" width="225px"/>
 
-We have noticed that some listings contain exactly the same data. This could be resolved by going through the data and removing any points that have the same address.
+We have noticed that some many listings contain the same address. Some could duplicates could be filtered by going through the data and removing any points that have the same address. Some listings however only show the agency's address. For this a new approach is necessary.
 
 Other duplicates may be attributed to identical listings across different pages of search results, often marked as "new". To resolve this issue, we can simply add urls to a set, ensuring the elimination of duplicates.
 
@@ -121,6 +121,9 @@ This first approach becomes redundant when we decide to switch over to Scrapy en
 
 Our initial solution to resolve duplicate urls also becomes obsolete thanks to Scrapy's built-in dupefilter.
 
+### Some missing fields
+Dynamically loaded content is likely to be a culprit. Further investigation is needed.
+
 ### 200K!?
 People are talking, saying it might not just be a legend. We've figured out a trick, but we're still a long way from those results.
 
@@ -129,16 +132,15 @@ People are talking, saying it might not just be a legend. We've figured out a tr
 
 ## Unveiling the Matrix
 
-A journey into the heart of the data begins as we decode the patterns, and unlock the potential within. Our quest will involve harnessing the power of pandas and numpy, matplotlib or possibly ggplot2 (plotnine for Python) and any other relevant libraries we might discover.
+A journey into the heart of the data begins as we decode the patterns, and unlock the potential within. Our quest will involve harnessing the power of `pandas` and `numpy`, `matplotlib` or possibly `plotnine` and any other relevant libraries we might discover.
 
 <br>
 <br>
 
 ## What's next?
 
-We're still addressing potential character encoding issues in the dataset.
+We might need to delve into `scrapy-selenium` or `scrapy-splash` to deal with dynamically loaded content.
 
-Our trajectory continues with some scalability enhancements:
+Our trajectory continues with some enhancements:
 - Loading config from files
 - Enhanced interaction from user
-- Different spiders for different websites
