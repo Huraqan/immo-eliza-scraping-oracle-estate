@@ -8,6 +8,7 @@ Oracle Estate is a robust and reliable real estate scraping program ready to ass
 Designed to extract, structure, and save real estate data from the immoweb.be website.
 
 #### Program Workflow
+
 * It traverses search pages on the site, collecting URLs of properties for sale
 * It extracts details of each property, such as id, address, price, etc.
 * It extracts and stores all field names that it found

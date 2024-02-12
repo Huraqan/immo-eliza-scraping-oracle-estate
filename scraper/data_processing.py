@@ -135,14 +135,14 @@ value_mapping = {
 # classified__information--address-row ???? dynamically loaded
 
 def fill_attributes(response, property_dictionary):
-    address_index = 1
-    print("searching for span")
-    for span in response.css("span.classified__information--address-row"):
-        print("span found")
-        span_text = span.css("::text").get()
-        print(type(span_text), span_text)
-        property_dictionary["AAddress " + str(address_index)] = span_text.replace("\n", "").strip()
-        address_index +=1
+    # address_index = 1
+    # print("searching for span")
+    # for span in response.css("span.classified__information--address-row"):
+    #     print("span found")
+    #     span_text = span.css("::text").get()
+    #     print(type(span_text), span_text)
+    #     property_dictionary["AAddress " + str(address_index)] = span_text.replace("\n", "").strip()
+    #     address_index +=1
     
     for row in response.css("tr.classified-table__row"):
         key = row.css("th.classified-table__header::text").get()
@@ -186,7 +186,7 @@ def restructure_data():
 def filter_duplicates(data: list) -> list:
     print("\nFiltering duplicates... ")
     new_data = []
-    list_of_adresses = list()
+    # list_of_adresses = list()
     list_of_tuples = list()
     
     for dictionary in data:
