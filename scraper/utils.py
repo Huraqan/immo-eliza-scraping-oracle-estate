@@ -28,10 +28,10 @@ def get_immo_dictionary(response) -> dict:
     property_type = "house" if split_url[0] in house_subtypes else "appartment"
     
     property_dictionary = {
-        "url": response.url,
-        "Property ID": int(split_url[4]),
+        "Url": response.url,
+        "Property ID": split_url[4],
         "Locality name": split_url[2],
-        "Postal code": int(split_url[3]),
+        "Postal code": split_url[3],
         "Price": price,
         "Type of property": property_type,
         "Subtype of property": split_url[0],

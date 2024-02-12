@@ -10,9 +10,6 @@ import json
 
 
 allowed_field_names = [
-    "AAddress 1",
-    "AAddress 2",
-    "AAddress 3",
     "Address",
     "Age of annuitant",
     "Age of annuitants",
@@ -93,8 +90,8 @@ allowed_field_names = [
     "Professional space",
     "Professional space surface",
     "Property name",
-    "Reference number of the EPC report",
-    "Reversionary annuity",
+    # "Reference number of the EPC report",
+    # "Reversionary annuity",
     "Sea view",
     "Shower rooms",
     "Single session",
@@ -115,7 +112,7 @@ allowed_field_names = [
     "Type of building",
     "Wooded land",
     "Yearly theoretical total energy consumption",
-    "Id",
+    "Property ID",
     "Locality name",
     "Postal code",
     "Price",
@@ -158,7 +155,7 @@ def fill_attributes(response, property_dictionary):
             continue
 
         try:
-            value = int(value)
+            value = int(value) if key not in ["Property ID", "Postal code", "External reference"] else value
         except ValueError:
             value = value_mapping.get(value, value)
         
@@ -166,10 +163,8 @@ def fill_attributes(response, property_dictionary):
             value = 0 if value == "Not installed" else 1
         
         if key == "How many fireplaces?":
-            # key = "Fireplaces"
             value = 0 if value == 0 else 1
 
-        # if key in property_dictionary.keys():
         if key in allowed_field_names:
             property_dictionary[key] = value
 
@@ -178,7 +173,7 @@ def restructure_data():
     print("\nRestructuring data...")
     with open("data/raw/output.json", "r") as file:
         list_of_dictionaries = json.load(file)
-        list_of_dictionaries = filter_duplicates(list_of_dictionaries)
+        # list_of_dictionaries = filter_duplicates(list_of_dictionaries)
         extract_field_names(list_of_dictionaries)
         structure_dictionaries(list_of_dictionaries)
     print("\nDONE.")
@@ -186,7 +181,6 @@ def restructure_data():
 def filter_duplicates(data: list) -> list:
     print("\nFiltering duplicates... ")
     new_data = []
-    # list_of_adresses = list()
     list_of_tuples = list()
     
     for dictionary in data:
@@ -199,9 +193,6 @@ def filter_duplicates(data: list) -> list:
                 print("Also no reference... skipping this one.")
                 continue
         
-        # if address not in list_of_adresses:
-        #     list_of_adresses.append(address)
-        #     new_data.append(dictionary)
         if (address, reference) not in list_of_tuples:
             list_of_tuples.append((address, reference))
             new_data.append(dictionary)

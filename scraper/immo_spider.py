@@ -4,7 +4,7 @@ import scrapy
 from scraper.utils import get_immo_dictionary
 from scraper.data_processing import fill_attributes
 
-search_pages_to_scrape = 333
+search_pages_to_scrape = 100
 
 url_head = "https://www.immoweb.be/en/search/house/for-sale?countries=BE&page="
 url_tail = "&orderBy=postal_code"
