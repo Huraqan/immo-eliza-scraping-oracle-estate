@@ -1,7 +1,12 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> e348691068ab5448c9deefa3138d5cbc5d7544e1
 # ORACLE ● ESTATE
 
 ## Description
 
+<<<<<<< HEAD
 
 
 Oracle Estate is the robust and reliable real estate scraping program you've been waiting for to assist you with market analysis, competitive intelligence, or other real estate-related applications.
@@ -46,6 +51,29 @@ We would use it with its notion of weighted similarity:
 		=> more precise and customizable comparison of properties)
 
 
+=======
+Oracle Estate is a robust and reliable real estate scraping program ready to assist you with market analysis, competitive intelligence, or other real estate-related applications.
+
+Designed to extract, structure, and save real estate data from the immoweb.be website.
+
+#### Program Workflow
+
+* It traverses search pages on the site, collecting URLs of properties for sale
+* It extracts details of each property, such as id, address, price, etc.
+* It extracts and stores all field names that it found
+* It structures the extracted data, adhering to a predefined list of authorized fields.
+* It saves the structured data in JSON and CSV files for later use.
+* It displays the total execution time of the process.
+
+#### Strengths
+* Scalability and Flexibility: Initially using Requests and BeautifulSoup for prototyping, we are now harnassing the power of Scrapy. Scrapy efficiently manages HTTP requests and CSS parsing. It additionally deals with requests asynchronously and handles concurrency very nicely.
+
+* Data Structuring: By structuring the extracted data according to a predefined list of authorized fields and remapping certain values, the program ensures data consistency, facilitating their manipulation.
+
+* Data Backup: Saving extracted data in JSON and CSV files offers great portability and allows them to be used in different contexts and with different data analysis and processing tools.
+
+* Error Handling: Since Scrapy handles all connection errors by itself, we can focus on other issues.
+>>>>>>> e348691068ab5448c9deefa3138d5cbc5d7544e1
 
 ## Setup
 
@@ -57,11 +85,18 @@ We would use it with its notion of weighted similarity:
 Double click the `main.py` file to launch the script.
 Alternatively you an execute from an open terminal, from the project directory: `python main.py`
 
+<<<<<<< HEAD
 Data is stored as `output_json.json` and `output_csv.scv`.
 
 
 
 ## Sources
+=======
+Data is stored as `output.json` and `output.csv`.
+
+## Sources
+
+>>>>>>> e348691068ab5448c9deefa3138d5cbc5d7544e1
 #### Learning resources
 - https://gist.github.com/Alinaprotsyuk/3d58f8cd52eb03a11283d64beb0e083e
 - https://docs.scrapy.org/en/latest/intro/tutorial.html#intro-tutorial
@@ -87,6 +122,7 @@ Data is stored as `output_json.json` and `output_csv.scv`.
 
 ## Timeline
 
+<<<<<<< HEAD
 ### Day 1 - Project Understanding:
 - Clarification of our objectives.
 - Git repository creation.
@@ -119,6 +155,31 @@ Data is stored as `output_json.json` and `output_csv.scv`.
 - Code review
 - Writing the README file.
 - Preparation of the final project presentation.
+=======
+### Day 1: 
+- thing done
+- another thing done
+- yet some more
+- yetsum mipsum?
+- lorem ipsum...
+- lorem ipsum!
++ nailed it.
+
+### Day 2:
+- first working prototype
+
+### Day 3:
+- shift in strategy
+
+### Day 4:
+- going back to some missing info
+- cleaning up and refactoring
+
+### Day 5:
+- finishing up the readme
+- presentation
+
+>>>>>>> e348691068ab5448c9deefa3138d5cbc5d7544e1
 <br>
 <br>
 
@@ -195,3 +256,17 @@ We might need to delve into `scrapy-selenium` or `scrapy-splash` to deal with dy
 Our trajectory continues with some enhancements:
 - Loading config from files
 - Enhanced interaction from user
+<<<<<<< HEAD
+=======
+- Exploring the Jaccard algorithm 
+
+The use of Jaccard similarity to compare two listings may be of use. We might look into it further.
+
+Comparing the number of common elements divided by the total number of unique elements in the sets.
+
+We would use it with its notion of weighted similarity:
+it assigns weights to each field, reflecting their relative importance in comparing duplicates.
+
+	=> fields considered more relevant, like address or price, can have higher weights.
+		=> more precise and customizable comparison of properties
+>>>>>>> e348691068ab5448c9deefa3138d5cbc5d7544e1
