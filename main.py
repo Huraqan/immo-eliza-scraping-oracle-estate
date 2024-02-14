@@ -1,17 +1,9 @@
 from time import perf_counter
 
-from scraper.data_processing import restructure_data
+# from scraper.data_processing import restructure_data
 from scraper.deployment import deploy_crawler
 
-if __name__ == "__main__":
-    print(
-        "\n"
-        + "\n================================================================="
-        + "\n||                        ORACLE-ESTATE                        ||"
-        + "\n================================================================="
-        + "\n"
-    )
-
+def scrape():
     t = perf_counter()
 
     deploy_crawler()
@@ -25,7 +17,18 @@ if __name__ == "__main__":
         t % 60,
         "seconds.",
     )
+
+if __name__ == "__main__":
+    print(
+        "\n"
+        + "\n================================================================="
+        + "\n||                        ORACLE-ESTATE                        ||"
+        + "\n================================================================="
+        + "\n"
+    )
+
+    scrape()
     
-    restructure_data()
+    # restructure_data()
 
     print("\n\nThank you for choosing ORACLE-ESTATE!\n\n")
