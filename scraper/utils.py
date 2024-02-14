@@ -1,4 +1,4 @@
-
+import re
 
 house_subtypes = [
     "bungalow",
@@ -18,12 +18,14 @@ house_subtypes = [
     "house",
 ]
 
+compiled_price_pattern = re.compile("[0-9]+")
 
 def get_immo_dictionary(response) -> dict:
     split_url = response.url[37:].split("/")
     
     price = response.css("p.classified__price span.sr-only::text").get()
-    price = price.replace("€", "")
+    # price = price.replace("€", "")
+    price = int(compiled_price_pattern.findall(price)[0])
     
     property_type = "house" if split_url[0] in house_subtypes else "appartment"
     
@@ -42,9 +44,9 @@ def get_immo_dictionary(response) -> dict:
         "Furnished": 0,
         "How many fireplaces?": 0,
         "Terrace surface": None,
-        "Garden surface": None,  # sometimes in description only
+        "Garden surface": None,
         "Surface of the plot": None,
-        "Number of facades": None,  # from description
+        "Number of frontages": None,
         "Swimming pool": 0,
         "Building condition": None,
     }

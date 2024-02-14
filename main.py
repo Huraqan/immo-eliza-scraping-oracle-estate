@@ -1,6 +1,6 @@
 from time import perf_counter
 
-from scraper.data_processing import restructure_data
+# from scraper.data_processing import restructure_data
 from scraper.deployment import deploy_crawler
 
 def scrape():
@@ -29,6 +29,6 @@ if __name__ == "__main__":
 
     scrape()
     
-    restructure_data()
+    # restructure_data()
 
     print("\n\nThank you for choosing ORACLE-ESTATE!\n\n")

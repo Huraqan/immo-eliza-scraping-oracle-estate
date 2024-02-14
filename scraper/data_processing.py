@@ -119,7 +119,7 @@ allowed_field_names = [
     "Property subtype",
     "Property type",
     "Type of sale",
-    "Url",
+    # "Url",
 ]
 
 
