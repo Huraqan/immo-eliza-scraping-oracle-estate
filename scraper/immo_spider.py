@@ -90,7 +90,7 @@ class ImmoSpider(scrapy.Spider):
         price = response.css("p.classified__price span.sr-only::text").get()
         # price = int(compiled_price_pattern.findall(price)[0])
         
-        property_type = "house" if split_url[0] in house_subtypes else "appartment"
+        property_type = "house" if split_url[0] in house_subtypes else "apartment"
         
         property_dictionary = {
             "Url": response.url,
