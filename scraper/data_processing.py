@@ -90,8 +90,8 @@ allowed_field_names = [
     "Professional space",
     "Professional space surface",
     "Property name",
-    "Reference number of the EPC report",
-    "Reversionary annuity",
+    # "Reference number of the EPC report",
+    # "Reversionary annuity",
     "Sea view",
     "Shower rooms",
     "Single session",
@@ -112,14 +112,14 @@ allowed_field_names = [
     "Type of building",
     "Wooded land",
     "Yearly theoretical total energy consumption",
-    "Id",
+    "Property ID",
     "Locality name",
     "Postal code",
     "Price",
     "Property subtype",
     "Property type",
     "Type of sale",
-    "Url",
+    # "Url",
 ]
 
 
@@ -129,8 +129,18 @@ value_mapping = {
     "Not specified": None
 }
 
+# classified__information--address-row ???? dynamically loaded
 
 def fill_attributes(response, property_dictionary):
+    # address_index = 1
+    # print("searching for span")
+    # for span in response.css("span.classified__information--address-row"):
+    #     print("span found")
+    #     span_text = span.css("::text").get()
+    #     print(type(span_text), span_text)
+    #     property_dictionary["AAddress " + str(address_index)] = span_text.replace("\n", "").strip()
+    #     address_index +=1
+    
     for row in response.css("tr.classified-table__row"):
         key = row.css("th.classified-table__header::text").get()
         value = row.css("td.classified-table__data::text").get()
@@ -145,7 +155,7 @@ def fill_attributes(response, property_dictionary):
             continue
 
         try:
-            value = int(value)
+            value = int(value) if key not in ["Property ID", "Postal code", "External reference"] else value
         except ValueError:
             value = value_mapping.get(value, value)
         
@@ -153,23 +163,47 @@ def fill_attributes(response, property_dictionary):
             value = 0 if value == "Not installed" else 1
         
         if key == "How many fireplaces?":
-            # key = "Fireplaces"
             value = 0 if value == 0 else 1
 
-        # if key in property_dictionary.keys():
         if key in allowed_field_names:
             property_dictionary[key] = value
 
 
 def restructure_data():
-    print("\nRetructuring data... ", end="")
+    print("\nRestructuring data...")
     with open("data/raw/output.json", "r") as file:
         list_of_dictionaries = json.load(file)
+        # list_of_dictionaries = filter_duplicates(list_of_dictionaries)
         extract_field_names(list_of_dictionaries)
         structure_dictionaries(list_of_dictionaries)
-    print("DONE.")
+    print("\nDONE.")
+
+def filter_duplicates(data: list) -> list:
+    print("\nFiltering duplicates... ")
+    new_data = []
+    list_of_tuples = list()
+    
+    for dictionary in data:
+        address = dictionary.get("Address")
+        reference = dictionary.get("External reference")
+        
+        if not address:
+            print("No adress:", dictionary["url"])
+            if not reference:
+                print("Also no reference... skipping this one.")
+                continue
+        
+        if (address, reference) not in list_of_tuples:
+            list_of_tuples.append((address, reference))
+            new_data.append(dictionary)
+        else:
+            print("Duplicate found! Ext ref:", dictionary.get("External reference"), "address:", address, dictionary["url"])
+    
+    return new_data
+        
 
 def extract_field_names(data: list):# -> list:
+    print("\nExtracting field names... ")
     set_of_field_names = set()
 
     for dictionary in data:
@@ -184,6 +218,7 @@ def extract_field_names(data: list):# -> list:
     # return sorted_field_names
 
 def structure_dictionaries(data: list):# -> list:
+    print("\nStructuring dictionaries... ")
 
     final_dictionaries = []
     field_name_occurences = {field_name: 0 for field_name in allowed_field_names}
