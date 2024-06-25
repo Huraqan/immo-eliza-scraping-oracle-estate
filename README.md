@@ -58,7 +58,6 @@ Oracle Estate is a robust and reliable designed to extract, structure, and save 
 - Preparation of the final project presentation.
 
 <br>
-<br>
 
 # DEV LOG
 
@@ -77,7 +76,6 @@ Oracle Estate is a robust and reliable designed to extract, structure, and save 
 - Parsing html table rows to extract attributes
 - Storing attriutes to `JSON` file as a list of dictionaries
 
-<br>
 <br>
 
 ## Preparing for unforseen consequences...
@@ -117,20 +115,17 @@ Dynamically loaded content is likely to be a culprit. Further investigation is n
 People are talking, saying it might not just be a legend. We've figured out a trick, but we're still a long way from those results.
 
 <br>
-<br>
 
 ## Unveiling the Matrix
 
 A journey into the heart of the data begins as we decode the patterns, and unlock the potential within. Our quest will involve harnessing the power of `pandas` and `numpy`, `matplotlib` or possibly `plotnine` and any other relevant libraries we might discover.
 
 <br>
-<br>
 
 ## What's next?
 
 We might need to delve into `scrapy-selenium` or `scrapy-splash` to deal with dynamically loaded content.
 
-<br>
 <br>
 
 ## Sources
