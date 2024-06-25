@@ -23,31 +23,6 @@ Oracle Estate is a robust and reliable designed to extract, structure, and save 
 * Error Handling: Since Scrapy handles all connection errors by itself, we can focus on other issues.
 
 
-## Sources
-
-#### Learning resources
-- https://gist.github.com/Alinaprotsyuk/3d58f8cd52eb03a11283d64beb0e083e
-- https://docs.scrapy.org/en/latest/intro/tutorial.html#intro-tutorial
-
-#### Markdown goodies
-- https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061
-- https://www.alt-codes.net/circle-symbols
-- https://daringfireball.net/projects/markdown/syntax#html
-
-## Contributors
-
-<div style="display: flex; align-items: center;">
-    <a href="https://github.com/Huraqan">
-        <img src="https://github.com/Huraqan.png" alt="Sebastiaan Indesteege" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 10px;">
-    </a>
-    <a href="https://github.com/pr0fi7">
-        <img src="https://github.com/pr0fi7.png" alt="Mark Shevchenko" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 10px;">
-    </a>
-    <a href="https://github.com/neverforgetthisusername">
-        <img src="https://github.com/neverforgetthisusername.png" alt="Cédric" style="border-radius: 50%; width: 200px; height: 200px;">
-    </a>
-</div>
-
 ## Timeline
 
 ### Day 1 - Project Understanding:
@@ -154,3 +129,31 @@ A journey into the heart of the data begins as we decode the patterns, and unloc
 ## What's next?
 
 We might need to delve into `scrapy-selenium` or `scrapy-splash` to deal with dynamically loaded content.
+
+<br>
+<br>
+
+## Sources
+
+#### Learning resources
+- https://gist.github.com/Alinaprotsyuk/3d58f8cd52eb03a11283d64beb0e083e
+- https://docs.scrapy.org/en/latest/intro/tutorial.html#intro-tutorial
+
+#### Markdown goodies
+- https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061
+- https://www.alt-codes.net/circle-symbols
+- https://daringfireball.net/projects/markdown/syntax#html
+
+## Contributors
+
+<div style="display: flex; align-items: center;">
+    <a href="https://github.com/Huraqan">
+        <img src="https://github.com/Huraqan.png" alt="Sebastiaan Indesteege" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 10px;">
+    </a>
+    <a href="https://github.com/pr0fi7">
+        <img src="https://github.com/pr0fi7.png" alt="Mark Shevchenko" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 10px;">
+    </a>
+    <a href="https://github.com/neverforgetthisusername">
+        <img src="https://github.com/neverforgetthisusername.png" alt="Cédric" style="border-radius: 50%; width: 200px; height: 200px;">
+    </a>
+</div>
