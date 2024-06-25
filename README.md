@@ -2,9 +2,7 @@
 
 ## Description
 
-Oracle Estate is a robust and reliable real estate scraping program ready to assist you with market analysis, competitive intelligence, or other real estate-related applications.
-
-Designed to extract, structure, and save real estate data from the immoweb.be website.
+Oracle Estate is a robust and reliable designed to extract, structure, and save real estate data from the immoweb.be website. It is based on scrapy.
 
 #### Program Workflow
 
@@ -42,8 +40,8 @@ Designed to extract, structure, and save real estate data from the immoweb.be we
     <a href="https://github.com/Huraqan">
         <img src="https://github.com/Huraqan.png" alt="Sebastiaan Indesteege" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 10px;">
     </a>
-    <a href="https://github.com/Lucky-sketch">
-        <img src="https://github.com/Lucky-sketch.png" alt="Mark Shevchenko" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 10px;">
+    <a href="https://github.com/pr0fi7">
+        <img src="https://github.com/pr0fi7.png" alt="Mark Shevchenko" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 10px;">
     </a>
     <a href="https://github.com/neverforgetthisusername">
         <img src="https://github.com/neverforgetthisusername.png" alt="Cédric" style="border-radius: 50%; width: 200px; height: 200px;">
@@ -156,7 +154,3 @@ A journey into the heart of the data begins as we decode the patterns, and unloc
 ## What's next?
 
 We might need to delve into `scrapy-selenium` or `scrapy-splash` to deal with dynamically loaded content.
-
-Our trajectory continues with some enhancements:
-- Loading config from files
-- Enhanced interaction from user
