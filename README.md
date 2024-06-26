@@ -2,7 +2,7 @@
 
 ## Description
 
-Oracle Estate is a robust and reliable designed to extract, structure, and save real estate data from the immoweb.be website. It is based on scrapy.
+Oracle Estate is a robust and reliable tool designed to extract, structure, and save real estate data from the immoweb.be website. It is based on scrapy.
 
 #### Program Workflow
 
