@@ -8,7 +8,6 @@ Oracle Estate is a robust and reliable tool designed to extract, structure, and 
 
 * It traverses search pages on the site, collecting URLs of properties for sale
 * It extracts details of each property, such as id, address, price, etc.
-* It extracts and stores all field names that it found
 * It structures the extracted data, adhering to a predefined list of authorized fields.
 * It saves the structured data in JSON and CSV files for later use.
 * It displays the total execution time of the process.
